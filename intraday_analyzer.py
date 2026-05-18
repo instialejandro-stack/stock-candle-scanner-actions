@@ -22,6 +22,7 @@ DAILY_PERIOD = "60d"
 DAILY_INTERVAL = "1d"
 INTRADAY_PERIOD = "2d"
 INTRADAY_INTERVAL = "5m"
+NEWS_CHECK_DEFAULT = "Pendiente revisión manual"
 
 INPUT_COLUMNS = [
     "rank",
@@ -67,6 +68,7 @@ OUTPUT_COLUMNS = [
     "gap_pct",
     "score",
     "classification",
+    "news_check",
     "notes",
 ]
 
@@ -82,6 +84,7 @@ MARKDOWN_COLUMNS = [
     "gap_pct",
     "score",
     "classification",
+    "news_check",
     "notes",
 ]
 
@@ -594,6 +597,7 @@ def analyze_ticker(row: pd.Series) -> tuple[dict | None, str | None]:
             "gap_pct": gap_pct,
             "score": score,
             "classification": classification,
+            "news_check": NEWS_CHECK_DEFAULT,
             "notes": build_notes(
                 body_pct=body_pct,
                 relative_volume=relative_volume,
@@ -715,6 +719,24 @@ def build_markdown_summary(df: pd.DataFrame) -> str:
         f"- Baja prioridad: {counts['Baja prioridad']}\n"
         f"- Descartar: {counts['Descartar']}\n"
         f"- Mejor candidata: {best_candidate_summary(df)}\n"
+        f"- Revisión de noticias: {NEWS_CHECK_DEFAULT}\n"
+    )
+
+
+def manual_review_section() -> str:
+    return (
+        "## Revisión manual antes de operar\n\n"
+        "Antes de considerar cualquier operación intradía, especialmente en candidatas "
+        "de Alta prioridad o Media prioridad, revisar manualmente:\n\n"
+        "- Noticias recientes del ticker.\n"
+        "- Si la empresa presenta resultados hoy, mañana o los presentó recientemente.\n"
+        "- Movimiento premarket o apertura europea/estadounidense.\n"
+        "- Spread disponible en Trade Republic.\n"
+        "- Liquidez real en el momento de la entrada.\n"
+        "- Contexto general del mercado.\n"
+        "- Contexto del sector.\n"
+        "- Nivel de entrada, stop loss y objetivo de salida.\n"
+        "- Si el movimiento previo fue por noticia puntual ya descontada.\n"
     )
 
 
@@ -728,6 +750,7 @@ def save_markdown_report(df: pd.DataFrame) -> None:
         f"Fecha de generación: {generated_at}\n\n"
         f"{build_markdown_summary(formatted)}\n"
         f"{table}\n\n"
+        f"{manual_review_section()}\n"
         "## Advertencia de riesgo\n\n"
         f"{RISK_WARNING}\n"
     )

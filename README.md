@@ -148,6 +148,23 @@ Despues de calcular el score se aplica un limite por volumen medio de 20 sesione
 
 Cuando esta regla limita una accion, la columna `notes` lo indica.
 
+## Revisión manual antes de operar
+
+El sistema no analiza noticias automáticamente. La columna `news_check` indica `Pendiente revisión manual` para recordar que la validación de noticias, resultados y contexto debe hacerse antes de cualquier operación.
+
+Antes de operar candidatas de `Alta prioridad` o `Media prioridad`, revisa manualmente:
+
+- Noticias recientes del ticker.
+- Resultados empresariales recientes o próximos.
+- Movimiento premarket o apertura europea/estadounidense.
+- Spread disponible en Trade Republic.
+- Liquidez real en el momento de la entrada.
+- Contexto general del mercado.
+- Contexto del sector.
+- Nivel de entrada, stop loss y objetivo de salida.
+
+El informe no constituye asesoramiento financiero.
+
 ## Automatización con GitHub Actions y Telegram
 
 El workflow `.github/workflows/daily-candle-scan.yml` ejecuta el flujo completo de lunes a viernes a las `22:15 UTC`:

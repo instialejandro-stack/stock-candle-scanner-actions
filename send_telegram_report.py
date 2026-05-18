@@ -81,7 +81,9 @@ def build_telegram_summary(data: pd.DataFrame) -> str:
         f"🟠 Baja prioridad: {counts['Baja prioridad']}\n"
         f"🔴 Descartar: {counts['Descartar']}\n\n"
         "Mejor candidata:\n"
-        f"{best_candidate_message(data)}"
+        f"{best_candidate_message(data)}\n\n"
+        "📰 Noticias/resultados: pendiente revisión manual\n\n"
+        "Antes de operar, revisar noticias, resultados, premarket, spread y stop loss."
     )
 
 
