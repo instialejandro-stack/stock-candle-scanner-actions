@@ -1,17 +1,24 @@
 # Informe de candidatas intradía
 
-Fecha de generacion: 2026-05-18 18:10:28 WEST
+Fecha de generación: 2026-05-18 18:11:05 WEST
 
-|   rank | ticker   | name           |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | notes                                                                                               |
-|-------:|:---------|:---------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:----------------------------------------------------------------------------------------------------|
-|      1 | MSFT     | Microsoft      |       1.32 |              0.47 |        2.17 |      2.72 |             0.7  | N/A       |   48.89 | Baja prioridad   | cuerpo alcista reducido. volumen relativo debil. gap no disponible.                                 |
-|      2 | GOOGL    | Alphabet       |       1.67 |              0.59 |        3.56 |      2.89 |             0.56 | N/A       |   47.78 | Baja prioridad   | cuerpo alcista reducido. volumen relativo debil. gap no disponible.                                 |
-|      3 | NFLX     | Netflix        |       3.89 |              0.58 |        5.04 |      2.72 |             0.98 | N/A       |   43.33 | Descartar        | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.            |
-|      4 | META     | Meta Platforms |       0.27 |              0.49 |        2.03 |      2.8  |             0.84 | N/A       |   43.33 | Descartar        | cuerpo alcista reducido. volumen relativo debil. cierre cerca de maximos. gap no disponible.        |
-|      5 | SHOP     | Shopify        |       3.11 |              0.35 |       -0.33 |      6.1  |             0.92 | N/A       |   42.22 | Descartar        | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.            |
-|      6 | UBER     | Uber           |       0.91 |              0.58 |       -0.76 |      3.41 |             0.77 | N/A       |   38.89 | Descartar        | cuerpo alcista reducido. volumen relativo debil. gap no disponible.                                 |
-|      7 | PLTR     | Palantir       |       1.26 |              0.46 |       -1.98 |      4.33 |             0.62 | N/A       |   33.33 | Descartar        | cuerpo alcista reducido. volumen relativo debil. gap no disponible.                                 |
-|      8 | AMZN     | Amazon         |       0.49 |              0.46 |       -1.43 |      2.76 |             0.42 | N/A       |   26.67 | Descartar        | cuerpo alcista reducido. volumen relativo debil. cierre lejos del maximo diario. gap no disponible. |
+## Resumen
+
+- Acciones analizadas: 6
+- Alta prioridad: 0
+- Media prioridad: 0
+- Baja prioridad: 2
+- Descartar: 4
+- Mejor candidata: NFLX - Netflix - Score 49.0 - Clasificación Baja prioridad
+
+|   rank | ticker   | name      |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | notes                                                                                               |
+|-------:|:---------|:----------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:----------------------------------------------------------------------------------------------------|
+|      1 | NFLX     | Netflix   |       3.2  |              0.54 |        5.03 |      2.72 |             0.81 | 0.65      |   49    | Baja prioridad   | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                               |
+|      2 | SHOP     | Shopify   |       2.44 |              0.32 |       -0.37 |      6.1  |             0.75 | 0.61      |   45    | Baja prioridad   | buen cuerpo alcista. volumen relativo debil.                                                        |
+|      3 | GOOGL    | Alphabet  |       1.32 |              0.57 |        3.47 |      2.89 |             0.47 | N/A       |   43.33 | Descartar        | cuerpo alcista reducido. volumen relativo debil. cierre lejos del maximo diario. gap no disponible. |
+|      4 | MSFT     | Microsoft |       0.89 |              0.44 |        2.21 |      2.71 |             0.49 | N/A       |   41.11 | Descartar        | cuerpo alcista reducido. volumen relativo debil. cierre lejos del maximo diario. gap no disponible. |
+|      5 | PLTR     | Palantir  |       0.52 |              0.43 |       -1.93 |      4.32 |             0.41 | 0.79      |   33    | Descartar        | cuerpo alcista reducido. volumen relativo debil. cierre lejos del maximo diario.                    |
+|      6 | AMZN     | Amazon    |       0.31 |              0.44 |       -1.43 |      2.76 |             0.34 | N/A       |   26.67 | Descartar        | cuerpo alcista reducido. volumen relativo debil. cierre lejos del maximo diario. gap no disponible. |
 
 ## Advertencia de riesgo
 
