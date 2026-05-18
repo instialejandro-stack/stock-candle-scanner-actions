@@ -184,7 +184,9 @@ El workflow diario:
 5. Ejecuta `python intraday_analyzer.py`.
 6. Hace commit y push de los informes generados si han cambiado.
 7. Envia por Telegram un resumen corto construido desde `output/intraday_candidates.csv`.
-8. Envia despues el contenido completo de `output/intraday_candidates.md`.
+8. Envia una tabla compacta solo con candidatas activas, excluyendo `Descartar`.
+9. Envia una checklist de revision manual antes de operar.
+10. Adjunta `output/intraday_candidates.md` como documento completo. Si el adjunto falla, envia el Markdown dividido en partes como respaldo.
 
 Los archivos que actualiza son:
 

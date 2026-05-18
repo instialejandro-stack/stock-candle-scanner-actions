@@ -4,8 +4,8 @@ import os
 import sys
 from pathlib import Path
 
-import requests
 import pandas as pd
+import requests
 
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -14,6 +14,16 @@ CSV_FILE = BASE_DIR / "output" / "intraday_candidates.csv"
 TELEGRAM_API_BASE = "https://api.telegram.org"
 MAX_MESSAGE_LENGTH = 3900
 LOCAL_TZ = "Atlantic/Canary"
+
+ACTIVE_COLUMNS = [
+    "rank",
+    "ticker",
+    "name",
+    "body_pct",
+    "relative_volume",
+    "score",
+    "classification",
+]
 
 
 def get_required_env(name: str) -> str:
@@ -87,6 +97,34 @@ def build_telegram_summary(data: pd.DataFrame) -> str:
     )
 
 
+def build_active_candidates_message(data: pd.DataFrame) -> str:
+    active = data[data["classification"] != "Descartar"].copy()
+    if active.empty:
+        return (
+            "Candidatas activas\n\n"
+            "No hay candidatas activas. Todas las acciones han sido clasificadas como Descartar."
+        )
+
+    active = active.reindex(columns=ACTIVE_COLUMNS)
+    for column in ["body_pct", "relative_volume", "score"]:
+        active[column] = pd.to_numeric(active[column], errors="coerce").round(2)
+
+    return "Candidatas activas\n\n" + active.to_markdown(index=False)
+
+
+def build_manual_checklist_message() -> str:
+    return (
+        "Revisión manual antes de operar:\n"
+        "- Noticias recientes\n"
+        "- Resultados empresariales\n"
+        "- Premarket / apertura\n"
+        "- Spread en Trade Republic\n"
+        "- Liquidez real\n"
+        "- Contexto de mercado y sector\n"
+        "- Entrada, stop loss y objetivo"
+    )
+
+
 def split_message(text: str, limit: int = MAX_MESSAGE_LENGTH) -> list[str]:
     chunks: list[str] = []
     current = ""
@@ -112,6 +150,17 @@ def split_message(text: str, limit: int = MAX_MESSAGE_LENGTH) -> list[str]:
     return chunks
 
 
+def check_telegram_response(response: requests.Response, action: str) -> None:
+    if response.status_code >= 400:
+        raise RuntimeError(
+            f"Error HTTP al {action} Telegram ({response.status_code}): {response.text}"
+        )
+
+    payload = response.json()
+    if not payload.get("ok"):
+        raise RuntimeError(f"Telegram rechazo la accion {action}: {payload}")
+
+
 def send_telegram_message(bot_token: str, chat_id: str, text: str) -> None:
     url = f"{TELEGRAM_API_BASE}/bot{bot_token}/sendMessage"
     response = requests.post(
@@ -123,15 +172,30 @@ def send_telegram_message(bot_token: str, chat_id: str, text: str) -> None:
         },
         timeout=30,
     )
+    check_telegram_response(response, "enviar mensaje a")
 
-    if response.status_code >= 400:
-        raise RuntimeError(
-            f"Error HTTP al enviar Telegram ({response.status_code}): {response.text}"
+
+def send_telegram_document(bot_token: str, chat_id: str, document_path: Path) -> None:
+    url = f"{TELEGRAM_API_BASE}/bot{bot_token}/sendDocument"
+    with document_path.open("rb") as document:
+        response = requests.post(
+            url,
+            data={
+                "chat_id": chat_id,
+                "caption": "Informe completo de candidatas intradía",
+            },
+            files={"document": (document_path.name, document, "text/markdown")},
+            timeout=60,
         )
+    check_telegram_response(response, "enviar documento a")
 
-    payload = response.json()
-    if not payload.get("ok"):
-        raise RuntimeError(f"Telegram rechazo el mensaje: {payload}")
+
+def send_markdown_fallback(bot_token: str, chat_id: str, report: str) -> None:
+    chunks = split_message(report)
+    for index, chunk in enumerate(chunks, start=1):
+        prefix = f"Parte {index}/{len(chunks)}\n\n" if len(chunks) > 1 else ""
+        send_telegram_message(bot_token, chat_id, prefix + chunk)
+    print(f"Informe Markdown enviado como texto en {len(chunks)} parte(s).")
 
 
 def send_report() -> None:
@@ -140,13 +204,16 @@ def send_report() -> None:
     chat_id = get_required_env("TELEGRAM_CHAT_ID")
 
     send_telegram_message(bot_token, chat_id, build_telegram_summary(data))
+    send_telegram_message(bot_token, chat_id, build_active_candidates_message(data))
+    send_telegram_message(bot_token, chat_id, build_manual_checklist_message())
 
-    chunks = split_message(report)
-    for index, chunk in enumerate(chunks, start=1):
-        prefix = f"Parte {index}/{len(chunks)}\n\n" if len(chunks) > 1 else ""
-        send_telegram_message(bot_token, chat_id, prefix + chunk)
-
-    print(f"Informe enviado correctamente por Telegram en {len(chunks)} parte(s).")
+    try:
+        send_telegram_document(bot_token, chat_id, REPORT_FILE)
+        print("Informe enviado correctamente por Telegram como documento.")
+    except Exception as exc:  # noqa: BLE001 - fallback keeps the report deliverable.
+        print(f"[WARN] No se pudo enviar el documento: {exc}", file=sys.stderr)
+        print("[WARN] Enviando Markdown completo como mensajes divididos.", file=sys.stderr)
+        send_markdown_fallback(bot_token, chat_id, report)
 
 
 def main() -> int:
