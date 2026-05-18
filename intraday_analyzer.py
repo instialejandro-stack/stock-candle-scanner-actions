@@ -682,13 +682,51 @@ def format_output(data: pd.DataFrame) -> pd.DataFrame:
     return formatted.reindex(columns=OUTPUT_COLUMNS)
 
 
+def classification_counts(df: pd.DataFrame) -> dict[str, int]:
+    classifications = (
+        df["classification"] if "classification" in df.columns else pd.Series(dtype=str)
+    )
+    return {
+        "Alta prioridad": int((classifications == "Alta prioridad").sum()),
+        "Media prioridad": int((classifications == "Media prioridad").sum()),
+        "Baja prioridad": int((classifications == "Baja prioridad").sum()),
+        "Descartar": int((classifications == "Descartar").sum()),
+    }
+
+
+def best_candidate_summary(df: pd.DataFrame) -> str:
+    if df.empty:
+        return "N/A"
+
+    best = df.sort_values("score", ascending=False).iloc[0]
+    return (
+        f"{best['ticker']} - {best['name']} - "
+        f"Score {best['score']} - Clasificación {best['classification']}"
+    )
+
+
+def build_markdown_summary(df: pd.DataFrame) -> str:
+    counts = classification_counts(df)
+    return (
+        "## Resumen\n\n"
+        f"- Acciones analizadas: {len(df)}\n"
+        f"- Alta prioridad: {counts['Alta prioridad']}\n"
+        f"- Media prioridad: {counts['Media prioridad']}\n"
+        f"- Baja prioridad: {counts['Baja prioridad']}\n"
+        f"- Descartar: {counts['Descartar']}\n"
+        f"- Mejor candidata: {best_candidate_summary(df)}\n"
+    )
+
+
 def save_markdown_report(df: pd.DataFrame) -> None:
     generated_at = datetime.now(LOCAL_TZ).strftime("%Y-%m-%d %H:%M:%S %Z")
-    markdown_df = format_output(df).reindex(columns=MARKDOWN_COLUMNS).fillna("N/A")
+    formatted = format_output(df)
+    markdown_df = formatted.reindex(columns=MARKDOWN_COLUMNS).fillna("N/A")
     table = markdown_df.to_markdown(index=False)
     content = (
         "# Informe de candidatas intradía\n\n"
-        f"Fecha de generacion: {generated_at}\n\n"
+        f"Fecha de generación: {generated_at}\n\n"
+        f"{build_markdown_summary(formatted)}\n"
         f"{table}\n\n"
         "## Advertencia de riesgo\n\n"
         f"{RISK_WARNING}\n"

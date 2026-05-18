@@ -50,6 +50,26 @@ MSFT,Microsoft,US5949181045,USA
 
 Puedes usar tickers compatibles con Yahoo Finance, incluidos sufijos como `MC.PA` o `SAP.DE`. No uses indices como `^GSPC`, `^IXIC` o `^DJI`.
 
+## Ampliar el universo de acciones
+
+El sistema analiza unicamente las acciones presentes en `data/trade_republic_stocks.csv`. Para obtener mejores resultados conviene ampliar ese CSV con muchas mas acciones disponibles en Trade Republic, especialmente acciones liquidas.
+
+Los tickers deben estar en formato compatible con Yahoo Finance. Ejemplos:
+
+- `AAPL` para Apple en Estados Unidos.
+- `MSFT` para Microsoft.
+- `SAP.DE` para SAP en Alemania.
+- `MC.PA` para LVMH en Paris.
+- `SAN.MC` para Banco Santander en Espana.
+
+No deben anadirse indices como:
+
+- `^GSPC`
+- `^IXIC`
+- `^DJI`
+
+Si un ticker falla, el sistema lo ignorara y continuara con el resto. Es recomendable empezar con 50-100 acciones liquidas y luego ampliar el universo progresivamente.
+
 ## Instalar Dependencias
 
 Requiere Python 3.11.
@@ -146,7 +166,8 @@ El workflow diario:
 4. Ejecuta `python scanner.py`.
 5. Ejecuta `python intraday_analyzer.py`.
 6. Hace commit y push de los informes generados si han cambiado.
-7. Envia `output/intraday_candidates.md` por Telegram.
+7. Envia por Telegram un resumen corto construido desde `output/intraday_candidates.csv`.
+8. Envia despues el contenido completo de `output/intraday_candidates.md`.
 
 Los archivos que actualiza son:
 
@@ -184,7 +205,7 @@ El script crea automaticamente `output/` si no existe y genera:
 - `output/top10_bullish_candles.csv`: resultado actual.
 - `output/history_top10_bullish_candles.csv`: historico acumulado.
 - `output/intraday_candidates.csv`: candidatas intradia actuales.
-- `output/intraday_candidates.md`: informe Markdown de candidatas intradia.
+- `output/intraday_candidates.md`: informe Markdown de candidatas intradia, con resumen ejecutivo, tabla detallada, `notes` y advertencia de riesgo.
 - `output/history_intraday_candidates.csv`: historico de candidatas intradia.
 
 El CSV de salida tiene exactamente estas columnas:

@@ -5,12 +5,15 @@ import sys
 from pathlib import Path
 
 import requests
+import pandas as pd
 
 
 BASE_DIR = Path(__file__).resolve().parent
 REPORT_FILE = BASE_DIR / "output" / "intraday_candidates.md"
+CSV_FILE = BASE_DIR / "output" / "intraday_candidates.csv"
 TELEGRAM_API_BASE = "https://api.telegram.org"
 MAX_MESSAGE_LENGTH = 3900
+LOCAL_TZ = "Atlantic/Canary"
 
 
 def get_required_env(name: str) -> str:
@@ -20,16 +23,66 @@ def get_required_env(name: str) -> str:
     return value
 
 
-def validate_report_file(path: Path = REPORT_FILE) -> str:
-    if not path.exists():
+def validate_report_files(
+    csv_path: Path = CSV_FILE,
+    report_path: Path = REPORT_FILE,
+) -> tuple[pd.DataFrame, str]:
+    if not csv_path.exists():
         raise FileNotFoundError(
-            f"No existe el informe {path}. Ejecuta primero python intraday_analyzer.py"
+            "No existe output/intraday_candidates.csv. "
+            "Ejecuta primero python intraday_analyzer.py."
+        )
+    if not report_path.exists():
+        raise FileNotFoundError(
+            "No existe output/intraday_candidates.md. "
+            "Ejecuta primero python intraday_analyzer.py."
         )
 
-    content = path.read_text(encoding="utf-8").strip()
+    data = pd.read_csv(csv_path, na_values=["N/A"])
+    content = report_path.read_text(encoding="utf-8").strip()
     if not content:
-        raise ValueError(f"El informe {path} esta vacio.")
-    return content
+        raise ValueError(f"El informe {report_path} esta vacio.")
+    return data, content
+
+
+def classification_counts(data: pd.DataFrame) -> dict[str, int]:
+    classifications = (
+        data["classification"] if "classification" in data.columns else pd.Series(dtype=str)
+    )
+    return {
+        "Alta prioridad": int((classifications == "Alta prioridad").sum()),
+        "Media prioridad": int((classifications == "Media prioridad").sum()),
+        "Baja prioridad": int((classifications == "Baja prioridad").sum()),
+        "Descartar": int((classifications == "Descartar").sum()),
+    }
+
+
+def best_candidate_message(data: pd.DataFrame) -> str:
+    if data.empty:
+        return "N/A"
+
+    best = data.sort_values("score", ascending=False).iloc[0]
+    return (
+        f"{best['ticker']} - {best['name']}\n"
+        f"Score: {best['score']}\n"
+        f"Clasificación: {best['classification']}"
+    )
+
+
+def build_telegram_summary(data: pd.DataFrame) -> str:
+    generated_at = pd.Timestamp.now(tz=LOCAL_TZ).strftime("%Y-%m-%d %H:%M")
+    counts = classification_counts(data)
+    return (
+        "📈 Informe diario de candidatas intradía\n\n"
+        f"Fecha: {generated_at}\n"
+        f"Acciones analizadas: {len(data)}\n\n"
+        f"🟢 Alta prioridad: {counts['Alta prioridad']}\n"
+        f"🟡 Media prioridad: {counts['Media prioridad']}\n"
+        f"🟠 Baja prioridad: {counts['Baja prioridad']}\n"
+        f"🔴 Descartar: {counts['Descartar']}\n\n"
+        "Mejor candidata:\n"
+        f"{best_candidate_message(data)}"
+    )
 
 
 def split_message(text: str, limit: int = MAX_MESSAGE_LENGTH) -> list[str]:
@@ -80,11 +133,11 @@ def send_telegram_message(bot_token: str, chat_id: str, text: str) -> None:
 
 
 def send_report() -> None:
+    data, report = validate_report_files()
     bot_token = get_required_env("TELEGRAM_BOT_TOKEN")
     chat_id = get_required_env("TELEGRAM_CHAT_ID")
-    report = validate_report_file()
 
-    send_telegram_message(bot_token, chat_id, "📈 Informe diario de candidatas intradía")
+    send_telegram_message(bot_token, chat_id, build_telegram_summary(data))
 
     chunks = split_message(report)
     for index, chunk in enumerate(chunks, start=1):
