@@ -52,9 +52,9 @@ Puedes usar tickers compatibles con Yahoo Finance, incluidos sufijos como `MC.PA
 
 ## Ampliar el universo de acciones
 
-El sistema analiza unicamente las acciones presentes en `data/trade_republic_stocks.csv`. Para obtener mejores resultados conviene ampliar ese CSV con muchas mas acciones disponibles en Trade Republic, especialmente acciones liquidas.
+El sistema analiza unicamente las acciones presentes en `data/trade_republic_stocks.csv`. Para obtener mejores resultados conviene ampliar ese CSV con muchas mas acciones disponibles en Trade Republic, especialmente acciones liquidas para operativa intradia.
 
-Los tickers deben estar en formato compatible con Yahoo Finance. Ejemplos:
+Los tickers deben estar en formato compatible con Yahoo Finance. La columna `isin` puede dejarse vacia si no conoces el ISIN con seguridad, pero no conviene inventarlo. Ejemplos:
 
 - `AAPL` para Apple en Estados Unidos.
 - `MSFT` para Microsoft.
@@ -62,7 +62,7 @@ Los tickers deben estar en formato compatible con Yahoo Finance. Ejemplos:
 - `MC.PA` para LVMH en Paris.
 - `SAN.MC` para Banco Santander en Espana.
 
-No deben anadirse indices como:
+No deben anadirse indices, ETFs, criptomonedas ni fondos. Ejemplos de indices a evitar:
 
 - `^GSPC`
 - `^IXIC`
