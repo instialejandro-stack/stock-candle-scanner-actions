@@ -1,11 +1,11 @@
 rank,date,ticker,name,isin,market,trade_republic_status,open,close,high,low,body,body_pct,volume
-1,2026-05-19,LSEG.L,London Stock Exchange Group,,United Kingdom,Disponible,8196.0,9378.0,9390.0,8196.0,1182.0,14.42,85558
+1,2026-05-19,LSEG.L,London Stock Exchange Group,,United Kingdom,Disponible,8196.0,9380.0,9394.0,8196.0,1184.0,14.45,109216
 2,2026-05-18,RBLX,Roblox,,USA,Disponible,42.82,46.98,47.6,42.65,4.16,9.72,16117500
 3,2026-05-18,FICO,Fair Isaac,,USA,Disponible,1094.21,1181.8199,1185.16,1094.21,87.61,8.01,429200
 4,2026-05-18,CTSH,Cognizant Technology Solutions,,USA,Disponible,47.96,51.4,51.5,47.31,3.44,7.17,15303400
 5,2026-05-18,TTD,The Trade Desk,,USA,Disponible,20.99,22.27,22.578,20.99,1.28,6.1,20444400
-6,2026-05-18,ACN,Accenture,,USA,Disponible,167.75,177.55,177.55,165.87,9.8,5.84,5363900
-7,2026-05-18,MDB,MongoDB,,USA,Disponible,311.91,330.0,339.97,309.4,18.09,5.8,2689000
-8,2026-05-19,IDR.MC,Indra Sistemas,,Spain,Disponible,49.05,51.72,51.78,48.9,2.67,5.44,245068
+6,2026-05-19,IDR.MC,Indra Sistemas,,Spain,Disponible,49.05,51.96,51.96,48.9,2.91,5.93,284988
+7,2026-05-18,ACN,Accenture,,USA,Disponible,167.75,177.55,177.55,165.87,9.8,5.84,5363900
+8,2026-05-18,MDB,MongoDB,,USA,Disponible,311.91,330.0,339.97,309.4,18.09,5.8,2689000
 9,2026-05-18,CRWD,CrowdStrike,US22788C1053,USA,Disponible,589.495,618.83,621.05,587.37,29.335,4.98,4692500
-10,2026-05-18,SNOW,Snowflake,US8334451098,USA,Disponible,156.7,164.24,165.28,155.19,7.54,4.81,10712200
+10,2026-05-19,CAP.PA,Capgemini,,France,Disponible,100.85,105.85,106.05,100.8,5.0,4.96,92206
