@@ -52,7 +52,7 @@ Puedes usar tickers compatibles con Yahoo Finance, incluidos sufijos como `MC.PA
 
 ## Ampliar el universo de acciones
 
-El sistema analiza unicamente las acciones presentes en `data/trade_republic_stocks.csv`. Para obtener mejores resultados conviene ampliar ese CSV con muchas mas acciones disponibles en Trade Republic, especialmente acciones liquidas para operativa intradia.
+El sistema analiza unicamente las acciones presentes en `data/trade_republic_stocks.csv`. Para obtener mejores resultados conviene trabajar con un universo amplio, normalmente entre 300 y 500 acciones liquidas disponibles en Trade Republic o brokers europeos similares.
 
 Los tickers deben estar en formato compatible con Yahoo Finance. La columna `isin` puede dejarse vacia si no conoces el ISIN con seguridad, pero no conviene inventarlo. Ejemplos:
 
@@ -68,7 +68,7 @@ No deben anadirse indices, ETFs, criptomonedas ni fondos. Ejemplos de indices a 
 - `^IXIC`
 - `^DJI`
 
-Si un ticker falla, el sistema lo ignorara y continuara con el resto. Es recomendable empezar con 50-100 acciones liquidas y luego ampliar el universo progresivamente.
+Si un ticker falla, el sistema lo ignorara y continuara con el resto. Para un uso mas completo, es recomendable trabajar progresivamente hacia un universo de 300-500 acciones liquidas.
 
 ## Instalar Dependencias
 
@@ -164,6 +164,24 @@ Antes de operar candidatas de `Alta prioridad` o `Media prioridad`, revisa manua
 - Nivel de entrada, stop loss y objetivo de salida.
 
 El informe no constituye asesoramiento financiero.
+
+## Disponibilidad en Trade Republic
+
+`data/trade_republic_stocks.csv` es el universo de analisis del sistema. No todas las acciones del CSV tienen por que estar confirmadas como disponibles en Trade Republic.
+
+El scanner solo analiza acciones con `trade_republic_status = Disponible`. Las acciones marcadas como `No disponible`, `Pendiente validar`, con valor vacio o con cualquier otro valor quedan excluidas del analisis.
+
+La columna `trade_republic_status` indica el estado de validacion manual. Valores posibles:
+
+- `Pendiente validar`
+- `Disponible`
+- `No disponible`
+
+Por defecto, las nuevas acciones deben marcarse como `Pendiente validar`. Para añadir una nueva accion al analisis diario, debe validarse manualmente y marcarse como `Disponible`.
+
+Si la accion esta disponible, cambia `trade_republic_status` a `Disponible`. Si no esta disponible, cambialo a `No disponible`.
+
+Este filtro es intencionado para evitar recibir senales sobre acciones que no se pueden operar en Trade Republic. El sistema no hace scraping ni consulta directa a Trade Republic. Antes de operar, valida siempre disponibilidad, spread y liquidez real en la app.
 
 ## Automatización con GitHub Actions y Telegram
 

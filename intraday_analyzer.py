@@ -31,6 +31,7 @@ INPUT_COLUMNS = [
     "name",
     "isin",
     "market",
+    "trade_republic_status",
     "open",
     "close",
     "high",
@@ -49,6 +50,7 @@ OUTPUT_COLUMNS = [
     "name",
     "isin",
     "market",
+    "trade_republic_status",
     "previous_open",
     "previous_close",
     "previous_high",
@@ -76,6 +78,8 @@ MARKDOWN_COLUMNS = [
     "rank",
     "ticker",
     "name",
+    "market",
+    "trade_republic_status",
     "body_pct",
     "relative_volume",
     "return_5d",
@@ -130,6 +134,13 @@ def validate_input_file(path: Path = INPUT_FILE) -> pd.DataFrame:
 
     data = pd.read_csv(path)
     data.columns = [column.strip().lower() for column in data.columns]
+
+    if "trade_republic_status" not in data.columns:
+        data["trade_republic_status"] = "Pendiente validar"
+    data["trade_republic_status"] = data["trade_republic_status"].fillna("")
+    data["trade_republic_status"] = data["trade_republic_status"].replace(
+        "", "Pendiente validar"
+    )
 
     missing_columns = [column for column in INPUT_COLUMNS if column not in data.columns]
     if missing_columns:
@@ -578,6 +589,7 @@ def analyze_ticker(row: pd.Series) -> tuple[dict | None, str | None]:
             "name": row["name"],
             "isin": row["isin"],
             "market": row["market"],
+            "trade_republic_status": row["trade_republic_status"],
             "previous_open": previous_open,
             "previous_close": previous_close,
             "previous_high": previous_high,
@@ -720,6 +732,7 @@ def build_markdown_summary(df: pd.DataFrame) -> str:
         f"- Descartar: {counts['Descartar']}\n"
         f"- Mejor candidata: {best_candidate_summary(df)}\n"
         f"- Revisión de noticias: {NEWS_CHECK_DEFAULT}\n"
+        "- Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible\n"
     )
 
 

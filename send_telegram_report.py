@@ -19,6 +19,8 @@ ACTIVE_COLUMNS = [
     "rank",
     "ticker",
     "name",
+    "market",
+    "trade_republic_status",
     "body_pct",
     "relative_volume",
     "score",
@@ -49,6 +51,11 @@ def validate_report_files(
         )
 
     data = pd.read_csv(csv_path, na_values=["N/A"])
+    if "trade_republic_status" not in data.columns:
+        data["trade_republic_status"] = "Pendiente validar"
+    data["trade_republic_status"] = data["trade_republic_status"].fillna(
+        "Pendiente validar"
+    )
     content = report_path.read_text(encoding="utf-8").strip()
     if not content:
         raise ValueError(f"El informe {report_path} esta vacio.")
@@ -93,6 +100,7 @@ def build_telegram_summary(data: pd.DataFrame) -> str:
         "Mejor candidata:\n"
         f"{best_candidate_message(data)}\n\n"
         "📰 Noticias/resultados: pendiente revisión manual\n\n"
+        "🏦 Trade Republic: universo filtrado por acciones marcadas como Disponible\n\n"
         "Antes de operar, revisar noticias, resultados, premarket, spread y stop loss."
     )
 

@@ -21,7 +21,7 @@ YFINANCE_INTERVAL = "1d"
 TOP_N = 10
 LOCAL_TZ = ZoneInfo("Atlantic/Canary")
 
-REQUIRED_INPUT_COLUMNS = ["ticker", "name", "isin", "market"]
+REQUIRED_INPUT_COLUMNS = ["ticker", "name", "isin", "market", "trade_republic_status"]
 YFINANCE_COLUMNS = ["Open", "Close", "High", "Low", "Volume"]
 OUTPUT_COLUMNS = [
     "rank",
@@ -30,6 +30,7 @@ OUTPUT_COLUMNS = [
     "name",
     "isin",
     "market",
+    "trade_republic_status",
     "open",
     "close",
     "high",
@@ -46,11 +47,16 @@ def ensure_directories() -> None:
     yf.set_tz_cache_location(str(CACHE_DIR))
 
 
-def validate_input_file(path: Path = DATA_FILE) -> pd.DataFrame:
+def normalize_trade_republic_status(value: str) -> str:
+    return str(value).strip().casefold()
+
+
+def validate_input_file(path: Path = DATA_FILE) -> tuple[pd.DataFrame, int, int]:
     if not path.exists():
         raise FileNotFoundError(
             f"No existe el archivo de entrada: {path}. "
-            "Crea data/trade_republic_stocks.csv con columnas ticker,name,isin,market."
+            "Crea data/trade_republic_stocks.csv con columnas "
+            "ticker,name,isin,market,trade_republic_status."
         )
 
     stocks = pd.read_csv(path, dtype=str).fillna("")
@@ -63,7 +69,8 @@ def validate_input_file(path: Path = DATA_FILE) -> pd.DataFrame:
         missing = ", ".join(missing_columns)
         raise ValueError(
             f"Faltan columnas obligatorias en {path}: {missing}. "
-            "El CSV debe incluir ticker,name,isin,market."
+            "El CSV debe incluir ticker,name,isin,market,trade_republic_status. "
+            "Marca como Disponible las acciones que deban analizarse."
         )
 
     stocks = stocks[REQUIRED_INPUT_COLUMNS].copy()
@@ -73,7 +80,16 @@ def validate_input_file(path: Path = DATA_FILE) -> pd.DataFrame:
     stocks = stocks[stocks["ticker"] != ""]
     stocks = stocks[~stocks["ticker"].str.startswith("^")]
     stocks = stocks.drop_duplicates(subset=["ticker"]).reset_index(drop=True)
-    return stocks
+    total_tickers = len(stocks)
+
+    available_mask = (
+        stocks["trade_republic_status"].map(normalize_trade_republic_status)
+        == "disponible"
+    )
+    available_stocks = stocks[available_mask].reset_index(drop=True)
+    excluded_tickers = total_tickers - len(available_stocks)
+
+    return available_stocks, total_tickers, excluded_tickers
 
 
 def flatten_yfinance_columns(data: pd.DataFrame) -> pd.DataFrame:
@@ -150,6 +166,7 @@ def get_last_bullish_candle(stock: pd.Series) -> dict | None:
         "name": stock["name"],
         "isin": stock["isin"],
         "market": stock["market"],
+        "trade_republic_status": stock["trade_republic_status"],
         "open": open_price,
         "close": close_price,
         "high": high_price,
@@ -240,10 +257,12 @@ def main() -> int:
     try:
         ensure_directories()
         execution_time = datetime.now(LOCAL_TZ).strftime("%Y-%m-%d %H:%M:%S %Z")
-        stocks = validate_input_file()
+        stocks, total_tickers, excluded_tickers = validate_input_file()
 
         print(f"Hora de ejecucion: {execution_time}")
-        print(f"Tickers cargados: {len(stocks)}")
+        print(f"Tickers totales en CSV: {total_tickers}")
+        print(f"Tickers disponibles analizados: {len(stocks)}")
+        print(f"Tickers excluidos: {excluded_tickers}")
         print()
 
         top10 = build_top10_bullish_candles(stocks)
