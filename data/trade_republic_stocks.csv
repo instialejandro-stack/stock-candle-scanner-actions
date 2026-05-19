@@ -1,103 +1,380 @@
-ticker,name,isin,market
-AAPL,Apple,US0378331005,USA
-ABBV,AbbVie,US00287Y1091,USA
-ABT,Abbott Laboratories,US0028241000,USA
-ADBE,Adobe,US00724F1012,USA
-AMD,Advanced Micro Devices,US0079031078,USA
-AMAT,Applied Materials,US0382221051,USA
-AMZN,Amazon,US0231351067,USA
-AVGO,Broadcom,US11135F1012,USA
-BA,Boeing,US0970231058,USA
-BAC,Bank of America,US0605051046,USA
-CAT,Caterpillar,US1491231015,USA
-COIN,Coinbase,US19260Q1076,USA
-COP,ConocoPhillips,US20825C1045,USA
-COST,Costco Wholesale,US22160K1051,USA
-CRM,Salesforce,US79466L3024,USA
-CRWD,CrowdStrike,US22788C1053,USA
-CVX,Chevron,US1667641005,USA
-DE,Deere & Company,US2441991054,USA
-DIS,Walt Disney,US2546871060,USA
-GOOGL,Alphabet,US02079K3059,USA
-GS,Goldman Sachs,US38141G1040,USA
-HD,Home Depot,US4370761029,USA
-INTC,Intel,US4581401001,USA
-INTU,Intuit,US4612021034,USA
-JNJ,Johnson & Johnson,US4781601046,USA
-JPM,JPMorgan Chase,US46625H1005,USA
-KLAC,KLA,US4824801009,USA
-LLY,Eli Lilly,US5324571083,USA
-LRCX,Lam Research,US5128071082,USA
-MA,Mastercard,US57636Q1040,USA
-MCD,McDonald's,US5801351017,USA
-META,Meta Platforms,US30303M1027,USA
-MRK,Merck & Co,US58933Y1055,USA
-MS,Morgan Stanley,US6174464486,USA
-MSFT,Microsoft,US5949181045,USA
-MSTR,MicroStrategy,US5949724083,USA
-MU,Micron Technology,US5951121038,USA
-NFLX,Netflix,US64110L1061,USA
-NKE,Nike,US6541061031,USA
-NOW,ServiceNow,US81762P1021,USA
-NVDA,Nvidia,US67066G1040,USA
-ORCL,Oracle,US68389X1054,USA
-PFE,Pfizer,US7170811035,USA
-PLTR,Palantir,US69608A1088,USA
-QCOM,Qualcomm,US7475251036,USA
-RTX,RTX,US75513E1010,USA
-SBUX,Starbucks,US8552441094,USA
-SHOP,Shopify,CA82509L1076,USA
-SMCI,Super Micro Computer,US86800U1043,USA
-SNOW,Snowflake,US8334451098,USA
-TSLA,Tesla,US88160R1014,USA
-TSM,Taiwan Semiconductor ADR,US8740391003,USA
-TXN,Texas Instruments,US8825081040,USA
-UBER,Uber,US90353T1007,USA
-UNH,UnitedHealth,US91324P1021,USA
-V,Visa,US92826C8394,USA
-WMT,Walmart,US9311421039,USA
-XOM,Exxon Mobil,US30231G1022,USA
-AENA.MC,Aena,ES0105046009,Spain
-BBVA.MC,BBVA,ES0113211835,Spain
-IBE.MC,Iberdrola,ES0144580Y14,Spain
-ITX.MC,Inditex,ES0148396007,Spain
-REP.MC,Repsol,ES0173516115,Spain
-SAN.MC,Banco Santander,ES0113900J37,Spain
-TEF.MC,Telefonica,ES0178430E18,Spain
-ADS.DE,Adidas,DE000A1EWWW0,Germany
-ALV.DE,Allianz,DE0008404005,Germany
-BAS.DE,BASF,DE000BASF111,Germany
-BMW.DE,BMW,DE0005190003,Germany
-DBK.DE,Deutsche Bank,DE0005140008,Germany
-DHL.DE,DHL Group,DE0005552004,Germany
-DTE.DE,Deutsche Telekom,DE0005557508,Germany
-IFX.DE,Infineon,DE0006231004,Germany
-MBG.DE,Mercedes-Benz Group,DE0007100000,Germany
-SAP.DE,SAP,DE0007164600,Germany
-SIE.DE,Siemens,DE0007236101,Germany
-AI.PA,Air Liquide,FR0000120073,France
-AIR.PA,Airbus,NL0000235190,France
-BNP.PA,BNP Paribas,FR0000131104,France
-DG.PA,Vinci,FR0000125486,France
-MC.PA,LVMH,FR0000121014,France
-OR.PA,L'Oreal,FR0000120321,France
-RMS.PA,Hermes,FR0000052292,France
-SAN.PA,Sanofi,FR0000120578,France
-SU.PA,Schneider Electric,FR0000121972,France
-TTE.PA,TotalEnergies,FR0000120271,France
-ADYEN.AS,Adyen,NL0012969182,Netherlands
-ASML.AS,ASML,NL0010273215,Netherlands
-INGA.AS,ING Groep,NL0011821202,Netherlands
-ENEL.MI,Enel,IT0003128367,Italy
-ENI.MI,Eni,IT0003132476,Italy
-ISP.MI,Intesa Sanpaolo,IT0000072618,Italy
-RACE.MI,Ferrari,NL0011585146,Italy
-UCG.MI,UniCredit,IT0005239360,Italy
-AZN.L,AstraZeneca,GB0009895292,United Kingdom
-HSBA.L,HSBC,GB0005405286,United Kingdom
-SHEL.L,Shell,GB00BP6MXD84,United Kingdom
-ULVR.L,Unilever,GB00B10RZP78,United Kingdom
-NESN.SW,Nestle,CH0038863350,Switzerland
-NOVN.SW,Novartis,CH0012005267,Switzerland
-ROG.SW,Roche,CH0012032048,Switzerland
-UBSG.SW,UBS Group,CH0244767585,Switzerland
+ticker,name,isin,market,trade_republic_status
+AAPL,Apple,US0378331005,USA,Disponible
+ABBV,AbbVie,US00287Y1091,USA,Disponible
+ABT,Abbott Laboratories,US0028241000,USA,Disponible
+ADBE,Adobe,US00724F1012,USA,Disponible
+AMD,Advanced Micro Devices,US0079031078,USA,Disponible
+AMAT,Applied Materials,US0382221051,USA,Disponible
+AMZN,Amazon,US0231351067,USA,Disponible
+AVGO,Broadcom,US11135F1012,USA,Disponible
+BA,Boeing,US0970231058,USA,Disponible
+BAC,Bank of America,US0605051046,USA,Disponible
+CAT,Caterpillar,US1491231015,USA,Disponible
+COIN,Coinbase,US19260Q1076,USA,Disponible
+COP,ConocoPhillips,US20825C1045,USA,Disponible
+COST,Costco Wholesale,US22160K1051,USA,Disponible
+CRM,Salesforce,US79466L3024,USA,Disponible
+CRWD,CrowdStrike,US22788C1053,USA,Disponible
+CVX,Chevron,US1667641005,USA,Disponible
+DE,Deere & Company,US2441991054,USA,Disponible
+DIS,Walt Disney,US2546871060,USA,Disponible
+GOOGL,Alphabet,US02079K3059,USA,Disponible
+GS,Goldman Sachs,US38141G1040,USA,Disponible
+HD,Home Depot,US4370761029,USA,Disponible
+INTC,Intel,US4581401001,USA,Disponible
+INTU,Intuit,US4612021034,USA,Disponible
+JNJ,Johnson & Johnson,US4781601046,USA,Disponible
+JPM,JPMorgan Chase,US46625H1005,USA,Disponible
+KLAC,KLA,US4824801009,USA,Disponible
+LLY,Eli Lilly,US5324571083,USA,Disponible
+LRCX,Lam Research,US5128071082,USA,Disponible
+MA,Mastercard,US57636Q1040,USA,Disponible
+MCD,McDonald's,US5801351017,USA,Disponible
+META,Meta Platforms,US30303M1027,USA,Disponible
+MRK,Merck & Co,US58933Y1055,USA,Disponible
+MS,Morgan Stanley,US6174464486,USA,Disponible
+MSFT,Microsoft,US5949181045,USA,Disponible
+MSTR,MicroStrategy,US5949724083,USA,Disponible
+MU,Micron Technology,US5951121038,USA,Disponible
+NFLX,Netflix,US64110L1061,USA,Disponible
+NKE,Nike,US6541061031,USA,Disponible
+NOW,ServiceNow,US81762P1021,USA,Disponible
+NVDA,Nvidia,US67066G1040,USA,Disponible
+ORCL,Oracle,US68389X1054,USA,Disponible
+PFE,Pfizer,US7170811035,USA,Disponible
+PLTR,Palantir,US69608A1088,USA,Disponible
+QCOM,Qualcomm,US7475251036,USA,Disponible
+RTX,RTX,US75513E1010,USA,Disponible
+SBUX,Starbucks,US8552441094,USA,Disponible
+SHOP,Shopify,CA82509L1076,USA,Disponible
+SMCI,Super Micro Computer,US86800U1043,USA,Disponible
+SNOW,Snowflake,US8334451098,USA,Disponible
+TSLA,Tesla,US88160R1014,USA,Disponible
+TSM,Taiwan Semiconductor ADR,US8740391003,USA,No disponible
+TXN,Texas Instruments,US8825081040,USA,Disponible
+UBER,Uber,US90353T1007,USA,Disponible
+UNH,UnitedHealth,US91324P1021,USA,Disponible
+V,Visa,US92826C8394,USA,Disponible
+WMT,Walmart,US9311421039,USA,Disponible
+XOM,Exxon Mobil,US30231G1022,USA,Disponible
+AENA.MC,Aena,ES0105046009,Spain,Disponible
+BBVA.MC,BBVA,ES0113211835,Spain,Disponible
+IBE.MC,Iberdrola,ES0144580Y14,Spain,Disponible
+ITX.MC,Inditex,ES0148396007,Spain,Disponible
+REP.MC,Repsol,ES0173516115,Spain,Disponible
+SAN.MC,Banco Santander,ES0113900J37,Spain,Disponible
+TEF.MC,Telefonica,ES0178430E18,Spain,Disponible
+ADS.DE,Adidas,DE000A1EWWW0,Germany,Disponible
+ALV.DE,Allianz,DE0008404005,Germany,Disponible
+BAS.DE,BASF,DE000BASF111,Germany,Disponible
+BMW.DE,BMW,DE0005190003,Germany,Disponible
+DBK.DE,Deutsche Bank,DE0005140008,Germany,Disponible
+DHL.DE,DHL Group,DE0005552004,Germany,Disponible
+DTE.DE,Deutsche Telekom,DE0005557508,Germany,Disponible
+IFX.DE,Infineon,DE0006231004,Germany,Disponible
+MBG.DE,Mercedes-Benz Group,DE0007100000,Germany,Disponible
+SAP.DE,SAP,DE0007164600,Germany,Disponible
+SIE.DE,Siemens,DE0007236101,Germany,Disponible
+AI.PA,Air Liquide,FR0000120073,France,Disponible
+AIR.PA,Airbus,NL0000235190,France,Disponible
+BNP.PA,BNP Paribas,FR0000131104,France,Disponible
+DG.PA,Vinci,FR0000125486,France,Disponible
+MC.PA,LVMH,FR0000121014,France,Disponible
+OR.PA,L'Oreal,FR0000120321,France,Disponible
+RMS.PA,Hermes,FR0000052292,France,Disponible
+SAN.PA,Sanofi,FR0000120578,France,Disponible
+SU.PA,Schneider Electric,FR0000121972,France,Disponible
+TTE.PA,TotalEnergies,FR0000120271,France,Disponible
+ADYEN.AS,Adyen,NL0012969182,Netherlands,Disponible
+ASML.AS,ASML,NL0010273215,Netherlands,Disponible
+INGA.AS,ING Groep,NL0011821202,Netherlands,No disponible
+ENEL.MI,Enel,IT0003128367,Italy,Disponible
+ENI.MI,Eni,IT0003132476,Italy,Disponible
+ISP.MI,Intesa Sanpaolo,IT0000072618,Italy,Disponible
+RACE.MI,Ferrari,NL0011585146,Italy,Disponible
+UCG.MI,UniCredit,IT0005239360,Italy,Disponible
+AZN.L,AstraZeneca,GB0009895292,United Kingdom,Disponible
+HSBA.L,HSBC,GB0005405286,United Kingdom,Disponible
+SHEL.L,Shell,GB00BP6MXD84,United Kingdom,Disponible
+ULVR.L,Unilever,GB00B10RZP78,United Kingdom,Disponible
+NESN.SW,Nestle,CH0038863350,Switzerland,Disponible
+NOVN.SW,Novartis,CH0012005267,Switzerland,Disponible
+ROG.SW,Roche,CH0012032048,Switzerland,Disponible
+UBSG.SW,UBS Group,CH0244767585,Switzerland,No disponible
+A,Agilent Technologies,,USA,Disponible
+ACN,Accenture,,USA,Disponible
+ADSK,Autodesk,,USA,Disponible
+AEP,American Electric Power,,USA,Disponible
+AFL,Aflac,,USA,Disponible
+AIG,American International Group,,USA,Disponible
+ALB,Albemarle,,USA,Disponible
+ALGN,Align Technology,,USA,Disponible
+AME,Ametek,,USA,Disponible
+AMP,Ameriprise Financial,,USA,Disponible
+ANET,Arista Networks,,USA,Disponible
+WDAY,Workday,,USA,Disponible
+AON,Aon,,USA,Disponible
+APD,Air Products and Chemicals,,USA,Disponible
+APO,Apollo Global Management,,USA,No disponible
+APP,AppLovin,,USA,Disponible
+APTV,Aptiv,,USA,No disponible
+AR,Antero Resources,,USA,Disponible
+AXON,Axon Enterprise,,USA,Disponible
+AXP,American Express,,USA,Disponible
+AZO,AutoZone,,USA,Disponible
+BKR,Baker Hughes,,USA,Disponible
+BK,Bank of New York Mellon,,USA,Disponible
+BKNG,Booking Holdings,,USA,Disponible
+BLK,BlackRock,,USA,Disponible
+BSX,Boston Scientific,,USA,Disponible
+BX,Blackstone,,USA,Disponible
+C,Citigroup,,USA,Disponible
+CARR,Carrier Global,,USA,Disponible
+CCL,Carnival,,USA,Disponible
+CDNS,Cadence Design Systems,,USA,Disponible
+CEG,Constellation Energy,,USA,Disponible
+CI,Cigna,,USA,Disponible
+CL,Colgate-Palmolive,,USA,Disponible
+CMG,Chipotle Mexican Grill,,USA,Disponible
+CMI,Cummins,,USA,Disponible
+CNC,Centene,,USA,Disponible
+CNP,CenterPoint Energy,,USA,Disponible
+COO,Cooper Companies,,USA,Disponible
+CPB,Campbell Soup,,USA,Disponible
+CSCO,Cisco Systems,,USA,Disponible
+CSGP,CoStar Group,,USA,Disponible
+CSX,CSX,,USA,Disponible
+CTAS,Cintas,,USA,Disponible
+CTSH,Cognizant Technology Solutions,,USA,Disponible
+DAL,Delta Air Lines,,USA,Disponible
+DASH,DoorDash,,USA,Disponible
+DD,DuPont,,USA,Disponible
+DELL,Dell Technologies,,USA,Disponible
+DG,Dollar General,,USA,Disponible
+DHI,DR Horton,,USA,No disponible
+DHR,Danaher,,USA,Disponible
+DOCU,DocuSign,,USA,Disponible
+DOW,Dow,,USA,Disponible
+DRI,Darden Restaurants,,USA,Disponible
+DUK,Duke Energy,,USA,Disponible
+EA,Electronic Arts,,USA,Disponible
+EBAY,eBay,,USA,Disponible
+ECL,Ecolab,,USA,Disponible
+EL,Estee Lauder,,USA,Disponible
+EMR,Emerson Electric,,USA,Disponible
+ENPH,Enphase Energy,,USA,Disponible
+EOG,EOG Resources,,USA,Disponible
+EQIX,Equinix,,USA,Disponible
+ETN,Eaton,,USA,Disponible
+ETSY,Etsy,,USA,Disponible
+EW,Edwards Lifesciences,,USA,Disponible
+EXC,Exelon,,USA,Disponible
+F,Ford Motor,,USA,Disponible
+FANG,Diamondback Energy,,USA,Disponible
+FCX,Freeport-McMoRan,,USA,Disponible
+FDX,FedEx,,USA,Disponible
+FICO,Fair Isaac,,USA,Disponible
+FIS,Fidelity National Information Services,,USA,Disponible
+FTNT,Fortinet,,USA,Disponible
+FSLR,First Solar,,USA,Disponible
+GD,General Dynamics,,USA,Disponible
+GILD,Gilead Sciences,,USA,Disponible
+GM,General Motors,,USA,Disponible
+GME,GameStop,,USA,Disponible
+GPN,Global Payments,,USA,Disponible
+HAL,Halliburton,,USA,Disponible
+HCA,HCA Healthcare,,USA,Disponible
+HLT,Hilton Worldwide,,USA,Disponible
+HON,Honeywell,,USA,Disponible
+HOOD,Robinhood Markets,,USA,Disponible
+HPE,Hewlett Packard Enterprise,,USA,Disponible
+HPQ,HP,,USA,Disponible
+HUM,Humana,,USA,Disponible
+IOT,Samsara,,USA,Disponible
+IR,Ingersoll Rand,,USA,Disponible
+JD,JD.com ADR,,USA,Disponible
+GIS,General Mills,,USA,Disponible
+KDP,Keurig Dr Pepper,,USA,Disponible
+KEY,KeyCorp,,USA,Disponible
+KHC,Kraft Heinz,,USA,Disponible
+KKR,KKR,,USA,Disponible
+KMB,Kimberly-Clark,,USA,Disponible
+KO,Coca-Cola,,USA,Disponible
+KR,Kroger,,USA,Disponible
+LEN,Lennar,,USA,Disponible
+LIN,Linde,,USA,Disponible
+LMT,Lockheed Martin,,USA,Disponible
+LOW,Lowe's,,USA,Disponible
+LULU,Lululemon Athletica,,USA,Disponible
+LUV,Southwest Airlines,,USA,Disponible
+LVS,Las Vegas Sands,,USA,Disponible
+LYFT,Lyft,,USA,Disponible
+MCHP,Microchip Technology,,USA,Disponible
+MDB,MongoDB,,USA,Disponible
+MDLZ,Mondelez International,,USA,Disponible
+MDT,Medtronic,,USA,Disponible
+MELI,MercadoLibre,,USA,Disponible
+MGM,MGM Resorts,,USA,Disponible
+SYY,Sysco,,USA,Disponible
+MO,Altria,,USA,Disponible
+MOS,Mosaic,,USA,Disponible
+MPC,Marathon Petroleum,,USA,Disponible
+MRNA,Moderna,,USA,Disponible
+NEE,NextEra Energy,,USA,Disponible
+NEM,Newmont,,USA,Disponible
+NOC,Northrop Grumman,,USA,Disponible
+NTR,Nutrien,,USA,Disponible
+NXPI,NXP Semiconductors,,USA,Disponible
+O,Realty Income,,USA,Disponible
+OKTA,Okta,,USA,Disponible
+ON,ON Semiconductor,,USA,Disponible
+OXY,Occidental Petroleum,,USA,Disponible
+PAYX,Paychex,,USA,Disponible
+PCAR,Paccar,,USA,Disponible
+PEP,PepsiCo,,USA,Disponible
+PG,Procter & Gamble,,USA,Disponible
+PGR,Progressive,,USA,Disponible
+PH,Parker-Hannifin,,USA,Disponible
+PINS,Pinterest,,USA,Disponible
+PNC,PNC Financial Services,,USA,Disponible
+PSX,Phillips 66,,USA,Disponible
+RBLX,Roblox,,USA,Disponible
+REGN,Regeneron Pharmaceuticals,,USA,Disponible
+RIVN,Rivian Automotive,,USA,Disponible
+ROK,Rockwell Automation,,USA,Disponible
+ROST,Ross Stores,,USA,Disponible
+RSG,Republic Services,,USA,Disponible
+SE,Sea Limited ADR,,USA,No disponible
+SIRI,Sirius XM,,USA,Disponible
+SO,Southern Company,,USA,Disponible
+SPGI,S&P Global,,USA,Disponible
+STX,Seagate Technology,,USA,Disponible
+SYK,Stryker,,USA,Disponible
+TGT,Target,,USA,Disponible
+TJX,TJX Companies,,USA,Disponible
+TOL,Toll Brothers,,USA,Disponible
+TOST,Toast,,USA,Disponible
+TRV,Travelers,,USA,Disponible
+TTD,The Trade Desk,,USA,Disponible
+UAL,United Airlines,,USA,Disponible
+U,Unity Software,,USA,Disponible
+UPS,United Parcel Service,,USA,Disponible
+VEEV,Veeva Systems,,USA,Disponible
+VLO,Valero Energy,,USA,Disponible
+VRTX,Vertex Pharmaceuticals,,USA,Disponible
+WBD,Warner Bros Discovery,,USA,Disponible
+WFC,Wells Fargo,,USA,Disponible
+WM,Waste Management,,USA,Disponible
+WMB,Williams Companies,,USA,Disponible
+WYNN,Wynn Resorts,,USA,Disponible
+ACX.MC,Acerinox,,Spain,Disponible
+ANA.MC,Acciona,,Spain,Disponible
+AMS.MC,Amadeus IT Group,,Spain,Disponible
+BKT.MC,Bankinter,,Spain,Disponible
+CLNX.MC,Cellnex Telecom,,Spain,Disponible
+COL.MC,Inmobiliaria Colonial,,Spain,Disponible
+ENG.MC,Enagas,,Spain,Disponible
+GRF.MC,Grifols,,Spain,Disponible
+IAG.MC,International Airlines Group,,Spain,Disponible
+IDR.MC,Indra Sistemas,,Spain,Disponible
+LOG.MC,Logista,,Spain,Disponible
+MAP.MC,Mapfre,,Spain,Disponible
+MRL.MC,Merlin Properties,,Spain,Disponible
+NTGY.MC,Naturgy,,Spain,Disponible
+RED.MC,Redeia,,Spain,Disponible
+ROVI.MC,Laboratorios Rovi,,Spain,No disponible
+SCYR.MC,Sacyr,,Spain,Disponible
+UNI.MC,Unicaja Banco,,Spain,Disponible
+TKA.DE,ThyssenKrupp,,Germany,Disponible
+BEI.DE,Beiersdorf,,Germany,Disponible
+BNR.DE,Brenntag,,Germany,Disponible
+CBK.DE,Commerzbank,,Germany,Disponible
+CON.DE,Continental,,Germany,Disponible
+DTG.DE,Daimler Truck,,Germany,Disponible
+EOAN.DE,E.ON,,Germany,Disponible
+FME.DE,Fresenius Medical Care,,Germany,Disponible
+FRE.DE,Fresenius,,Germany,Disponible
+HEI.DE,Heidelberg Materials,,Germany,Disponible
+HEN3.DE,Henkel Pref,,Germany,Disponible
+HFG.DE,HelloFresh,,Germany,Disponible
+HNR1.DE,Hannover Rueck,,Germany,Disponible
+MTX.DE,MTU Aero Engines,,Germany,Disponible
+PUM.DE,Puma,,Germany,Disponible
+QIA.DE,Qiagen,,Germany,Disponible
+SHL.DE,Siemens Healthineers,,Germany,Disponible
+SY1.DE,Symrise,,Germany,Disponible
+VNA.DE,Vonovia,,Germany,Disponible
+ZAL.DE,Zalando,,Germany,Disponible
+ACA.PA,Credit Agricole,,France,Disponible
+ALO.PA,Alstom,,France,Disponible
+CA.PA,Carrefour,,France,Disponible
+CAP.PA,Capgemini,,France,Disponible
+CS.PA,AXA,,France,Disponible
+DSY.PA,Dassault Systemes,,France,Disponible
+EL.PA,EssilorLuxottica,,France,Disponible
+EN.PA,Bouygues,,France,Disponible
+ENGI.PA,Engie,,France,Disponible
+ERF.PA,Eurofins Scientific,,France,Disponible
+GLE.PA,Societe Generale,,France,Disponible
+HO.PA,Thales,,France,Disponible
+KER.PA,Kering,,France,Disponible
+LR.PA,Legrand,,France,Disponible
+ML.PA,Michelin,,France,Disponible
+PUB.PA,Publicis Groupe,,France,Disponible
+RI.PA,Pernod Ricard,,France,Disponible
+SAF.PA,Safran,,France,Disponible
+TRN.MI,Terna,,Italy,Disponible
+VIE.PA,Veolia,,France,Disponible
+WLN.PA,Worldline,,France,Disponible
+AKZA.AS,Akzo Nobel,,Netherlands,Disponible
+ASM.AS,ASM International,,Netherlands,Disponible
+BESI.AS,BE Semiconductor Industries,,Netherlands,Disponible
+HEIA.AS,Heineken,,Netherlands,Disponible
+IMCD.AS,IMCD,,Netherlands,Disponible
+KPN.AS,KPN,,Netherlands,Disponible
+NN.AS,NN Group,,Netherlands,Disponible
+RAND.AS,Randstad,,Netherlands,Disponible
+REN.AS,Relx,,Netherlands,Disponible
+UMG.AS,Universal Music Group,,Netherlands,Disponible
+WKL.AS,Wolters Kluwer,,Netherlands,Disponible
+AMP.MI,Amplifon,,Italy,Disponible
+BAMI.MI,Banco BPM,,Italy,Disponible
+BPE.MI,BPER Banca,,Italy,Disponible
+CPR.MI,Campari,,Italy,Disponible
+G.MI,Assicurazioni Generali,,Italy,Disponible
+LDO.MI,Leonardo,,Italy,Disponible
+MONC.MI,Moncler,,Italy,Disponible
+PIRC.MI,Pirelli,,Italy,Disponible
+PRY.MI,Prysmian,,Italy,Disponible
+REC.MI,Recordati,,Italy,Disponible
+SRG.MI,Snam,,Italy,Disponible
+STLAM.MI,Stellantis,,Italy,Disponible
+TIT.MI,Telecom Italia,,Italy,Disponible
+AAL.L,Anglo American,,United Kingdom,Disponible
+AV.L,Aviva,,United Kingdom,Disponible
+BA.L,BAE Systems,,United Kingdom,Disponible
+BARC.L,Barclays,,United Kingdom,Disponible
+DGE.L,Diageo,,United Kingdom,Disponible
+GLEN.L,Glencore,,United Kingdom,Disponible
+LLOY.L,Lloyds Banking Group,,United Kingdom,Disponible
+LSEG.L,London Stock Exchange Group,,United Kingdom,Disponible
+NG.L,National Grid,,United Kingdom,Disponible
+PRU.L,Prudential,,United Kingdom,Disponible
+REL.L,RELX,,United Kingdom,Disponible
+RIO.L,Rio Tinto,,United Kingdom,Disponible
+RR.L,Rolls-Royce Holdings,,United Kingdom,Disponible
+SDR.L,Schroders,,United Kingdom,Disponible
+TSCO.L,Tesco,,United Kingdom,Disponible
+VOD.L,Vodafone,,United Kingdom,Disponible
+WPP.L,WPP,,United Kingdom,Disponible
+ABBN.SW,ABB,,Switzerland,Disponible
+CFR.SW,Richemont,,Switzerland,Disponible
+GEBN.SW,Geberit,,Switzerland,Disponible
+GIVN.SW,Givaudan,,Switzerland,Disponible
+HOLN.SW,Holcim,,Switzerland,Disponible
+LOGN.SW,Logitech,,Switzerland,Disponible
+LONN.SW,Lonza,,Switzerland,Disponible
+SCMN.SW,Swisscom,,Switzerland,Disponible
+SIKA.SW,Sika,,Switzerland,Disponible
+SREN.SW,Swiss Re,,Switzerland,Disponible
+ZURN.SW,Zurich Insurance,,Switzerland,Disponible
