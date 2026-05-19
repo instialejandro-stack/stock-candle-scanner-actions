@@ -1,29 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-05-19 08:03:18 WEST
+Fecha de generación: 2026-05-19 08:59:39 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
 - Alta prioridad: 3
-- Media prioridad: 2
+- Media prioridad: 5
 - Baja prioridad: 2
-- Descartar: 3
-- Mejor candidata: NOW - ServiceNow - Score 78.0 - Clasificación Alta prioridad
+- Descartar: 0
+- Mejor candidata: SNOW - Snowflake - Score 78.0 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
+- Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:--------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | NOW      | ServiceNow          |       4.61 |              1.7  |       13.04 |      4.7  |             0.82 | 2.12      |   78    | Alta prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                            |
-|      2 | SNOW     | Snowflake           |       4.81 |              1.51 |        8.41 |      4.99 |             0.9  | 0.62      |   78    | Alta prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                            |
-|      3 | CRWD     | CrowdStrike         |       4.98 |              1.61 |       14.12 |      3.92 |             0.93 | N/A       |   75.56 | Alta prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      4 | ADBE     | Adobe               |       3.37 |              1.11 |        3.86 |      3.45 |             0.95 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      5 | DTE.DE   | Deutsche Telekom    |       5.11 |              0.97 |        4.31 |      2.35 |             1    | N/A       |   60    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      6 | CRM      | Salesforce          |       3.81 |              1.12 |        1.12 |      4.04 |             0.86 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      7 | ABT      | Abbott Laboratories |       3.59 |              0.9  |        6.48 |      2.48 |             1    | N/A       |   48.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      8 | NFLX     | Netflix             |       3.64 |              0.99 |        4.92 |      2.72 |             0.95 | N/A       |   43.33 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      9 | SHOP     | Shopify             |       3.22 |              0.75 |       -0.15 |      6.14 |             0.8  | N/A       |   38.89 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
-|     10 | ADYEN.AS | Adyen               |       3.33 |              0.67 |       -1.27 |      3.89 |             0.78 | N/A       |   27.78 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
+|   rank | ticker   | name                           | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
+|-------:|:---------|:-------------------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
+|      1 | SNOW     | Snowflake                      | USA            | Disponible              |       4.81 |              1.51 |        8.41 |      4.99 |             0.9  | 0.62      |   78    | Alta prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                            |
+|      2 | MDB      | MongoDB                        | USA            | Disponible              |       5.8  |              1.69 |       12    |      5.34 |             0.67 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. gap no disponible.                                                  |
+|      3 | CRWD     | CrowdStrike                    | USA            | Disponible              |       4.98 |              1.61 |       14.12 |      3.92 |             0.93 | N/A       |   75.56 | Alta prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
+|      4 | FICO     | Fair Isaac                     | USA            | Disponible              |       8.01 |              1.04 |        8.23 |      4.42 |             0.96 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      5 | CTSH     | Cognizant Technology Solutions | USA            | Disponible              |       7.17 |              1.98 |        4.37 |      4.04 |             0.98 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      6 | LSEG.L   | London Stock Exchange Group    | United Kingdom | Disponible              |      14.42 |              0.06 |        0.32 |      3.41 |             0.99 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      7 | RBLX     | Roblox                         | USA            | Disponible              |       9.72 |              1.1  |       13.73 |      7.35 |             0.87 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      8 | TTD      | The Trade Desk                 | USA            | Disponible              |       6.1  |              1.06 |        3.49 |      5.92 |             0.81 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      9 | ACN      | Accenture                      | USA            | Disponible              |       5.84 |              0.92 |        3.02 |      4.13 |             1    | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|     10 | IDR.MC   | Indra Sistemas                 | Spain          | Disponible              |       5.44 |              0.19 |        1.25 |      4.25 |             0.98 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
 
 ## Revisión manual antes de operar
 
