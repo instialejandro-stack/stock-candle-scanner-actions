@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-05-19 11:50:27 WEST
+Fecha de generación: 2026-05-20 09:48:19 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 1
-- Media prioridad: 7
-- Baja prioridad: 2
+- Alta prioridad: 0
+- Media prioridad: 5
+- Baja prioridad: 5
 - Descartar: 0
-- Mejor candidata: MDB - MongoDB - Score 80.0 - Clasificación Alta prioridad
+- Mejor candidata: LLY - Eli Lilly - Score 70.0 - Clasificación Media prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                           | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:-------------------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | MDB      | MongoDB                        | USA            | Disponible              |       5.8  |              1.69 |       12    |      5.34 |             0.67 | 0.91      |   80    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista.                                                                     |
-|      2 | FICO     | Fair Isaac                     | USA            | Disponible              |       8.01 |              1.04 |        8.23 |      4.42 |             0.96 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
-|      3 | WLN.PA   | Worldline                      | France         | Disponible              |       6.93 |              0.74 |       20.11 |      6.84 |             0.89 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      4 | LSEG.L   | London Stock Exchange Group    | United Kingdom | Disponible              |      15.35 |              0.22 |        1.22 |      3.43 |             1    | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      5 | CTSH     | Cognizant Technology Solutions | USA            | Disponible              |       7.17 |              1.98 |        4.37 |      4.04 |             0.98 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
-|      6 | RBLX     | Roblox                         | USA            | Disponible              |       9.72 |              1.1  |       13.73 |      7.35 |             0.87 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
-|      7 | TTD      | The Trade Desk                 | USA            | Disponible              |       6.1  |              1.06 |        3.49 |      5.92 |             0.81 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
-|      8 | ACN      | Accenture                      | USA            | Disponible              |       5.84 |              0.92 |        3.02 |      4.13 |             1    | 1.43      |   60    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                    |
-|      9 | CAP.PA   | Capgemini                      | France         | Disponible              |       5.26 |              0.31 |        7.01 |      3.69 |             0.94 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|     10 | IDR.MC   | Indra Sistemas                 | Spain          | Disponible              |       5.24 |              0.51 |        1.06 |      4.4  |             0.69 | N/A       |   52.22 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. gap no disponible.                          |
+|   rank | ticker   | name              | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                           |
+|-------:|:---------|:------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:------------------------------------------------------------------------------------------------|
+|      1 | LLY      | Eli Lilly         | USA            | Disponible              |       3.22 |              1.1  |        3.19 |      3.36 |             0.99 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                |
+|      2 | TGT      | Target            | USA            | Disponible              |       3.63 |              2.18 |        4.47 |      3.13 |             0.97 | N/A       |   67.78 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible.         |
+|      3 | AZN.L    | AstraZeneca       | United Kingdom | Disponible              |      17.1  |              0.07 |        0.36 |      3.3  |             1    | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.        |
+|      4 | TXN      | Texas Instruments | USA            | Disponible              |       3.31 |              0.8  |        2.42 |      3.39 |             0.76 | 0.71      |   63    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                                                    |
+|      5 | GLEN.L   | Glencore          | United Kingdom | Disponible              |      18.53 |              0.06 |       -4.29 |      3.63 |             0.97 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.        |
+|      6 | ULVR.L   | Unilever          | United Kingdom | Disponible              |      16.46 |              0.08 |        0.35 |      4.24 |             0.47 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre lejos del maximo diario. gap no disponible. |
+|      7 | BA.L     | BAE Systems       | United Kingdom | Disponible              |      14.64 |              0.06 |       -1.66 |      4.96 |             0.97 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.        |
+|      8 | MU       | Micron Technology | USA            | Disponible              |       4.98 |              1.22 |       -8.85 |      8.72 |             0.63 | 3.9       |   55    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista.                                                                            |
+|      9 | HD       | Home Depot        | USA            | Disponible              |       3.62 |              1.78 |       -2.58 |      2.67 |             0.95 | N/A       |   48.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                |
+|     10 | INTC     | Intel             | USA            | Disponible              |       3.57 |              0.92 |       -8.13 |      8.8  |             0.79 | 4.33      |   45    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                                                    |
 
 ## Revisión manual antes de operar
 
