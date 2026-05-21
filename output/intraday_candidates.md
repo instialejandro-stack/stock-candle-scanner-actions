@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-05-20 09:48:19 WEST
+Fecha de generación: 2026-05-21 08:28:13 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 0
-- Media prioridad: 5
-- Baja prioridad: 5
+- Alta prioridad: 4
+- Media prioridad: 4
+- Baja prioridad: 2
 - Descartar: 0
-- Mejor candidata: LLY - Eli Lilly - Score 70.0 - Clasificación Media prioridad
+- Mejor candidata: ENPH - Enphase Energy - Score 83.33 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name              | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                           |
-|-------:|:---------|:------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:------------------------------------------------------------------------------------------------|
-|      1 | LLY      | Eli Lilly         | USA            | Disponible              |       3.22 |              1.1  |        3.19 |      3.36 |             0.99 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                |
-|      2 | TGT      | Target            | USA            | Disponible              |       3.63 |              2.18 |        4.47 |      3.13 |             0.97 | N/A       |   67.78 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible.         |
-|      3 | AZN.L    | AstraZeneca       | United Kingdom | Disponible              |      17.1  |              0.07 |        0.36 |      3.3  |             1    | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.        |
-|      4 | TXN      | Texas Instruments | USA            | Disponible              |       3.31 |              0.8  |        2.42 |      3.39 |             0.76 | 0.71      |   63    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                                                    |
-|      5 | GLEN.L   | Glencore          | United Kingdom | Disponible              |      18.53 |              0.06 |       -4.29 |      3.63 |             0.97 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.        |
-|      6 | ULVR.L   | Unilever          | United Kingdom | Disponible              |      16.46 |              0.08 |        0.35 |      4.24 |             0.47 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre lejos del maximo diario. gap no disponible. |
-|      7 | BA.L     | BAE Systems       | United Kingdom | Disponible              |      14.64 |              0.06 |       -1.66 |      4.96 |             0.97 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.        |
-|      8 | MU       | Micron Technology | USA            | Disponible              |       4.98 |              1.22 |       -8.85 |      8.72 |             0.63 | 3.9       |   55    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista.                                                                            |
-|      9 | HD       | Home Depot        | USA            | Disponible              |       3.62 |              1.78 |       -2.58 |      2.67 |             0.95 | N/A       |   48.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                |
-|     10 | INTC     | Intel             | USA            | Disponible              |       3.57 |              0.92 |       -8.13 |      8.8  |             0.79 | 4.33      |   45    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                                                    |
+|   rank | ticker   | name                 | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
+|-------:|:---------|:---------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
+|      1 | ENPH     | Enphase Energy       | USA      | Disponible              |      10.91 |              1.26 |       26.55 |      7.89 |             0.92 | N/A       |   83.33 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      2 | DAL      | Delta Air Lines      | USA      | Disponible              |       7.97 |              1.64 |        4.32 |      3.58 |             0.88 | -0.59     |   78    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
+|      3 | CRWD     | CrowdStrike          | USA      | Disponible              |       5.83 |              1.44 |       15.56 |      4.02 |             0.98 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      4 | OKTA     | Okta                 | USA      | Disponible              |       6.3  |              1.08 |       13.86 |      4.42 |             0.97 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      5 | UAL      | United Airlines      | USA      | Disponible              |       8.91 |              1.55 |        2.42 |      4.41 |             0.94 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      6 | TOL      | Toll Brothers        | USA      | Disponible              |       6.04 |              1.88 |        2.58 |      3.47 |             0.99 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      7 | LUV      | Southwest Airlines   | USA      | Disponible              |       5.39 |              1.13 |        0.74 |      3.96 |             0.85 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      8 | CCL      | Carnival             | USA      | Disponible              |       8.46 |              1.61 |        4    |      4.64 |             0.89 | -0.92     |   63    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
+|      9 | SMCI     | Super Micro Computer | USA      | Disponible              |       7.62 |              0.97 |        4.56 |      7.42 |             0.84 | -0.9      |   58    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                    |
+|     10 | LULU     | Lululemon Athletica  | USA      | Disponible              |       5.62 |              0.9  |        3.28 |      3.18 |             0.99 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
 
 ## Revisión manual antes de operar
 
