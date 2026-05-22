@@ -1,4 +1,14 @@
 rank,date,ticker,name,isin,market,trade_republic_status,open,close,high,low,body,body_pct,volume
+2,2026-05-22,RR.L,Rolls-Royce Holdings,,United Kingdom,Disponible,1051.2,1225.8,1230.8,1051.2,174.6001,16.61,1331552
+1,2026-05-21,ENPH,Enphase Energy,,USA,Disponible,52.87,62.34,63.28,52.86,9.47,17.91,18276500
+3,2026-05-21,STX,Seagate Technology,,USA,Disponible,753.47,810.46,811.51,753.47,56.9901,7.56,3476800
+4,2026-05-21,ANET,Arista Networks,,USA,Disponible,139.3,148.59,148.99,139.125,9.29,6.67,11602300
+5,2026-05-21,SIRI,Sirius XM,,USA,Disponible,27.49,28.99,29.24,27.32,1.5,5.46,8234900
+6,2026-05-21,QCOM,Qualcomm,US7475251036,USA,Disponible,202.78,213.41,214.01,197.6,10.63,5.24,28101000
+7,2026-05-21,FSLR,First Solar,,USA,Disponible,237.2,248.88,257.0,236.75,11.68,4.92,4293500
+8,2026-05-21,UAL,United Airlines,,USA,Disponible,95.43,99.64,100.28,95.3,4.21,4.41,6967000
+9,2026-05-21,TGT,Target,,USA,Disponible,120.83,126.15,126.52,117.81,5.32,4.4,9952100
+10,2026-05-21,LUV,Southwest Airlines,,USA,Disponible,39.08,40.78,40.91,38.81,1.7,4.35,8050000
 1,2026-05-20,GLEN.L,Glencore,,United Kingdom,Disponible,478.1,566.7,569.2,478.1,88.6,18.53,2280297
 1,2026-05-20,ENPH,Enphase Energy,,USA,Disponible,47.92,53.15,53.72,46.4,5.23,10.91,11265800
 2,2026-05-20,AZN.L,AstraZeneca,GB0009895292,United Kingdom,Disponible,11798.0,13816.0,13822.0,11798.0,2018.0,17.1,138782
