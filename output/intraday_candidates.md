@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-05-22 09:42:26 WEST
+Fecha de generación: 2026-05-23 08:21:21 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 2
-- Media prioridad: 8
-- Baja prioridad: 0
+- Alta prioridad: 4
+- Media prioridad: 4
+- Baja prioridad: 2
 - Descartar: 0
-- Mejor candidata: ENPH - Enphase Energy - Score 88.89 - Clasificación Alta prioridad
+- Mejor candidata: HPQ - HP - Score 94.44 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                 | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:---------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | ENPH     | Enphase Energy       | USA            | Disponible              |      17.91 |              1.93 |       29.85 |      7.74 |             0.91 | N/A       |   88.89 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
-|      2 | SIRI     | Sirius XM            | USA            | Disponible              |       5.46 |              1.61 |       10.56 |      2.89 |             0.87 | N/A       |   78.89 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
-|      3 | RR.L     | Rolls-Royce Holdings | United Kingdom | Disponible              |      16.61 |              0    |        7.49 |      6.39 |             0.97 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      4 | STX      | Seagate Technology   | USA            | Disponible              |       7.56 |              0.72 |        0.71 |      5.91 |             0.98 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      5 | TGT      | Target               | USA            | Disponible              |       4.4  |              1.68 |        2.49 |      3.97 |             0.96 | N/A       |   67.78 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      6 | FSLR     | First Solar          | USA            | Disponible              |       4.92 |              1.63 |        7.45 |      4.9  |             0.6  | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                  |
-|      7 | QCOM     | Qualcomm             | USA            | Disponible              |       5.24 |              0.88 |        6.66 |      8.8  |             0.96 | 1.69      |   65    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                    |
-|      8 | ANET     | Arista Networks      | USA            | Disponible              |       6.67 |              0.93 |        0.53 |      5.79 |             0.96 | 1.89      |   65    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                    |
-|      9 | UAL      | United Airlines      | USA            | Disponible              |       4.41 |              1.21 |        3.77 |      4.28 |             0.87 | N/A       |   62.22 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|     10 | LUV      | Southwest Airlines   | USA            | Disponible              |       4.35 |              1.23 |        3.69 |      3.79 |             0.94 | N/A       |   62.22 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
+|   rank | ticker   | name                       | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
+|-------:|:---------|:---------------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
+|      1 | HPQ      | HP                         | USA      | Disponible              |      11.68 |              2.88 |       21.29 |      4.39 |             0.89 | N/A       |   94.44 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible.  |
+|      2 | DELL     | Dell Technologies          | USA      | Disponible              |      10.1  |              2.43 |       21.98 |      6.02 |             0.91 | N/A       |   94.44 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible.  |
+|      3 | F        | Ford Motor                 | USA      | Disponible              |       8.27 |              1.54 |       11.42 |      4.9  |             0.98 | N/A       |   83.33 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      4 | HPE      | Hewlett Packard Enterprise | USA      | Disponible              |       8.46 |              1.94 |       13.53 |      4.27 |             0.95 | N/A       |   83.33 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      5 | NXPI     | NXP Semiconductors         | USA      | Disponible              |       5.21 |              0.68 |        8.57 |      3.87 |             0.98 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      6 | SMCI     | Super Micro Computer       | USA      | Disponible              |       5.27 |              1.03 |       14.63 |      7.22 |             0.84 | -1.01     |   71    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
+|      7 | QCOM     | Qualcomm                   | USA      | Disponible              |      11.07 |              0.95 |       18.2  |      8.36 |             0.83 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      8 | IFX.DE   | Infineon                   | Germany  | Disponible              |       4.96 |              1.02 |       12.62 |      5.18 |             0.9  | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
+|      9 | ON       | ON Semiconductor           | USA      | Disponible              |       4.82 |              0.66 |        2.73 |      5.75 |             0.76 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
+|     10 | TTD      | The Trade Desk             | USA      | Disponible              |       4.82 |              0.84 |        5.82 |      6.01 |             0.89 | -0.54     |   46    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
 
 ## Revisión manual antes de operar
 
