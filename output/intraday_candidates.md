@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-05-28 12:08:39 WEST
+Fecha de generación: 2026-05-29 11:57:39 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 2
-- Media prioridad: 6
-- Baja prioridad: 2
+- Alta prioridad: 6
+- Media prioridad: 4
+- Baja prioridad: 0
 - Descartar: 0
-- Mejor candidata: APP - AppLovin - Score 83.0 - Clasificación Alta prioridad
+- Mejor candidata: HOOD - Robinhood Markets - Score 90.0 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name           | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:---------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | APP      | AppLovin       | USA            | Disponible              |       9.01 |              1.63 |       19.07 |      6.62 |             0.8  | 0.6       |   83    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
-|      2 | MOS      | Mosaic         | USA            | Disponible              |       5.8  |              1.1  |       10.84 |      4.03 |             0.97 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
-|      3 | MGM      | MGM Resorts    | USA            | Disponible              |       4.04 |              1.92 |       16.46 |      3.49 |             0.68 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                  |
-|      4 | HPQ      | HP             | USA            | Disponible              |       4.51 |              1.82 |       21.55 |      4.58 |             0.93 | -1.26     |   71    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                            |
-|      5 | GM       | General Motors | USA            | Disponible              |       4.3  |              1.47 |       15.82 |      3.08 |             0.9  | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      6 | LDO.MI   | Leonardo       | Italy          | Disponible              |       5.59 |              0.82 |        5.55 |      3.39 |             0.92 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      7 | RIO.L    | Rio Tinto      | United Kingdom | Disponible              |      13.33 |              0.13 |        2.05 |      4.65 |             0.92 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      8 | IDR.MC   | Indra Sistemas | Spain          | Disponible              |       4.38 |              0.7  |        7.34 |      3.48 |             0.79 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
-|      9 | U        | Unity Software | USA            | Disponible              |       3.81 |              0.84 |        5.95 |      6.42 |             0.71 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
-|     10 | META     | Meta Platforms | USA            | Disponible              |       4.24 |              1.37 |        5.42 |      2.09 |             0.89 | N/A       |   54.44 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
+|   rank | ticker   | name                 | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                 |
+|-------:|:---------|:---------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:----------------------------------------------------------------------|
+|      1 | HOOD     | Robinhood Markets    | USA      | Disponible              |      13.35 |              1.88 |       11.99 |      5.19 |             0.99 | 0.66      |   90    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                         |
+|      2 | FSLR     | First Solar          | USA      | Disponible              |      10.08 |              1.86 |       27.55 |      5.05 |             0.8  | N/A       |   86.67 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.      |
+|      3 | PLTR     | Palantir             | USA      | Disponible              |       7.64 |              1.23 |        4.51 |      3.71 |             0.86 | 2.3       |   78    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                         |
+|      4 | APP      | AppLovin             | USA      | Disponible              |       6.71 |              1.11 |       24.39 |      5.98 |             0.86 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.      |
+|      5 | AXON     | Axon Enterprise      | USA      | Disponible              |      11.62 |              1.35 |       10.26 |      5.73 |             0.84 | -0.7      |   76    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                         |
+|      6 | U        | Unity Software       | USA      | Disponible              |       9.07 |              1.23 |       14.14 |      5.59 |             0.94 | N/A       |   75.56 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.      |
+|      7 | WLN.PA   | Worldline            | France   | Disponible              |       6.46 |              0.61 |       16.55 |      5.83 |             0.77 | N/A       |   68.89 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. gap no disponible.       |
+|      8 | SHOP     | Shopify              | USA      | Disponible              |       7.32 |              1    |        9.54 |      4.52 |             0.97 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.      |
+|      9 | SMCI     | Super Micro Computer | USA      | Disponible              |       8.68 |              1.72 |       23.43 |      6.23 |             0.62 | 10.06     |   62    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. gap superior al 10%.                             |
+|     10 | COIN     | Coinbase             | USA      | Disponible              |       6.9  |              0.94 |       -4.73 |      7.63 |             0.97 | 0.55      |   60    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. |
 
 ## Revisión manual antes de operar
 
