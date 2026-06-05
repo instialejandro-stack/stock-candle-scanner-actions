@@ -1,12 +1,19 @@
 rank,date,ticker,name,isin,market,trade_republic_status,open,close,high,low,body,body_pct,volume
+1,2026-06-05,RIO.L,Rio Tinto,,United Kingdom,Disponible,7063.0,7760.0,7814.0,7063.0,697.0,9.87,317181
+6,2026-06-05,ZAL.DE,Zalando,,Germany,Disponible,23.68,24.74,24.86,23.59,1.06,4.48,488760
 2,2026-06-04,PIRC.MI,Pirelli,,Italy,Disponible,5.62,6.045,6.205,5.31,0.425,7.56,2920940
+4,2026-06-04,AXON,Axon Enterprise,,USA,Disponible,485.0,513.2,515.8,477.25,28.2,5.81,1286500
 5,2026-06-04,CAP.PA,Capgemini,,France,Disponible,98.58,104.0,104.8,98.46,5.42,5.5,215192
+5,2026-06-04,BX,Blackstone,,USA,Disponible,112.25,118.55,119.66,111.78,6.3,5.61,8021400
 6,2026-06-04,DSY.PA,Dassault Systemes,,France,Disponible,19.01,19.885,20.05,19.01,0.875,4.6,529131
+7,2026-06-04,ORCL,Oracle,US68389X1054,USA,Disponible,227.0,236.34,238.95,224.0,9.34,4.11,19926600
 8,2026-06-04,WKL.AS,Wolters Kluwer,,Netherlands,Disponible,60.26,62.78,63.3,60.12,2.52,4.18,397376
+8,2026-06-04,HUM,Humana,,USA,Disponible,336.28,349.8,351.88,333.55,13.52,4.02,1891100
 10,2026-06-04,SAP.DE,SAP,DE0007164600,Germany,Disponible,156.22,162.44,163.54,156.22,6.22,3.98,894218
+10,2026-06-04,STX,Seagate Technology,,USA,Disponible,891.55,925.99,941.49,885.0,34.44,3.86,2525200
 1,2026-06-03,AZN.L,AstraZeneca,GB0009895292,United Kingdom,Disponible,11232.0,13088.0,13202.0,11232.0,1856.0,16.52,1732285
-1,2026-06-03,MRNA,Moderna,,USA,Disponible,45.3,49.06,49.55,45.3,3.76,8.3,6915600
-3,2026-06-03,RIVN,Rivian Automotive,,USA,Disponible,17.06,18.27,18.43,16.915,1.21,7.09,51680300
+2,2026-06-03,MRNA,Moderna,,USA,Disponible,45.3,49.06,49.55,45.3,3.76,8.3,6934400
+3,2026-06-03,RIVN,Rivian Automotive,,USA,Disponible,17.06,18.27,18.43,16.915,1.21,7.09,51857200
 4,2026-06-03,CPB,Campbell Soup,,USA,Disponible,20.73,21.49,21.51,20.65,0.76,3.67,2238515
 4,2026-06-03,QCOM,Qualcomm,US7475251036,USA,Disponible,235.02,250.01,255.09,233.02,14.99,6.38,19383500
 5,2026-06-03,CARR,Carrier Global,,USA,Disponible,66.1,68.46,68.84,65.62,2.36,3.57,1070129
@@ -14,7 +21,7 @@ rank,date,ticker,name,isin,market,trade_republic_status,open,close,high,low,body
 7,2026-06-03,FSLR,First Solar,,USA,Disponible,305.44,318.25,320.95,302.0,12.81,4.19,2700400
 8,2026-06-03,A,Agilent Technologies,,USA,Disponible,134.22,138.66,138.66,133.7,4.44,3.31,715579
 9,2026-06-03,GM,General Motors,,USA,Disponible,80.71,83.32,84.1,80.34,2.61,3.23,2495390
-9,2026-06-03,FANG,Diamondback Energy,,USA,Disponible,202.48,210.59,211.69,201.51,8.11,4.01,3167200
+9,2026-06-03,FANG,Diamondback Energy,,USA,Disponible,202.48,210.59,211.69,201.51,8.11,4.01,3174200
 2,2026-06-02,RR.L,Rolls-Royce Holdings,,United Kingdom,Disponible,1107.4,1281.0,1300.6,1107.4,173.6,15.68,2270743
 1,2026-06-01,MDB,MongoDB,,USA,Disponible,346.0,403.88,409.0,345.5,57.88,16.73,6772100
 3,2026-06-01,DELL,Dell Technologies,,USA,Disponible,426.15,465.96,469.47,426.15,39.81,9.34,20609000
