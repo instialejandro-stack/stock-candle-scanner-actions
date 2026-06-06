@@ -1,11 +1,11 @@
 rank,date,ticker,name,isin,market,trade_republic_status,open,close,high,low,body,body_pct,volume
-1,2026-06-05,RIO.L,Rio Tinto,,United Kingdom,Disponible,7063.0,7760.0,7814.0,7063.0,697.0,9.87,317181
-2,2026-06-03,MRNA,Moderna,,USA,Disponible,45.3,49.06,49.55,45.3,3.76,8.3,6934400
-3,2026-06-03,RIVN,Rivian Automotive,,USA,Disponible,17.06,18.27,18.43,16.915,1.21,7.09,51857200
-4,2026-06-04,AXON,Axon Enterprise,,USA,Disponible,485.0,513.2,515.8,477.25,28.2,5.81,1286500
-5,2026-06-04,BX,Blackstone,,USA,Disponible,112.25,118.55,119.66,111.78,6.3,5.61,8021400
-6,2026-06-05,ZAL.DE,Zalando,,Germany,Disponible,23.68,24.74,24.86,23.59,1.06,4.48,488760
-7,2026-06-04,ORCL,Oracle,US68389X1054,USA,Disponible,227.0,236.34,238.95,224.0,9.34,4.11,19926600
-8,2026-06-04,HUM,Humana,,USA,Disponible,336.28,349.8,351.88,333.55,13.52,4.02,1891100
-9,2026-06-03,FANG,Diamondback Energy,,USA,Disponible,202.48,210.59,211.69,201.51,8.11,4.01,3174200
-10,2026-06-04,STX,Seagate Technology,,USA,Disponible,891.55,925.99,941.49,885.0,34.44,3.86,2525200
+1,2026-06-05,KMB,Kimberly-Clark,,USA,Disponible,94.0,99.04,99.62,93.95,5.04,5.36,6360100
+2,2026-06-05,ZAL.DE,Zalando,,Germany,Disponible,23.68,24.64,24.86,23.59,0.96,4.05,1620253
+3,2026-06-05,LULU,Lululemon Athletica,,USA,Disponible,110.43,114.23,116.76,109.36,3.8,3.44,16178400
+4,2026-06-05,COO,Cooper Companies,,USA,Disponible,65.24,67.34,67.61,65.0,2.1,3.22,9087400
+5,2026-06-05,BEI.DE,Beiersdorf,,Germany,Disponible,67.82,70.0,70.08,67.7,2.18,3.21,586789
+6,2026-06-05,PG,Procter & Gamble,,USA,Disponible,142.22,146.54,148.23,141.8,4.32,3.04,10958700
+7,2026-06-05,CL,Colgate-Palmolive,,USA,Disponible,85.97,88.58,89.59,85.7,2.61,3.04,5961600
+8,2026-06-05,PGR,Progressive,,USA,Disponible,198.28,204.02,204.51,197.0,5.74,2.89,2743600
+9,2026-06-05,IDR.MC,Indra Sistemas,,Spain,Disponible,53.9,55.44,55.9,53.68,1.54,2.86,677251
+10,2026-06-05,TRV,Travelers,,USA,Disponible,295.71,303.25,303.89,295.43,7.54,2.55,1151500

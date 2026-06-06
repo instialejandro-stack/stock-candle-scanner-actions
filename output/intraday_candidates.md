@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-06-05 11:59:17 WEST
+Fecha de generación: 2026-06-06 09:04:44 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
 - Alta prioridad: 1
-- Media prioridad: 5
+- Media prioridad: 4
 - Baja prioridad: 4
-- Descartar: 0
-- Mejor candidata: RIVN - Rivian Automotive - Score 78.0 - Clasificación Alta prioridad
+- Descartar: 1
+- Mejor candidata: COO - Cooper Companies - Score 76.67 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name               | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:-------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | RIVN     | Rivian Automotive  | USA            | Disponible              |       7.09 |              1.58 |       24.29 |      4.69 |             0.89 | -1.42     |   78    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
-|      2 | AXON     | Axon Enterprise    | USA            | Disponible              |       5.81 |              0.98 |       16.82 |      5.25 |             0.93 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      3 | BX       | Blackstone         | USA            | Disponible              |       5.61 |              1.58 |        2.08 |      3.6  |             0.86 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
-|      4 | HUM      | Humana             | USA            | Disponible              |       4.02 |              1.15 |       13.31 |      3.37 |             0.89 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      5 | MRNA     | Moderna            | USA            | Disponible              |       8.3  |              0.9  |        3.05 |      4.98 |             0.88 | 4.61      |   65    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                    |
-|      6 | ZAL.DE   | Zalando            | Germany        | Disponible              |       4.48 |              0.3  |        6.23 |      3.5  |             0.91 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      7 | FANG     | Diamondback Energy | USA            | Disponible              |       4.01 |              1.47 |        9.2  |      2.98 |             0.89 | -3.73     |   59    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                            |
-|      8 | ORCL     | Oracle             | USA            | Disponible              |       4.11 |              0.92 |       16.02 |      4.88 |             0.83 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      9 | STX      | Seagate Technology | USA            | Disponible              |       3.86 |              0.72 |        5.14 |      5.2  |             0.73 | -2.22     |   56    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                                             |
-|     10 | RIO.L    | Rio Tinto          | United Kingdom | Disponible              |       9.87 |              0.12 |       -2.61 |      6.09 |             0.93 | N/A       |   50    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|   rank | ticker   | name                | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
+|-------:|:---------|:--------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
+|      1 | COO      | Cooper Companies    | USA      | Disponible              |       3.22 |              2.9  |       10.01 |      2.8  |             0.9  | N/A       |   76.67 | Alta prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible.  |
+|      2 | KMB      | Kimberly-Clark      | USA      | Disponible              |       5.36 |              1.36 |        1.48 |      2.6  |             0.9  | N/A       |   65.56 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      3 | ZAL.DE   | Zalando             | Germany  | Disponible              |       4.05 |              0.96 |        5.8  |      3.51 |             0.83 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      4 | PG       | Procter & Gamble    | USA      | Disponible              |       3.04 |              1.28 |        2.08 |      2.29 |             0.74 | N/A       |   62.22 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                  |
+|      5 | LULU     | Lululemon Athletica | USA      | Disponible              |       3.44 |              3.88 |      -12.92 |      4.86 |             0.66 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo alto. gap no disponible.                           |
+|      6 | PGR      | Progressive         | USA      | Disponible              |       2.89 |              0.84 |        7.15 |      2.47 |             0.93 | -1.21     |   57    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
+|      7 | TRV      | Travelers           | USA      | Disponible              |       2.55 |              0.81 |        3.89 |      2.05 |             0.92 | -1.07     |   50    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
+|      8 | CL       | Colgate-Palmolive   | USA      | Disponible              |       3.04 |              1.13 |       -1.72 |      2.59 |             0.74 | N/A       |   48.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                  |
+|      9 | IDR.MC   | Indra Sistemas      | Spain    | Disponible              |       2.86 |              0.68 |       -2.53 |      3.57 |             0.79 | N/A       |   47.78 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
+|     10 | BEI.DE   | Beiersdorf          | Germany  | Disponible              |       3.21 |              1.19 |        1.19 |      2.52 |             0.97 | N/A       |   43.33 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
 
 ## Revisión manual antes de operar
 
