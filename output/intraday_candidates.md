@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-06-10 12:27:42 WEST
+Fecha de generación: 2026-06-11 13:30:44 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
 - Alta prioridad: 0
-- Media prioridad: 4
-- Baja prioridad: 2
-- Descartar: 4
-- Mejor candidata: CNC - Centene - Score 70.0 - Clasificación Media prioridad
+- Media prioridad: 0
+- Baja prioridad: 9
+- Descartar: 1
+- Mejor candidata: CFR.SW - Richemont - Score 58.89 - Clasificación Baja prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name              | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | CNC      | Centene           | USA            | Disponible              |       4.35 |              1.41 |        4.89 |      3.33 |             0.8  | 1.72      |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
-|      2 | PINS     | Pinterest         | USA            | Disponible              |       3.14 |              1.42 |        3    |      5.19 |             0.96 | -4.14     |   63    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                            |
-|      3 | AMAT     | Applied Materials | USA            | Disponible              |       3.4  |              1.15 |        7.42 |      4.98 |             0.79 | -0.99     |   61    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
-|      4 | KLAC     | KLA               | USA            | Disponible              |       3.85 |              1.15 |        8.66 |      5.08 |             0.79 | -1.05     |   61    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
-|      5 | GLEN.L   | Glencore          | United Kingdom | Disponible              |      15.56 |              0.19 |       -8.07 |      7.27 |             0.89 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      6 | FICO     | Fair Isaac        | USA            | Disponible              |       5.53 |              0.81 |       -6.03 |      5.76 |             0.81 | 1.17      |   55    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                    |
-|      7 | KHC      | Kraft Heinz       | USA            | Disponible              |       3.87 |              1.02 |       -1.18 |      2.7  |             0.95 | N/A       |   43.33 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      8 | TSLA     | Tesla             | USA            | Disponible              |       3.18 |              1.02 |       -1.67 |      3.78 |             0.78 | -4.8      |   40    | Descartar        | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
-|      9 | COIN     | Coinbase          | USA            | Disponible              |       3.51 |              0.89 |      -11.23 |      6.39 |             0.77 | -6.24     |   35    | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                                             |
-|     10 | INTU     | Intuit            | USA            | Disponible              |       3.49 |              0.83 |      -13.64 |      8.05 |             0.96 | -5.9      |   33    | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
+|   rank | ticker   | name                        | market      | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
+|-------:|:---------|:----------------------------|:------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
+|      1 | CFR.SW   | Richemont                   | Switzerland | Disponible              |       3.86 |              0.5  |        6.32 |      3.1  |             0.9  | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      2 | BESI.AS  | BE Semiconductor Industries | Netherlands | Disponible              |       3.78 |              0.61 |        7.51 |      4.32 |             0.87 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      3 | MONC.MI  | Moncler                     | Italy       | Disponible              |       3.66 |              0.34 |        6.8  |      3.31 |             0.99 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      4 | NOVN.SW  | Novartis                    | Switzerland | Disponible              |       3.22 |              0.28 |        5.18 |      1.97 |             0.92 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      5 | MC.PA    | LVMH                        | France      | Disponible              |       3.18 |              0.59 |        5.76 |      3.02 |             0.7  | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
+|      6 | KER.PA   | Kering                      | France      | Disponible              |       3.01 |              0.47 |        4.32 |      3.69 |             0.89 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      7 | DOW      | Dow                         | USA         | Disponible              |       2.98 |              1.17 |       -3.28 |      3.58 |             0.86 | 1.2       |   53    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                            |
+|      8 | ACX.MC   | Acerinox                    | Spain       | Disponible              |       3.09 |              0.34 |       -0.73 |      2.45 |             0.98 | N/A       |   48.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      9 | PUM.DE   | Puma                        | Germany     | Disponible              |       3.78 |              0.29 |        1.37 |      4.59 |             0.91 | N/A       |   47.78 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|     10 | MDB      | MongoDB                     | USA         | Disponible              |       4.09 |              0.5  |       -5.44 |      8.48 |             0.6  | -0.51     |   40    | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                                             |
 
 ## Revisión manual antes de operar
 
