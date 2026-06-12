@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-06-11 13:30:44 WEST
+Fecha de generación: 2026-06-12 12:52:50 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 0
-- Media prioridad: 0
-- Baja prioridad: 9
-- Descartar: 1
-- Mejor candidata: CFR.SW - Richemont - Score 58.89 - Clasificación Baja prioridad
+- Alta prioridad: 5
+- Media prioridad: 4
+- Baja prioridad: 1
+- Descartar: 0
+- Mejor candidata: LRCX - Lam Research - Score 83.33 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                        | market      | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:----------------------------|:------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | CFR.SW   | Richemont                   | Switzerland | Disponible              |       3.86 |              0.5  |        6.32 |      3.1  |             0.9  | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      2 | BESI.AS  | BE Semiconductor Industries | Netherlands | Disponible              |       3.78 |              0.61 |        7.51 |      4.32 |             0.87 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      3 | MONC.MI  | Moncler                     | Italy       | Disponible              |       3.66 |              0.34 |        6.8  |      3.31 |             0.99 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      4 | NOVN.SW  | Novartis                    | Switzerland | Disponible              |       3.22 |              0.28 |        5.18 |      1.97 |             0.92 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      5 | MC.PA    | LVMH                        | France      | Disponible              |       3.18 |              0.59 |        5.76 |      3.02 |             0.7  | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
-|      6 | KER.PA   | Kering                      | France      | Disponible              |       3.01 |              0.47 |        4.32 |      3.69 |             0.89 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      7 | DOW      | Dow                         | USA         | Disponible              |       2.98 |              1.17 |       -3.28 |      3.58 |             0.86 | 1.2       |   53    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                            |
-|      8 | ACX.MC   | Acerinox                    | Spain       | Disponible              |       3.09 |              0.34 |       -0.73 |      2.45 |             0.98 | N/A       |   48.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      9 | PUM.DE   | Puma                        | Germany     | Disponible              |       3.78 |              0.29 |        1.37 |      4.59 |             0.91 | N/A       |   47.78 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|     10 | MDB      | MongoDB                     | USA         | Disponible              |       4.09 |              0.5  |       -5.44 |      8.48 |             0.6  | -0.51     |   40    | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                                             |
+|   rank | ticker   | name                 | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                     |
+|-------:|:---------|:---------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:------------------------------------------------------------------------------------------|
+|      1 | LRCX     | Lam Research         | USA            | Disponible              |       7.69 |              1.51 |        7.76 |      6.08 |             0.92 | N/A       |   83.33 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                          |
+|      2 | KLAC     | KLA                  | USA            | Disponible              |       8.96 |              1.58 |       13.16 |      5.99 |             0.91 | N/A       |   83.33 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                          |
+|      3 | LUV      | Southwest Airlines   | USA            | Disponible              |       8.47 |              1.02 |        7.21 |      3.73 |             0.97 | 1.23      |   80    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                             |
+|      4 | CCL      | Carnival             | USA            | Disponible              |       9.54 |              1.17 |        0.97 |      4    |             0.98 | 1.79      |   80    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                             |
+|      5 | UAL      | United Airlines      | USA            | Disponible              |      10.46 |              1.17 |        7.31 |      4.73 |             0.98 | 1.44      |   78    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                             |
+|      6 | DAL      | Delta Air Lines      | USA            | Disponible              |       6.95 |              1.1  |        2.92 |      3.44 |             0.97 | 1.91      |   73    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                             |
+|      7 | MU       | Micron Technology    | USA            | Disponible              |      10.12 |              1.06 |        0    |      8.66 |             0.99 | -0.88     |   63    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                             |
+|      8 | CRWD     | CrowdStrike          | USA            | Disponible              |       7.17 |              0.9  |       -3.83 |      6.15 |             0.91 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.  |
+|      9 | SMCI     | Super Micro Computer | USA            | Disponible              |       9.11 |              4.09 |      -31.83 |     14.5  |             0.98 | -1.33     |   60    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. volatilidad elevada. |
+|     10 | AZN.L    | AstraZeneca          | United Kingdom | Disponible              |      11.34 |              0.24 |       -1.83 |      3.81 |             0.89 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.  |
 
 ## Revisión manual antes de operar
 
