@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-06-13 09:42:09 WEST
+Fecha de generación: 2026-06-16 17:05:16 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 1
-- Media prioridad: 4
-- Baja prioridad: 3
-- Descartar: 2
-- Mejor candidata: INTC - Intel - Score 75.0 - Clasificación Alta prioridad
+- Alta prioridad: 0
+- Media prioridad: 8
+- Baja prioridad: 1
+- Descartar: 1
+- Mejor candidata: MRNA - Moderna - Score 72.22 - Clasificación Media prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name               | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                                          |
-|-------:|:---------|:-------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:---------------------------------------------------------------------------------------------------------------|
-|      1 | INTC     | Intel              | USA      | Disponible              |       6.09 |              1.16 |       25.61 |      7.94 |             0.75 | 0.65      |   75    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista.                                                                                           |
-|      2 | STX      | Seagate Technology | USA      | Disponible              |       5.78 |              0.99 |        9.86 |      6.09 |             0.81 | 0.55      |   73    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                                          |
-|      3 | MOS      | Mosaic             | USA      | Disponible              |       5.53 |              1.63 |        2.02 |      4.73 |             0.89 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                                               |
-|      4 | RIVN     | Rivian Automotive  | USA      | Disponible              |       6.92 |              0.92 |        2.51 |      6.98 |             0.99 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                       |
-|      5 | KLAC     | KLA                | USA      | Disponible              |       7.13 |              3.26 |      -86.81 |     96.89 |             0.98 | 0.97      |   62    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. volatilidad elevada. ATR superior al 15%. |
-|      6 | ALB      | Albemarle          | USA      | Disponible              |       5.47 |              1.49 |        9.64 |      4.85 |             0.69 | N/A       |   57.78 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. gap no disponible.                                                                        |
-|      7 | ANA.MC   | Acciona            | Spain    | Disponible              |       8.26 |              0.81 |        5.44 |      2.89 |             0.96 | N/A       |   56.67 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                       |
-|      8 | IOT      | Samsara            | USA      | Disponible              |       4.63 |              0.93 |       -3.28 |      7.43 |             0.99 | -0.64     |   46    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                                          |
-|      9 | QCOM     | Qualcomm           | USA      | Disponible              |       4.89 |              0.63 |       -1.95 |      9    |             0.78 | N/A       |   38.89 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                                                |
-|     10 | MSTR     | MicroStrategy      | USA      | Disponible              |       3.75 |              0.9  |        2.93 |      8.57 |             0.59 | N/A       |   35.56 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                                                |
+|   rank | ticker   | name                 | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
+|-------:|:---------|:---------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
+|      1 | MRNA     | Moderna              | USA            | Disponible              |       7.5  |              0.68 |       16.8  |      5.49 |             1    | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      2 | UCG.MI   | UniCredit            | Italy          | Disponible              |       2.78 |              1.81 |        8.46 |      2.55 |             0.91 | N/A       |   71.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
+|      3 | WLN.PA   | Worldline            | France         | Disponible              |      13.9  |              1.78 |       17.17 |      7.14 |             0.81 | -0.88     |   68    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
+|      4 | IR       | Ingersoll Rand       | USA            | Disponible              |       2.8  |              0.3  |        7.37 |      3.09 |             0.99 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      5 | RBLX     | Roblox               | USA            | Disponible              |       4.29 |              0.46 |       11.19 |      5    |             0.93 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      6 | AZN.L    | AstraZeneca          | United Kingdom | Disponible              |      15.67 |              0.95 |       -2.55 |      4.86 |             0.98 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      7 | PUB.PA   | Publicis Groupe      | France         | Disponible              |       2.4  |              1.21 |        3.62 |      2.71 |             0.96 | N/A       |   60    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
+|      8 | EMR      | Emerson Electric     | USA            | Disponible              |       2.49 |              0.62 |        8.23 |      2.92 |             0.84 | N/A       |   60    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      9 | CEG      | Constellation Energy | USA            | Disponible              |       2.71 |              0.38 |        7.05 |      3.85 |             0.73 | N/A       |   50    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
+|     10 | ADYEN.AS | Adyen                | Netherlands    | Disponible              |       3.26 |              1.07 |        8.16 |      5.34 |             0.76 | N/A       |   44.44 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                  |
 
 ## Revisión manual antes de operar
 
