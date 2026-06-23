@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-06-23 00:01:09 WEST
+Fecha de generación: 2026-06-23 23:46:31 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 0
+- Alta prioridad: 1
 - Media prioridad: 5
-- Baja prioridad: 4
-- Descartar: 1
-- Mejor candidata: ANA.MC - Acciona - Score 80.0 - Clasificación Baja prioridad
+- Baja prioridad: 1
+- Descartar: 3
+- Mejor candidata: STX - Seagate Technology - Score 75.0 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                         | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                                                                                                |
-|-------:|:---------|:-----------------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|      1 | ANA.MC   | Acciona                      | Spain    | Disponible              |       5.71 |              2.61 |        8.32 |      3.29 |             0.99 | 1.0       |   80    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. Score alto, pero clasificacion limitada a Baja prioridad por volumen medio inferior a 300.000.. |
-|      2 | LRCX     | Lam Research                 | USA      | Disponible              |       2.65 |              1.23 |       11.65 |      6.51 |             0.99 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                                                                                     |
-|      3 | SMCI     | Super Micro Computer         | USA      | Disponible              |       9.68 |              1.66 |       16.41 |     12.03 |             0.7  | 1.8       |   64    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volatilidad elevada.                                                                                                                            |
-|      4 | ON       | ON Semiconductor             | USA      | Disponible              |       4.9  |              0.96 |       12.64 |      7.22 |             0.88 | N/A       |   62.22 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                                                             |
-|      5 | AIG      | American International Group | USA      | Disponible              |       2.79 |              2.08 |        0.83 |      2.28 |             0.58 | N/A       |   62.22 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo alto. gap no disponible.                                                                                                       |
-|      6 | ABBV     | AbbVie                       | USA      | Disponible              |       3.64 |              1.32 |        1    |      2.77 |             0.75 | N/A       |   62.22 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                                                                                              |
-|      7 | WMB      | Williams Companies           | USA      | Disponible              |       2.87 |              1.24 |        3.98 |      2.15 |             0.73 | 0.89      |   59    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista.                                                                                                                                                 |
-|      8 | CNC      | Centene                      | USA      | Disponible              |       2.71 |              0.88 |       -2.32 |      4.2  |             0.79 | 1.63      |   58    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                                                                                                                         |
-|      9 | CNP      | CenterPoint Energy           | USA      | Disponible              |       3.65 |              0.96 |        0.51 |      2.1  |             0.78 | N/A       |   56.67 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                                                                                                      |
-|     10 | APP      | AppLovin                     | USA      | Disponible              |       2.63 |              1.41 |       -5.51 |      7.11 |             0.64 | N/A       |   44.44 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                                                                                              |
+|   rank | ticker   | name                       | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
+|-------:|:---------|:---------------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
+|      1 | STX      | Seagate Technology         | USA            | Disponible              |       5.52 |              1.27 |        1.94 |      7.12 |             0.9  | 0.64      |   75    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
+|      2 | ULVR.L   | Unilever                   | United Kingdom | Disponible              |      19.27 |              0.62 |        1.3  |      6.47 |             0.97 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      3 | ZAL.DE   | Zalando                    | Germany        | Disponible              |       4.69 |              1.04 |        4    |      3.93 |             0.71 | 1.03      |   68    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
+|      4 | DELL     | Dell Technologies          | USA            | Disponible              |       8.3  |              0.45 |        4.57 |      7.28 |             0.84 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      5 | CCL      | Carnival                   | USA            | Disponible              |       4.82 |              1.52 |       -4.65 |      5.14 |             0.91 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
+|      6 | UAL      | United Airlines            | USA            | Disponible              |       4.09 |              0.92 |        1.32 |      4.29 |             0.94 | N/A       |   62.22 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      7 | HPE      | Hewlett Packard Enterprise | USA            | Disponible              |       5.77 |              0.37 |       -0.2  |      6.22 |             0.8  | N/A       |   52.22 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. gap no disponible.                          |
+|      8 | AXON     | Axon Enterprise            | USA            | Disponible              |       4.35 |              0.93 |       -2.29 |      6.3  |             0.7  | N/A       |   44.44 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
+|      9 | EBAY     | eBay                       | USA            | Disponible              |       3.69 |              0.81 |       -0.19 |      2.64 |             0.86 | N/A       |   43.33 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|     10 | PINS     | Pinterest                  | USA            | Disponible              |       4.3  |              1.04 |       -8.44 |      6.09 |             0.46 | N/A       |   42.22 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. cierre lejos del maximo diario. gap no disponible.                  |
 
 ## Revisión manual antes de operar
 
