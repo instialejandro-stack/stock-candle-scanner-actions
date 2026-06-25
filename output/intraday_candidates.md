@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-06-24 23:49:19 WEST
+Fecha de generación: 2026-06-25 23:55:45 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 2
-- Media prioridad: 5
-- Baja prioridad: 2
-- Descartar: 1
-- Mejor candidata: UAL - United Airlines - Score 83.33 - Clasificación Alta prioridad
+- Alta prioridad: 1
+- Media prioridad: 6
+- Baja prioridad: 3
+- Descartar: 0
+- Mejor candidata: AMAT - Applied Materials - Score 75.56 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name             | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:-----------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | UAL      | United Airlines  | USA            | Disponible              |       5.27 |              1.65 |       10.15 |      4.28 |             0.99 | N/A       |   83.33 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
-|      2 | SHOP     | Shopify          | USA            | Disponible              |       6.83 |              2.1  |        0.83 |      4.91 |             0.96 | -1.11     |   78    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos.                     |
-|      3 | BKNG     | Booking Holdings | USA            | Disponible              |       5.89 |              1.62 |        3.15 |      3.79 |             0.74 | -1.11     |   73    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista.                                                                     |
-|      4 | AZN.L    | AstraZeneca      | United Kingdom | Disponible              |      10.05 |              1.24 |        3.25 |      4.99 |             0.92 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
-|      5 | UBER     | Uber             | USA            | Disponible              |       5.05 |              1.29 |        0.82 |      3.27 |             0.69 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. gap no disponible.                                                  |
-|      6 | AXON     | Axon Enterprise  | USA            | Disponible              |       5.57 |              1.03 |        4.9  |      6.18 |             0.7  | -0.52     |   65    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista.                                                                     |
-|      7 | TOL      | Toll Brothers    | USA            | Disponible              |       4.95 |              1    |        5.06 |      3.77 |             0.68 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                  |
-|      8 | MELI     | MercadoLibre     | USA            | Disponible              |       5.08 |              1.19 |       -0.87 |      3.84 |             0.76 | -0.57     |   58    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista.                                                                     |
-|      9 | BA.L     | BAE Systems      | United Kingdom | Disponible              |      17.56 |              1.05 |       -2.17 |      8.92 |             0.94 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
-|     10 | TKA.DE   | ThyssenKrupp     | Germany        | Disponible              |       4.68 |              0.75 |       -3.94 |      4.17 |             0.93 | N/A       |   42.22 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|   rank | ticker   | name              | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                                                                         |
+|-------:|:---------|:------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|
+|      1 | AMAT     | Applied Materials | USA            | Disponible              |       4.75 |              1.51 |       12.66 |      6.86 |             0.98 | N/A       |   75.56 | Alta prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                                                              |
+|      2 | ABBV     | AbbVie            | USA            | Disponible              |       4.06 |              1.62 |        9.9  |      2.6  |             0.87 | N/A       |   71.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                                                              |
+|      3 | ZAL.DE   | Zalando           | Germany        | Disponible              |       4.23 |              0.98 |        8.47 |      3.82 |             1    | 0.87      |   68    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                                                                         |
+|      4 | ULVR.L   | Unilever          | United Kingdom | Disponible              |       7.21 |              0.7  |        4    |      6.68 |             0.92 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                                      |
+|      5 | HUM      | Humana            | USA            | Disponible              |       4.87 |              0.66 |        3.87 |      3.22 |             0.83 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                                      |
+|      6 | VLO      | Valero Energy     | USA            | Disponible              |       5.97 |              0.83 |        6.38 |      3.92 |             0.96 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                                      |
+|      7 | MTX.DE   | MTU Aero Engines  | Germany        | Disponible              |       4.07 |              1.24 |        8.36 |      3.47 |             0.93 | 1.37      |   63    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. Score alto, pero clasificacion limitada a Baja prioridad por volumen medio inferior a 300.000.. |
+|      8 | RIO.L    | Rio Tinto         | United Kingdom | Disponible              |      18.02 |              1.26 |       -5.31 |      3.97 |             0.93 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                                                                              |
+|      9 | GIVN.SW  | Givaudan          | Switzerland    | Disponible              |       4.52 |              1.55 |        7.78 |      2.26 |             1    | -1.23     |   57    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                                                                                 |
+|     10 | DE       | Deere & Company   | USA            | Disponible              |       4.01 |              0.84 |        7.19 |      2.83 |             0.96 | -0.91     |   57    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                                                                         |
 
 ## Revisión manual antes de operar
 
