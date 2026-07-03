@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-07-02 23:36:15 WEST
+Fecha de generación: 2026-07-03 23:32:43 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
 - Alta prioridad: 0
-- Media prioridad: 7
-- Baja prioridad: 3
+- Media prioridad: 6
+- Baja prioridad: 4
 - Descartar: 0
-- Mejor candidata: HFG.DE - HelloFresh - Score 72.0 - Clasificación Media prioridad
+- Mejor candidata: MRNA - Moderna - Score 73.0 - Clasificación Media prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                   | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                                                        |
-|-------:|:---------|:-----------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------------------------------------------|
-|      1 | HFG.DE   | HelloFresh             | Germany        | Disponible              |       7.47 |              2.06 |        5.81 |      4.09 |             0.78 | -4.03     |   72    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto.                                                                                  |
-|      2 | MRNA     | Moderna                | USA            | Disponible              |       7.94 |              1.44 |       33.49 |      6.95 |             0.79 | 0.56      |   68    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. riesgo por subida acumulada. subida acumulada de 5 dias superior al 30%.                                |
-|      3 | RAND.AS  | Randstad               | Netherlands    | Disponible              |       5.98 |              1.35 |        2.61 |      3.03 |             0.98 | 2.28      |   68    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                                                                |
-|      4 | BA.L     | BAE Systems            | United Kingdom | Disponible              |       5.79 |              0.97 |       10.63 |      7.98 |             0.83 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                     |
-|      5 | IOT      | Samsara                | USA            | Disponible              |       5.65 |              0.82 |       23.98 |      5.46 |             0.91 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                     |
-|      6 | EL.PA    | EssilorLuxottica       | France         | Disponible              |       5.23 |              0.77 |        2.61 |      3.46 |             1    | 1.18      |   60    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                                                        |
-|      7 | VRTX     | Vertex Pharmaceuticals | USA            | Disponible              |       4.82 |              0.98 |        9.97 |      2.69 |             0.96 | N/A       |   60    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                     |
-|      8 | AAPL     | Apple                  | USA            | Disponible              |       4.95 |              1.04 |       12.17 |      2.9  |             0.95 | N/A       |   57.78 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                                             |
-|      9 | WLN.PA   | Worldline              | France         | Disponible              |       5.03 |              0.88 |        2.99 |      6.71 |             1    | -1.42     |   48    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                                                        |
-|     10 | RIO.L    | Rio Tinto              | United Kingdom | Disponible              |      24.71 |              0.51 |       -1.46 |      4.99 |             0.97 | N/A       |   47.56 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. cuerpo de vela extremadamente alto. |
+|   rank | ticker   | name                   | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                         |
+|-------:|:---------|:-----------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:----------------------------------------------------------------------------------------------|
+|      1 | MRNA     | Moderna                | USA      | Disponible              |       8.21 |              1.53 |       33.49 |      6.95 |             0.79 | 0.85      |   73    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. riesgo por subida acumulada. subida acumulada de 5 dias superior al 30%. |
+|      2 | HFG.DE   | HelloFresh             | Germany  | Disponible              |       7.47 |              2.06 |        5.81 |      4.09 |             0.78 | -5.21     |   72    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto.                                                   |
+|      3 | VEEV     | Veeva Systems          | USA      | Disponible              |       4.51 |              0.94 |       21.93 |      3.81 |             0.98 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.      |
+|      4 | FICO     | Fair Isaac             | USA      | Disponible              |       4.1  |              0.86 |       11.14 |      3.7  |             0.95 | 1.51      |   63    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                         |
+|      5 | IOT      | Samsara                | USA      | Disponible              |       5.65 |              0.85 |       23.98 |      5.46 |             0.91 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.      |
+|      6 | VRTX     | Vertex Pharmaceuticals | USA      | Disponible              |       4.82 |              0.98 |        9.97 |      2.69 |             0.96 | N/A       |   60    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.      |
+|      7 | AAPL     | Apple                  | USA      | Disponible              |       4.93 |              1.09 |       12.17 |      2.9  |             0.95 | N/A       |   57.78 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                              |
+|      8 | IDR.MC   | Indra Sistemas         | Spain    | Disponible              |       5.19 |              0.84 |        9.09 |      4.91 |             0.87 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.      |
+|      9 | ETSY     | Etsy                   | USA      | Disponible              |       4.78 |              0.97 |       -0.94 |      4.06 |             0.99 | -1.18     |   54    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                         |
+|     10 | HO.PA    | Thales                 | France   | Disponible              |       4.8  |              0.96 |       10.07 |      3.04 |             0.83 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.      |
 
 ## Revisión manual antes de operar
 
