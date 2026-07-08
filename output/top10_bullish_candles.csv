@@ -1,11 +1,11 @@
 rank,date,ticker,name,isin,market,trade_republic_status,open,close,high,low,body,body_pct,volume
-1,2026-07-07,RIO.L,Rio Tinto,,United Kingdom,Disponible,5629.0,6825.0,6954.0,5629.0,1196.0,21.25,2337712
-2,2026-07-07,DELL,Dell Technologies,,USA,Disponible,397.75,417.28,426.15,395.9301,19.53,4.91,7015649
-3,2026-07-07,OXY,Occidental Petroleum,,USA,Disponible,49.41,51.68,51.875,49.395,2.27,4.59,11594521
-4,2026-07-07,DOW,Dow,,USA,Disponible,27.55,28.64,28.7,27.55,1.09,3.96,13651931
-5,2026-07-06,LDO.MI,Leonardo,,Italy,Disponible,53.0,54.92,55.51,52.91,1.92,3.62,4058411
-6,2026-07-07,COP,ConocoPhillips,US20825C1045,USA,Disponible,104.7,108.44,108.81,104.55,3.74,3.57,6698126
-7,2026-07-06,PUM.DE,Puma,,Germany,Disponible,26.99,27.93,27.93,26.98,0.94,3.48,728871
-8,2026-07-07,CTSH,Cognizant Technology Solutions,,USA,Disponible,42.5,43.94,44.12,42.5,1.44,3.39,10587602
-9,2026-07-07,EOG,EOG Resources,,USA,Disponible,130.18,134.54,134.91,130.18,4.36,3.35,2664926
-10,2026-07-06,TKA.DE,ThyssenKrupp,,Germany,Disponible,11.97,12.37,12.46,11.875,0.4,3.34,3740915
+1,2026-07-08,SHEL.L,Shell,GB00BP6MXD84,United Kingdom,Disponible,2559.5,3079.5,3083.0,2559.5,520.0,20.32,11849238
+2,2026-07-08,RIO.L,Rio Tinto,,United Kingdom,Disponible,5460.0,6490.0,6779.0,5460.0,1030.0,18.86,4685432
+3,2026-07-08,LSEG.L,London Stock Exchange Group,,United Kingdom,Disponible,7680.0,8862.0,9030.0,7680.0,1182.0,15.39,905453
+4,2026-07-08,GLEN.L,Glencore,,United Kingdom,Disponible,432.3,490.65,511.6,432.3,58.35,13.5,30276795
+5,2026-07-08,BARC.L,Barclays,,United Kingdom,Disponible,438.7,497.1,513.6,438.7,58.4,13.31,36389368
+6,2026-07-08,ANET,Arista Networks,,USA,Disponible,166.18,181.05,181.27,166.04,14.87,8.95,11871112
+7,2026-07-08,SMCI,Super Micro Computer,US86800U1043,USA,Disponible,26.14,28.17,28.22,26.03,2.03,7.77,35650755
+8,2026-07-08,RIVN,Rivian Automotive,,USA,Disponible,15.665,16.66,16.79,15.4307,0.995,6.35,110553343
+9,2026-07-08,STX,Seagate Technology,,USA,Disponible,817.67,860.02,862.41,815.0,42.35,5.18,4922443
+10,2026-07-08,MU,Micron Technology,US5951121038,USA,Disponible,902.4,948.8,959.0,900.42,46.4,5.14,40550345

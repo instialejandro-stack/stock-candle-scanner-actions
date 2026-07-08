@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-07-07 23:36:50 WEST
+Fecha de generación: 2026-07-08 23:32:51 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 0
-- Media prioridad: 2
-- Baja prioridad: 7
-- Descartar: 1
-- Mejor candidata: TKA.DE - ThyssenKrupp - Score 63.0 - Clasificación Media prioridad
+- Alta prioridad: 1
+- Media prioridad: 4
+- Baja prioridad: 2
+- Descartar: 3
+- Mejor candidata: ANET - Arista Networks - Score 77.78 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                           | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                                                        |
-|-------:|:---------|:-------------------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------------------------------------------|
-|      1 | TKA.DE   | ThyssenKrupp                   | Germany        | Disponible              |       3.34 |              1.38 |       22.78 |      4.76 |             0.85 | -3.76     |   63    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                                                                |
-|      2 | LDO.MI   | Leonardo                       | Italy          | Disponible              |       3.62 |              1.43 |       19.24 |      3.77 |             0.77 | -1.88     |   63    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista.                                                                                                         |
-|      3 | EOG      | EOG Resources                  | USA            | Disponible              |       3.35 |              0.63 |        1.98 |      2.39 |             0.92 | 0.76      |   54    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                                                        |
-|      4 | DOW      | Dow                            | USA            | Disponible              |       3.96 |              1.03 |        2.58 |      4.01 |             0.95 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                                             |
-|      5 | CTSH     | Cognizant Technology Solutions | USA            | Disponible              |       3.39 |              0.73 |       13.42 |      5.48 |             0.89 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                     |
-|      6 | DELL     | Dell Technologies              | USA            | Disponible              |       4.91 |              0.85 |        0.64 |      7.67 |             0.71 | N/A       |   50    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                                                              |
-|      7 | OXY      | Occidental Petroleum           | USA            | Disponible              |       4.59 |              1.18 |        5.28 |      2.62 |             0.92 | N/A       |   48.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                                             |
-|      8 | PUM.DE   | Puma                           | Germany        | Disponible              |       3.48 |              0.9  |        3.91 |      3.47 |             1    | N/A       |   47.78 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                     |
-|      9 | RIO.L    | Rio Tinto                      | United Kingdom | Disponible              |      21.25 |              0.89 |       -4.17 |      6.29 |             0.9  | N/A       |   47.56 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. cuerpo de vela extremadamente alto. |
-|     10 | COP      | ConocoPhillips                 | USA            | Disponible              |       3.57 |              0.82 |        4.07 |      2.3  |             0.91 | N/A       |   43.33 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                     |
+|   rank | ticker   | name                        | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                                |
+|-------:|:---------|:----------------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------------------|
+|      1 | ANET     | Arista Networks             | USA            | Disponible              |       8.95 |              1.4  |        6.58 |      5.94 |             0.99 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                                     |
+|      2 | LSEG.L   | London Stock Exchange Group | United Kingdom | Disponible              |      15.39 |              0.56 |        6.11 |      7.02 |             0.88 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.             |
+|      3 | RIVN     | Rivian Automotive           | USA            | Disponible              |       6.35 |              2.76 |       -3.98 |      8.09 |             0.9  | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible.              |
+|      4 | SHEL.L   | Shell                       | United Kingdom | Disponible              |      20.32 |              1.24 |        7.21 |      3.69 |             0.99 | N/A       |   64.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible. cuerpo de vela extremadamente alto. |
+|      5 | RIO.L    | Rio Tinto                   | United Kingdom | Disponible              |      18.86 |              1.71 |       -8.55 |      7.85 |             0.78 | N/A       |   63.33 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. gap no disponible.                                                              |
+|      6 | BARC.L   | Barclays                    | United Kingdom | Disponible              |      13.31 |              0.79 |       -3.48 |      3.31 |             0.78 | N/A       |   57.78 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. gap no disponible.                                      |
+|      7 | GLEN.L   | Glencore                    | United Kingdom | Disponible              |      13.5  |              0.75 |       -4.23 |      5.86 |             0.74 | N/A       |   52.22 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. gap no disponible.                                      |
+|      8 | STX      | Seagate Technology          | USA            | Disponible              |       5.18 |              0.98 |      -10.88 |     10.31 |             0.95 | N/A       |   44.44 | Descartar        | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.             |
+|      9 | SMCI     | Super Micro Computer        | USA            | Disponible              |       7.77 |              0.48 |       -3.95 |      8.86 |             0.98 | -0.72     |   43    | Descartar        | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                                |
+|     10 | MU       | Micron Technology           | USA            | Disponible              |       5.14 |              0.72 |      -17.8  |     10.76 |             0.83 | -0.51     |   43    | Descartar        | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                                |
 
 ## Revisión manual antes de operar
 
