@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-07-08 23:32:51 WEST
+Fecha de generación: 2026-07-09 23:49:25 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 1
-- Media prioridad: 4
-- Baja prioridad: 2
-- Descartar: 3
-- Mejor candidata: ANET - Arista Networks - Score 77.78 - Clasificación Alta prioridad
+- Alta prioridad: 2
+- Media prioridad: 8
+- Baja prioridad: 0
+- Descartar: 0
+- Mejor candidata: RIVN - Rivian Automotive - Score 77.78 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                        | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                                |
-|-------:|:---------|:----------------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------------------|
-|      1 | ANET     | Arista Networks             | USA            | Disponible              |       8.95 |              1.4  |        6.58 |      5.94 |             0.99 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                                     |
-|      2 | LSEG.L   | London Stock Exchange Group | United Kingdom | Disponible              |      15.39 |              0.56 |        6.11 |      7.02 |             0.88 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.             |
-|      3 | RIVN     | Rivian Automotive           | USA            | Disponible              |       6.35 |              2.76 |       -3.98 |      8.09 |             0.9  | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible.              |
-|      4 | SHEL.L   | Shell                       | United Kingdom | Disponible              |      20.32 |              1.24 |        7.21 |      3.69 |             0.99 | N/A       |   64.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible. cuerpo de vela extremadamente alto. |
-|      5 | RIO.L    | Rio Tinto                   | United Kingdom | Disponible              |      18.86 |              1.71 |       -8.55 |      7.85 |             0.78 | N/A       |   63.33 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. gap no disponible.                                                              |
-|      6 | BARC.L   | Barclays                    | United Kingdom | Disponible              |      13.31 |              0.79 |       -3.48 |      3.31 |             0.78 | N/A       |   57.78 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. gap no disponible.                                      |
-|      7 | GLEN.L   | Glencore                    | United Kingdom | Disponible              |      13.5  |              0.75 |       -4.23 |      5.86 |             0.74 | N/A       |   52.22 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. gap no disponible.                                      |
-|      8 | STX      | Seagate Technology          | USA            | Disponible              |       5.18 |              0.98 |      -10.88 |     10.31 |             0.95 | N/A       |   44.44 | Descartar        | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.             |
-|      9 | SMCI     | Super Micro Computer        | USA            | Disponible              |       7.77 |              0.48 |       -3.95 |      8.86 |             0.98 | -0.72     |   43    | Descartar        | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                                |
-|     10 | MU       | Micron Technology           | USA            | Disponible              |       5.14 |              0.72 |      -17.8  |     10.76 |             0.83 | -0.51     |   43    | Descartar        | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                                |
+|   rank | ticker   | name                       | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
+|-------:|:---------|:---------------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
+|      1 | RIVN     | Rivian Automotive          | USA            | Disponible              |       9.61 |              1.98 |        5.47 |      7.77 |             0.94 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      2 | META     | Meta Platforms             | USA            | Disponible              |       8.14 |              1.33 |        3.03 |      3.92 |             0.97 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      3 | FTNT     | Fortinet                   | USA            | Disponible              |       6.75 |              0.7  |        2.99 |      4    |             0.98 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      4 | U        | Unity Software             | USA            | Disponible              |       6.63 |              0.8  |        1.79 |      5.07 |             0.97 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      5 | DOCU     | DocuSign                   | USA            | Disponible              |       5.5  |              0.68 |        5.95 |      4.13 |             0.94 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      6 | HPE      | Hewlett Packard Enterprise | USA            | Disponible              |       7.03 |              0.99 |       11.74 |      5.55 |             0.94 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      7 | NOW      | ServiceNow                 | USA            | Disponible              |       6.68 |              0.6  |        2.87 |      5.05 |             0.95 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      8 | AZN.L    | AstraZeneca                | United Kingdom | Disponible              |       7.8  |              2.98 |       -8.14 |      4.23 |             1    | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible.  |
+|      9 | TTD      | The Trade Desk             | USA            | Disponible              |       6.17 |              0.44 |        3.13 |      4.82 |             0.96 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|     10 | ACN      | Accenture                  | USA            | Disponible              |       6.2  |              0.46 |        6.05 |      5.77 |             1    | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
 
 ## Revisión manual antes de operar
 
