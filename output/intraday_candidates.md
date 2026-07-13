@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-07-10 23:32:28 WEST
+Fecha de generación: 2026-07-13 23:26:19 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
 - Alta prioridad: 0
-- Media prioridad: 6
+- Media prioridad: 8
 - Baja prioridad: 2
-- Descartar: 2
-- Mejor candidata: QIA.DE - Qiagen - Score 78.0 - Clasificación Media prioridad
+- Descartar: 0
+- Mejor candidata: ULVR.L - Unilever - Score 72.22 - Clasificación Media prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                        | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                                                                          |
-|-------:|:---------|:----------------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
-|      1 | QIA.DE   | Qiagen                      | Germany        | Disponible              |      11.73 |              2.47 |        4.83 |      3.3  |             0.76 | -0.72     |   78    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. Score alto, pero clasificacion limitada a Media prioridad por volumen medio inferior a 1.000.000.. |
-|      2 | NVDA     | Nvidia                      | USA            | Disponible              |       4.48 |              1    |        8.28 |      3.22 |             1    | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                                                               |
-|      3 | WPP.L    | WPP                         | United Kingdom | Disponible              |       6.06 |              1.1  |        9.53 |      5.3  |             1    | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                                                                               |
-|      4 | LSEG.L   | London Stock Exchange Group | United Kingdom | Disponible              |      12.76 |              0.44 |        2.75 |      7.83 |             0.97 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                                       |
-|      5 | ETSY     | Etsy                        | USA            | Disponible              |       3.87 |              0.81 |        5.3  |      3.94 |             0.97 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                                       |
-|      6 | BA.L     | BAE Systems                 | United Kingdom | Disponible              |      18.35 |              0.44 |       -6.59 |      6.02 |             0.99 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                                       |
-|      7 | GLEN.L   | Glencore                    | United Kingdom | Disponible              |      17.44 |              0.92 |       -0.6  |      6.87 |             0.92 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                                       |
-|      8 | STX      | Seagate Technology          | USA            | Disponible              |       5.65 |              0.78 |       11    |      9.68 |             0.74 | N/A       |   52.22 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. gap no disponible.                                                                                |
-|      9 | AMAT     | Applied Materials           | USA            | Disponible              |       4.26 |              0.48 |       -0.09 |      8.98 |             0.81 | N/A       |   42.22 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                                       |
-|     10 | KDP      | Keurig Dr Pepper            | USA            | Disponible              |       3.46 |              0.42 |       -4.89 |      3.2  |             0.97 | N/A       |   42.22 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                                       |
+|   rank | ticker   | name               | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
+|-------:|:---------|:-------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
+|      1 | ULVR.L   | Unilever           | United Kingdom | Disponible              |       6.01 |              1.26 |        0.58 |      5.52 |             0.84 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      2 | VLO      | Valero Energy      | USA            | Disponible              |       3.49 |              0.85 |        9.42 |      3.58 |             0.83 | 0.56      |   68    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
+|      3 | DGE.L    | Diageo             | United Kingdom | Disponible              |      19.41 |              0.67 |        2.31 |      5.6  |             0.89 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      4 | PSX      | Phillips 66        | USA            | Disponible              |       3.15 |              1.01 |       11.82 |      2.97 |             0.96 | N/A       |   65.56 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
+|      5 | INTU     | Intuit             | USA            | Disponible              |       3.62 |              1.03 |        6.47 |      4.23 |             0.63 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                  |
+|      6 | CRM      | Salesforce         | USA            | Disponible              |       3.19 |              0.79 |        3.36 |      3.66 |             0.77 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
+|      7 | AV.L     | Aviva              | United Kingdom | Disponible              |       7.66 |              0.73 |       -3.05 |      2.17 |             0.82 | N/A       |   60    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      8 | VOD.L    | Vodafone           | United Kingdom | Disponible              |       4.59 |              1.13 |       18.42 |      2.83 |             0.97 | N/A       |   60    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
+|      9 | FANG     | Diamondback Energy | USA            | Disponible              |       3.05 |              0.94 |       10.29 |      2.69 |             0.78 | N/A       |   56.67 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
+|     10 | RIO.L    | Rio Tinto          | United Kingdom | Disponible              |       6.67 |              0.94 |       -4.31 |      6.63 |             0.85 | N/A       |   50    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
 
 ## Revisión manual antes de operar
 
