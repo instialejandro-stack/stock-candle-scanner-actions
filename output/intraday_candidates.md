@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-07-15 23:27:57 WEST
+Fecha de generación: 2026-07-16 23:29:29 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
 - Alta prioridad: 0
-- Media prioridad: 6
-- Baja prioridad: 2
-- Descartar: 2
-- Mejor candidata: LSEG.L - London Stock Exchange Group - Score 72.22 - Clasificación Media prioridad
+- Media prioridad: 4
+- Baja prioridad: 6
+- Descartar: 0
+- Mejor candidata: IR - Ingersoll Rand - Score 71.11 - Clasificación Media prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                        | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                                |
-|-------:|:---------|:----------------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------------------|
-|      1 | LSEG.L   | London Stock Exchange Group | United Kingdom | Disponible              |      12.33 |              0.69 |        2.41 |      6.91 |             0.96 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.             |
-|      2 | ETSY     | Etsy                        | USA            | Disponible              |       4.52 |              1.3  |       11.06 |      3.83 |             0.73 | 0.74      |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista.                                                                                 |
-|      3 | REL.L    | RELX                        | United Kingdom | Disponible              |       3.52 |              0.58 |        4.25 |      3.31 |             0.89 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.             |
-|      4 | PINS     | Pinterest                   | USA            | Disponible              |       3.72 |              0.91 |        5.1  |      3.89 |             0.94 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.             |
-|      5 | BKNG     | Booking Holdings            | USA            | Disponible              |       4.25 |              0.79 |        4.88 |      3.49 |             0.96 | N/A       |   62.22 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.             |
-|      6 | GOOGL    | Alphabet                    | USA            | Disponible              |       3.57 |              0.82 |        2.49 |      2.79 |             0.83 | N/A       |   60    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.             |
-|      7 | AZN.L    | AstraZeneca                 | United Kingdom | Disponible              |      27.03 |              1.25 |      -11.76 |      5.41 |             1    | N/A       |   53.11 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible. cuerpo de vela extremadamente alto. |
-|      8 | HCA      | HCA Healthcare              | USA            | Disponible              |       4.37 |              1.28 |       -7.73 |      3.66 |             0.9  | N/A       |   47.78 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                     |
-|      9 | ASM.AS   | ASM International           | Netherlands    | Disponible              |       5.41 |              0.8  |        3.46 |      5.22 |             0.98 | -0.71     |   43    | Descartar        | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                                |
-|     10 | PRY.MI   | Prysmian                    | Italy          | Disponible              |       4.83 |              0.84 |        3.03 |      4.28 |             0.94 | -2.5      |   41    | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                                |
+|   rank | ticker   | name                 | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                                                                         |
+|-------:|:---------|:---------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|
+|      1 | IR       | Ingersoll Rand       | USA            | Disponible              |       4.67 |              1.66 |       10.03 |      2.98 |             0.92 | N/A       |   71.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                                                              |
+|      2 | REL.L    | RELX                 | United Kingdom | Disponible              |      25.04 |              0.55 |        5.35 |      4.49 |             1    | N/A       |   69.78 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. cuerpo de vela extremadamente alto.                  |
+|      3 | REN.AS   | Relx                 | Netherlands    | Disponible              |       4.16 |              0.79 |        5.05 |      3.28 |             0.9  | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                                      |
+|      4 | WLN.PA   | Worldline            | France         | Disponible              |       6.43 |              2.11 |        0.52 |      5.21 |             0.68 | N/A       |   63.33 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. gap no disponible.                                                                                |
+|      5 | ADYEN.AS | Adyen                | Netherlands    | Disponible              |       6.16 |              1.56 |        5.05 |      3.27 |             1    | -1.82     |   61    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. Score alto, pero clasificacion limitada a Baja prioridad por volumen medio inferior a 300.000.. |
+|      6 | CSGP     | CoStar Group         | USA            | Disponible              |       4.47 |              1.17 |        4.04 |      4.91 |             0.9  | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                                                              |
+|      7 | DGE.L    | Diageo               | United Kingdom | Disponible              |       4.08 |              0.97 |        4.95 |      5.74 |             1    | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                                      |
+|      8 | ACN      | Accenture            | USA            | Disponible              |       4.09 |              0.64 |        3.99 |      4.75 |             0.91 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                                      |
+|      9 | RR.L     | Rolls-Royce Holdings | United Kingdom | Disponible              |       7.67 |              0.52 |       -4.04 |      3.37 |             0.81 | N/A       |   50    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                                      |
+|     10 | HEI.DE   | Heidelberg Materials | Germany        | Disponible              |       4.06 |              0.86 |        5.06 |      3.74 |             0.86 | N/A       |   47.78 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                                      |
 
 ## Revisión manual antes de operar
 
