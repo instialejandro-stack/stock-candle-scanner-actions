@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-07-27 23:33:54 WEST
+Fecha de generación: 2026-07-28 23:33:34 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 4
+- Alta prioridad: 7
 - Media prioridad: 3
-- Baja prioridad: 3
+- Baja prioridad: 0
 - Descartar: 0
-- Mejor candidata: DSY.PA - Dassault Systemes - Score 90.0 - Clasificación Alta prioridad
+- Mejor candidata: WDAY - Workday - Score 83.33 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name              | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                                                                                                   |
-|-------:|:---------|:------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|      1 | DSY.PA   | Dassault Systemes | France   | Disponible              |       7.34 |              2.25 |       11.15 |      3.67 |             0.83 | 3.17      |   90    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos.                                                                                                    |
-|      2 | ACX.MC   | Acerinox          | Spain    | Disponible              |       7.12 |              3.31 |       11.44 |      3.02 |             1    | -0.99     |   83    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. Score alto, pero clasificacion limitada a Media prioridad por volumen medio inferior a 1.000.000.. |
-|      3 | SAP.DE   | SAP               | Germany  | Disponible              |       7.12 |              1.64 |        1.65 |      3.9  |             0.89 | 7.9       |   78    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                                                                                                           |
-|      4 | ADSK     | Autodesk          | USA      | Disponible              |       5.81 |              1.07 |        3.72 |      3.77 |             0.89 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                                                                                                        |
-|      5 | SHOP     | Shopify           | USA      | Disponible              |       7.35 |              1.34 |        1.93 |      5.08 |             1    | N/A       |   75.56 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                                                                                                        |
-|      6 | WDAY     | Workday           | USA      | Disponible              |       4.23 |              1.64 |        0.22 |      5.96 |             0.73 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                                                                                                 |
-|      7 | PINS     | Pinterest         | USA      | Disponible              |       4.26 |              0.72 |        3.02 |      3.7  |             0.78 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                                                                                                         |
-|      8 | MSTR     | MicroStrategy     | USA      | Disponible              |       4.34 |              0.85 |        0.85 |      5.66 |             0.9  | -0.88     |   56    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                                                                                                   |
-|      9 | LYFT     | Lyft              | USA      | Disponible              |       4.79 |              1.19 |       -2.2  |      4.81 |             0.81 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                                                                                        |
-|     10 | CAP.PA   | Capgemini         | France   | Disponible              |       4.29 |              1.03 |       -1.58 |      3.92 |             0.98 | 5.83      |   53    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                                                                                                           |
+|   rank | ticker   | name             | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
+|-------:|:---------|:-----------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
+|      1 | WDAY     | Workday          | USA            | Disponible              |       5.71 |              1.65 |       13.12 |      5.8  |             0.91 | N/A       |   83.33 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      2 | WKL.AS   | Wolters Kluwer   | Netherlands    | Disponible              |       6.35 |              1.81 |        9.67 |      3.68 |             0.97 | 7.48      |   80    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
+|      3 | SAP.DE   | SAP              | Germany        | Disponible              |       6.25 |              1.72 |        9.42 |      3.91 |             0.97 | 5.26      |   80    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
+|      4 | WPP.L    | WPP              | United Kingdom | Disponible              |       6.88 |              1.46 |       15.99 |      4.55 |             1    | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      5 | BKNG     | Booking Holdings | USA            | Disponible              |       5.19 |              1.45 |       11.1  |      3.28 |             0.94 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      6 | U        | Unity Software   | USA            | Disponible              |       5.68 |              1.04 |        6.56 |      5.43 |             0.98 | N/A       |   75.56 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      7 | HCA      | HCA Healthcare   | USA            | Disponible              |       5.54 |              1.42 |       12.09 |      3.8  |             0.96 | N/A       |   75.56 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      8 | DASH     | DoorDash         | USA            | Disponible              |       5.37 |              0.98 |        3.98 |      4.28 |             0.97 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      9 | IOT      | Samsara          | USA            | Disponible              |       5.19 |              0.95 |        3.96 |      6.41 |             0.81 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|     10 | CNC      | Centene          | USA            | Disponible              |       7.4  |              2.64 |       -5.44 |      4.41 |             0.88 | -1.73     |   63    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos.                     |
 
 ## Revisión manual antes de operar
 
