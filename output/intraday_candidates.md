@@ -1,30 +1,29 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-07-31 23:33:31 WEST
+Fecha de generación: 2026-08-03 23:34:07 WEST
 
 ## Resumen
 
-- Acciones analizadas: 10
-- Alta prioridad: 1
-- Media prioridad: 6
-- Baja prioridad: 3
+- Acciones analizadas: 9
+- Alta prioridad: 3
+- Media prioridad: 5
+- Baja prioridad: 1
 - Descartar: 0
-- Mejor candidata: GLE.PA - Societe Generale - Score 86.0 - Clasificación Alta prioridad
+- Mejor candidata: FSLR - First Solar - Score 80.0 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                      | market      | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                                                                                                |
-|-------:|:---------|:--------------------------|:------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|      1 | GLE.PA   | Societe Generale          | France      | Disponible              |       5.32 |              2.3  |        7.05 |      2.86 |             0.82 | 0.58      |      86 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos.                                                                                                 |
-|      2 | SU.PA    | Schneider Electric        | France      | Disponible              |       5.31 |              1.87 |        7.23 |      3.1  |             0.92 | 1.91      |      80 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. Score alto, pero clasificacion limitada a Media prioridad por volumen medio inferior a 1.000.000..                     |
-|      3 | EN.PA    | Bouygues                  | France      | Disponible              |       5.53 |              1.74 |        3.39 |      2.13 |             0.89 | -1.52     |      69 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                                                                                                        |
-|      4 | FTNT     | Fortinet                  | USA         | Disponible              |       5.16 |              1.11 |        6.29 |      4.5  |             0.93 | -0.77     |      68 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                                                                                                        |
-|      5 | IFX.DE   | Infineon                  | Germany     | Disponible              |       9.32 |              1.56 |       -9.19 |      6.65 |             0.86 | 3.7       |      65 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                                                                                                        |
-|      6 | PRY.MI   | Prysmian                  | Italy       | Disponible              |       6.49 |              2.56 |       -4.96 |      4.99 |             0.98 | -0.54     |      63 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos.                                                                                                 |
-|      7 | ASM.AS   | ASM International         | Netherlands | Disponible              |       8.32 |              2.26 |       -9.73 |      6.4  |             0.83 | 1.93      |      60 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. Score alto, pero clasificacion limitada a Baja prioridad por volumen medio inferior a 300.000.. |
-|      8 | REGN     | Regeneron Pharmaceuticals | USA         | Disponible              |       4.72 |              1.44 |       16.25 |      2.82 |             0.95 | N/A       |      60 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                                                                                     |
-|      9 | ASML.AS  | ASML                      | Netherlands | Disponible              |       5.42 |              1.1  |       -8.81 |      5.55 |             0.83 | -0.82     |      48 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                                                                                                        |
-|     10 | ANA.MC   | Acciona                   | Spain       | Disponible              |       5    |              1.24 |        2.27 |      3.13 |             0.79 | -5.39     |      47 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista.                                                                                                                                                 |
+|   rank | ticker   | name                       | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
+|-------:|:---------|:---------------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
+|      1 | FSLR     | First Solar                | USA      | Disponible              |       6.75 |              2.49 |       13.07 |      4.56 |             0.67 | 0.56      |   80    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto.                                              |
+|      2 | BA       | Boeing                     | USA      | Disponible              |       5.65 |              1.71 |       10.4  |      3.46 |             0.96 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      3 | HPE      | Hewlett Packard Enterprise | USA      | Disponible              |       5.75 |              0.98 |        4.25 |      5.98 |             0.92 | 2.79      |   75    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                    |
+|      4 | ETN      | Eaton                      | USA      | Disponible              |       5.87 |              1.3  |        9.93 |      4.75 |             0.98 | -0.71     |   73    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
+|      5 | BX       | Blackstone                 | USA      | Disponible              |       5.14 |              0.95 |        1.57 |      3.53 |             0.93 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      6 | ANET     | Arista Networks            | USA      | Disponible              |       6    |              1    |        8.27 |      5.76 |             0.87 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      7 | ORCL     | Oracle                     | USA      | Disponible              |       7.53 |              1.25 |       18.31 |      5.24 |             0.91 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      8 | DELL     | Dell Technologies          | USA      | Disponible              |       7.88 |              0.62 |        0.49 |      8.64 |             0.92 | 0.64      |   65    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                    |
+|      9 | MU       | Micron Technology          | USA      | Disponible              |       5.49 |              0.9  |       -7.85 |     10.73 |             0.89 | 0.82      |   50    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                    |
 
 ## Revisión manual antes de operar
 
