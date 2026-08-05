@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-08-04 23:34:52 WEST
+Fecha de generación: 2026-08-05 23:34:10 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 4
-- Media prioridad: 6
-- Baja prioridad: 0
-- Descartar: 0
-- Mejor candidata: PLTR - Palantir - Score 86.0 - Clasificación Alta prioridad
+- Alta prioridad: 1
+- Media prioridad: 4
+- Baja prioridad: 4
+- Descartar: 1
+- Mejor candidata: MOS - Mosaic - Score 88.0 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                                   | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                                                                         |
-|-------:|:---------|:---------------------------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|
-|      1 | PLTR     | Palantir                               | USA      | Disponible              |      12.07 |              4.09 |       31.68 |      5.17 |             0.91 | -1.88     |   86    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. riesgo por subida acumulada. subida acumulada de 5 dias superior al 30%. |
-|      2 | FIS      | Fidelity National Information Services | USA      | Disponible              |      10.1  |              2.12 |       -1.49 |      4.33 |             0.95 | -2.33     |   78    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos.                                                                          |
-|      3 | MDB      | MongoDB                                | USA      | Disponible              |       6.49 |              1.49 |       22.35 |      4.66 |             0.88 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                                                                              |
-|      4 | SMCI     | Super Micro Computer                   | USA      | Disponible              |       7.06 |              1.2  |       11.39 |      7.86 |             0.95 | N/A       |   75.56 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                                                                              |
-|      5 | DD       | DuPont                                 | USA      | Disponible              |       9.79 |              1.34 |        1.53 |      2.85 |             0.95 | N/A       |   73.33 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                                                                              |
-|      6 | HPQ      | HP                                     | USA      | Disponible              |       8.47 |              0.69 |        1.87 |      4.5  |             0.95 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                                      |
-|      7 | TTD      | The Trade Desk                         | USA      | Disponible              |       7.86 |              1.09 |        2.27 |      4.99 |             0.98 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                                                                              |
-|      8 | WLN.PA   | Worldline                              | France   | Disponible              |       8.6  |              2.18 |       37.47 |      5.77 |             0.69 | N/A       |   70.78 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. riesgo por subida acumulada. gap no disponible. subida acumulada de 5 dias superior al 30%.       |
-|      9 | ACN      | Accenture                              | USA      | Disponible              |       6.09 |              0.68 |        3.5  |      4.99 |             0.93 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                                      |
-|     10 | CMI      | Cummins                                | USA      | Disponible              |       9.86 |              2.27 |       -0.88 |      4.57 |             0.92 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible.                                                       |
+|   rank | ticker   | name                        | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                 |
+|-------:|:---------|:----------------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:----------------------------------------------------------------------|
+|      1 | MOS      | Mosaic                      | USA            | Disponible              |       7.88 |              2.15 |        3.49 |      4.14 |             0.8  | 0.51      |      88 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos.  |
+|      2 | DSY.PA   | Dassault Systemes           | France         | Disponible              |       3.25 |              0.74 |        1.43 |      3.85 |             0.91 | 0.8       |      68 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. |
+|      3 | EMR      | Emerson Electric            | USA            | Disponible              |       3.31 |              1.63 |       11.49 |      3.15 |             0.74 | -1.41     |      68 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista.                                                  |
+|      4 | SAP.DE   | SAP                         | Germany        | Disponible              |       2.78 |              0.98 |        5.11 |      4.03 |             0.81 | 1.12      |      68 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. |
+|      5 | CNC      | Centene                     | USA            | Disponible              |       4.33 |              1.11 |        8.36 |      4.27 |             0.69 | 0.76      |      63 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista.                                                  |
+|      6 | HLT      | Hilton Worldwide            | USA            | Disponible              |       3.63 |              0.92 |        0.88 |      2.57 |             0.98 | 0.67      |      57 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. |
+|      7 | AZN.L    | AstraZeneca                 | United Kingdom | Disponible              |       3.37 |              1.54 |       -8.36 |      4.75 |             0.66 | N/A       |      50 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                               |
+|      8 | UMG.AS   | Universal Music Group       | Netherlands    | Disponible              |       3.57 |              1.92 |      -22.85 |      5.64 |             0.72 | -0.57     |      48 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista.                                                  |
+|      9 | BESI.AS  | BE Semiconductor Industries | Netherlands    | Disponible              |       4.56 |              1.2  |       10.06 |      6.42 |             0.99 | -1.15     |      46 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
+|     10 | FICO     | Fair Isaac                  | USA            | Disponible              |       3.37 |              0.9  |      -20.5  |      6.8  |             0.72 | -0.9      |      33 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                          |
 
 ## Revisión manual antes de operar
 
