@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-08-10 23:06:10 WEST
+Fecha de generación: 2026-08-11 23:11:12 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 0
+- Alta prioridad: 2
 - Media prioridad: 7
-- Baja prioridad: 3
+- Baja prioridad: 1
 - Descartar: 0
-- Mejor candidata: MDB - MongoDB - Score 74.44 - Clasificación Media prioridad
+- Mejor candidata: KKR - KKR - Score 83.33 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name               | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:-------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | MDB      | MongoDB            | USA      | Disponible              |       5.52 |              1.18 |       16.4  |      4.57 |             0.78 | N/A       |   74.44 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. gap no disponible.                                                  |
-|      2 | MPC      | Marathon Petroleum | USA      | Disponible              |       6    |              0.9  |        4.33 |      3.64 |             0.99 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      3 | AR       | Antero Resources   | USA      | Disponible              |       4.75 |              1.07 |        1.62 |      3.39 |             0.91 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      4 | LLY      | Eli Lilly          | USA      | Disponible              |       3.96 |              1.08 |        9.86 |      3.41 |             1    | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      5 | CSGP     | CoStar Group       | USA      | Disponible              |       4.55 |              0.7  |        4.83 |      5.31 |             0.99 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      6 | CRWD     | CrowdStrike        | USA      | Disponible              |       4.58 |              0.97 |       11.17 |      4.04 |             0.86 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      7 | WDAY     | Workday            | USA      | Disponible              |       4.07 |              0.96 |       11.6  |      5.78 |             0.83 | -0.54     |   61    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
-|      8 | AXON     | Axon Enterprise    | USA      | Disponible              |       4.78 |              1.39 |        3.55 |      5.94 |             0.92 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      9 | FANG     | Diamondback Energy | USA      | Disponible              |       4.28 |              0.83 |        0.11 |      3.65 |             0.95 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|     10 | HAL      | Halliburton        | USA      | Disponible              |       4.12 |              0.58 |        5.49 |      3.15 |             0.97 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|   rank | ticker   | name               | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                                                                                               |
+|-------:|:---------|:-------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      1 | KKR      | KKR                | USA      | Disponible              |       6.69 |              1.77 |        2.55 |      3.7  |             0.95 | N/A       |   83.33 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                                                                                                    |
+|      2 | AXON     | Axon Enterprise    | USA      | Disponible              |       6.94 |              1.56 |        4.79 |      6.11 |             0.91 | N/A       |   77.78 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible. Score alto, pero clasificacion limitada a Media prioridad por volumen medio inferior a 1.000.000.. |
+|      3 | MPC      | Marathon Petroleum | USA      | Disponible              |       5.46 |              1.02 |        7.62 |      3.62 |             1    | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                                                                                                    |
+|      4 | BX       | Blackstone         | USA      | Disponible              |       3.75 |              1.22 |        7.27 |      3.48 |             0.82 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                                                                                    |
+|      5 | MDB      | MongoDB            | USA      | Disponible              |       3.34 |              1.25 |       15.56 |      4.54 |             0.99 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                                                                                    |
+|      6 | MELI     | MercadoLibre       | USA      | Disponible              |       4.86 |              1.83 |        2.73 |      3.21 |             0.95 | -0.5      |   66    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                                                                                                       |
+|      7 | PSX      | Phillips 66        | USA      | Disponible              |       4.35 |              0.82 |        8.97 |      3.43 |             0.97 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                                                            |
+|      8 | GIS      | General Mills      | USA      | Disponible              |       3.21 |              0.65 |        4.81 |      3.01 |             0.9  | N/A       |   62.22 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                                                            |
+|      9 | EMR      | Emerson Electric   | USA      | Disponible              |       3.38 |              0.58 |        3.49 |      3.27 |             1    | -1.27     |   61    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                                                                                               |
+|     10 | QIA.DE   | Qiagen             | Germany  | Disponible              |       4.17 |              1.13 |        5.68 |      3.19 |             1    | -3.58     |   58    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                                                                                                       |
 
 ## Revisión manual antes de operar
 
