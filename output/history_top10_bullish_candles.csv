@@ -1,4 +1,14 @@
 rank,date,ticker,name,isin,market,trade_republic_status,open,close,high,low,body,body_pct,volume
+1,2026-08-14,AMD,Advanced Micro Devices,US0079031078,USA,Disponible,487.6,514.39,514.67,483.2,26.79,5.49,24928819
+2,2026-08-14,HAL,Halliburton,,USA,Disponible,33.05,34.42,34.5675,33.03,1.37,4.15,10181151
+3,2026-08-14,PINS,Pinterest,,USA,Disponible,23.26,24.06,24.23,23.15,0.8,3.44,8642277
+4,2026-08-14,STX,Seagate Technology,,USA,Disponible,941.26,973.44,990.61,920.0,32.18,3.42,5231374
+5,2026-08-14,ALB,Albemarle,,USA,Disponible,132.03,136.15,137.315,131.649,4.12,3.12,2337046
+6,2026-08-14,F,Ford Motor,,USA,Disponible,13.97,14.37,14.44,13.93,0.4,2.86,45763892
+7,2026-08-14,CMG,Chipotle Mexican Grill,,USA,Disponible,32.64,33.5,33.88,32.64,0.86,2.63,14696430
+8,2026-08-14,ALGN,Align Technology,,USA,Disponible,176.73,181.31,182.2,176.73,4.58,2.59,943134
+9,2026-08-14,WMB,Williams Companies,,USA,Disponible,73.43,75.2,75.24,73.21,1.77,2.41,5292932
+10,2026-08-14,TXN,Texas Instruments,US8825081040,USA,Disponible,273.5,279.58,280.275,272.51,6.08,2.22,4747660
 1,2026-08-13,WDAY,Workday,,USA,Disponible,177.44,206.45,227.49,174.62,29.01,16.35,16294604
 2,2026-08-13,DOCU,DocuSign,,USA,Disponible,58.37,64.09,64.2,57.855,5.72,9.8,5185938
 3,2026-08-13,CSGP,CoStar Group,,USA,Disponible,30.68,33.05,33.09,30.68,2.37,7.72,7963433
