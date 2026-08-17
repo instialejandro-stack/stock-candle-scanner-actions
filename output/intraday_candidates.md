@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-08-14 22:48:52 WEST
+Fecha de generación: 2026-08-17 22:49:57 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
 - Alta prioridad: 0
-- Media prioridad: 4
-- Baja prioridad: 5
-- Descartar: 1
-- Mejor candidata: AMD - Advanced Micro Devices - Score 66.67 - Clasificación Media prioridad
+- Media prioridad: 3
+- Baja prioridad: 7
+- Descartar: 0
+- Mejor candidata: PSX - Phillips 66 - Score 70.0 - Clasificación Media prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                   | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:-----------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | AMD      | Advanced Micro Devices | USA      | Disponible              |       5.49 |              0.88 |        6.42 |      6.37 |             0.99 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      2 | ALGN     | Align Technology       | USA      | Disponible              |       2.59 |              1.01 |        4.41 |      3.83 |             0.84 | N/A       |   62.22 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      3 | ALB      | Albemarle              | USA      | Disponible              |       3.12 |              0.97 |        3.84 |      3.9  |             0.79 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
-|      4 | STX      | Seagate Technology     | USA      | Disponible              |       3.42 |              0.95 |       19.77 |      7.93 |             0.76 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
-|      5 | PINS     | Pinterest              | USA      | Disponible              |       3.44 |              0.73 |        1.6  |      4.14 |             0.84 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      6 | WMB      | Williams Companies     | USA      | Disponible              |       2.41 |              0.83 |        6.82 |      2.34 |             0.98 | -1.9      |   57    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
-|      7 | F        | Ford Motor             | USA      | Disponible              |       2.86 |              0.86 |        2.79 |      3.46 |             0.86 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      8 | HAL      | Halliburton            | USA      | Disponible              |       4.15 |              0.81 |        7.93 |      2.77 |             0.9  | N/A       |   52.22 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      9 | TXN      | Texas Instruments      | USA      | Disponible              |       2.22 |              0.62 |       -2.27 |      3.67 |             0.91 | N/A       |   47.78 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|     10 | CMG      | Chipotle Mexican Grill | USA      | Disponible              |       2.63 |              0.76 |        2.17 |      4.63 |             0.69 | N/A       |   44.44 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
+|   rank | ticker   | name                   | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                        |
+|-------:|:---------|:-----------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:---------------------------------------------------------------------------------------------|
+|      1 | PSX      | Phillips 66            | USA      | Disponible              |       2.58 |              1.07 |       17.97 |      3.24 |             0.99 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                             |
+|      2 | AMAT     | Applied Materials      | USA      | Disponible              |       3.24 |              1.03 |        2.53 |      6.12 |             0.82 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                             |
+|      3 | EOG      | EOG Resources          | USA      | Disponible              |       2.37 |              0.54 |        2.76 |      2.95 |             0.98 | N/A       |   60    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.     |
+|      4 | MSTR     | MicroStrategy          | USA      | Disponible              |       4.77 |              1.26 |        0.36 |      5.28 |             0.84 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                             |
+|      5 | LRCX     | Lam Research           | USA      | Disponible              |       1.77 |              0.73 |       12.22 |      6.3  |             0.88 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | cuerpo alcista reducido. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      6 | FANG     | Diamondback Energy     | USA      | Disponible              |       1.77 |              0.58 |        3.68 |      3.06 |             0.93 | N/A       |   56.67 | Baja prioridad   | Pendiente revisión manual | cuerpo alcista reducido. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      7 | CAT      | Caterpillar            | USA      | Disponible              |       2.04 |              0.55 |        5.26 |      4.13 |             0.78 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                              |
+|      8 | FCX      | Freeport-McMoRan       | USA      | Disponible              |       2.64 |              0.75 |       -3.02 |      3.86 |             0.78 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                              |
+|      9 | VRTX     | Vertex Pharmaceuticals | USA      | Disponible              |       2.32 |              0.8  |       -1.6  |      3.15 |             0.85 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.     |
+|     10 | SIRI     | Sirius XM              | USA      | Disponible              |       2.48 |              1.17 |        1.2  |      3.72 |             0.77 | N/A       |   50    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                      |
 
 ## Revisión manual antes de operar
 
