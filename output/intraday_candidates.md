@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-08-18 22:46:43 WEST
+Fecha de generación: 2026-08-19 22:49:40 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 0
-- Media prioridad: 3
-- Baja prioridad: 5
-- Descartar: 2
-- Mejor candidata: DSY.PA - Dassault Systemes - Score 62.22 - Clasificación Media prioridad
+- Alta prioridad: 4
+- Media prioridad: 5
+- Baja prioridad: 1
+- Descartar: 0
+- Mejor candidata: MSTR - MicroStrategy - Score 85.0 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name              | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | DSY.PA   | Dassault Systemes | France         | Disponible              |       2.15 |              1.15 |       -0.9  |      3.14 |             0.81 | N/A       |   62.22 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      2 | U        | Unity Software    | USA            | Disponible              |       2.73 |              0.95 |        6.54 |      5.07 |             0.75 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
-|      3 | GILD     | Gilead Sciences   | USA            | Disponible              |       2.46 |              0.84 |        5.65 |      2.83 |             0.9  | N/A       |   60    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      4 | ADYEN.AS | Adyen             | Netherlands    | Disponible              |       2.37 |              1.12 |       13.37 |      3.88 |             0.85 | N/A       |   56.67 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      5 | REN.AS   | Relx              | Netherlands    | Disponible              |       2.33 |              1.14 |       -2.67 |      3.58 |             0.89 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      6 | AXON     | Axon Enterprise   | USA            | Disponible              |       4.03 |              0.68 |       -2.59 |      6.76 |             0.8  | N/A       |   51.11 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      7 | AZN.L    | AstraZeneca       | United Kingdom | Disponible              |       2.15 |              0.67 |       -0.32 |      3.17 |             0.88 | N/A       |   47.78 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      8 | REL.L    | RELX              | United Kingdom | Disponible              |       2.42 |              0.66 |       -2.61 |      3.56 |             0.84 | N/A       |   47.78 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      9 | EL.PA    | EssilorLuxottica  | France         | Disponible              |       2.57 |              0.91 |       -4.57 |      3.52 |             0.92 | N/A       |   36.67 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|     10 | ADS.DE   | Adidas            | Germany        | Disponible              |       2.18 |              0.63 |       -4.62 |      4.27 |             1    | N/A       |   36.67 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|   rank | ticker   | name          | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                                                                 |
+|-------:|:---------|:--------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|
+|      1 | MSTR     | MicroStrategy | USA      | Disponible              |      10.34 |              2.68 |        9.93 |      5.49 |             0.79 | 4.69      |   85    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto.                                                                                           |
+|      2 | TGT      | Target        | USA      | Disponible              |       7.58 |              2.08 |        3.25 |      2.86 |             0.81 | N/A       |   84.44 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible.                                               |
+|      3 | MRNA     | Moderna       | USA      | Disponible              |      50.01 |             12.82 |      173.88 |      6.67 |             0.96 | 4.94      |   80    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. riesgo por subida acumulada. cuerpo de vela extremadamente alto. |
+|      4 | CRM      | Salesforce    | USA      | Disponible              |       6.12 |              1.29 |        6.61 |      3.98 |             0.86 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                                                                      |
+|      5 | ACN      | Accenture     | USA      | Disponible              |       6.28 |              0.7  |        1.68 |      4.33 |             0.81 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                              |
+|      6 | CSGP     | CoStar Group  | USA      | Disponible              |       7.83 |              0.79 |       10.59 |      4.18 |             0.97 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                              |
+|      7 | COIN     | Coinbase      | USA      | Disponible              |       8.61 |              1.92 |        7.49 |      5.53 |             0.7  | 2.85      |   72    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista.                                                                                                                  |
+|      8 | NOW      | ServiceNow    | USA      | Disponible              |       7.22 |              0.93 |        1.81 |      5.06 |             0.78 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. gap no disponible.                                                                       |
+|      9 | MELI     | MercadoLibre  | USA      | Disponible              |       7.03 |              1.49 |        4.4  |      3.97 |             0.94 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                                                                      |
+|     10 | FICO     | Fair Isaac    | USA      | Disponible              |       6.02 |              0.99 |       11.24 |      5.82 |             0.83 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.                                              |
 
 ## Revisión manual antes de operar
 
