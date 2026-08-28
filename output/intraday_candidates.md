@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-08-27 01:57:23 WEST
+Fecha de generación: 2026-08-28 06:32:19 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 1
-- Media prioridad: 6
-- Baja prioridad: 3
+- Alta prioridad: 6
+- Media prioridad: 3
+- Baja prioridad: 1
 - Descartar: 0
-- Mejor candidata: INTU - Intuit - Score 80.0 - Clasificación Alta prioridad
+- Mejor candidata: CRM - Salesforce - Score 94.44 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name               | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:-------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | INTU     | Intuit             | USA      | Disponible              |       7.1  |              2.83 |       -4.58 |      4.41 |             0.81 | 0.68      |   80    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos.                     |
-|      2 | ADSK     | Autodesk           | USA      | Disponible              |       3.87 |              0.97 |        1.38 |      3.67 |             0.84 | 2.56      |   66    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
-|      3 | ANET     | Arista Networks    | USA      | Disponible              |       5.94 |              0.97 |        8.47 |      4.07 |             0.91 | 1.12      |   65    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                    |
-|      4 | FTNT     | Fortinet           | USA      | Disponible              |       5.03 |              0.62 |        3.07 |      3.47 |             0.9  | 1.5       |   65    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                    |
-|      5 | HPQ      | HP                 | USA      | Disponible              |       3.74 |              1.65 |        1.94 |      4.21 |             0.81 | -9.0      |   63    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                            |
-|      6 | IOT      | Samsara            | USA      | Disponible              |       4.65 |              0.79 |        1.63 |      5.21 |             0.84 | 2.01      |   63    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
-|      7 | PLTR     | Palantir           | USA      | Disponible              |       4.15 |              0.59 |        1.32 |      4.35 |             0.9  | N/A       |   62.22 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      8 | WMB      | Williams Companies | USA      | Disponible              |       4.57 |              1.28 |        1.6  |      2.92 |             0.74 | -1.34     |   59    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
-|      9 | MDB      | MongoDB            | USA      | Disponible              |       3.8  |              0.66 |       -7.81 |      5.58 |             0.92 | 2.36      |   53    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
-|     10 | OKTA     | Okta               | USA      | Disponible              |       5.02 |              2.39 |       -4.81 |      5.09 |             0.66 | 20.85     |   52    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. gap superior al 10%.                         |
+|   rank | ticker   | name          | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                   |
+|-------:|:---------|:--------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:----------------------------------------------------------------------------------------|
+|      1 | CRM      | Salesforce    | USA      | Disponible              |       9.56 |              3.95 |       22.69 |      4.13 |             0.9  | N/A       |   94.44 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible. |
+|      2 | CRWD     | CrowdStrike   | USA      | Disponible              |       9.46 |              2.68 |       19.76 |      5.01 |             0.95 | N/A       |   88.89 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible. |
+|      3 | MSTR     | MicroStrategy | USA      | Disponible              |       8.39 |              1.79 |       22.25 |      5.59 |             0.84 | 1.24      |   85    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                           |
+|      4 | FTNT     | Fortinet      | USA      | Disponible              |       7.83 |              1.51 |       14.58 |      3.55 |             0.92 | N/A       |   83.33 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                        |
+|      5 | NOW      | ServiceNow    | USA      | Disponible              |       6.09 |              1.56 |        6.69 |      4.33 |             0.9  | -0.74     |   78    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                           |
+|      6 | HPQ      | HP            | USA      | Disponible              |       6.35 |              2.72 |        0.54 |      4.78 |             0.97 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible. |
+|      7 | WLN.PA   | Worldline     | France   | Disponible              |       7    |              1.39 |        9.95 |      4.69 |             0.93 | 1.09      |   73    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                           |
+|      8 | TKA.DE   | ThyssenKrupp  | Germany  | Disponible              |       4.97 |              1.24 |       11.54 |      4.22 |             1    | 3.32      |   73    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                           |
+|      9 | ALO.PA   | Alstom        | France   | Disponible              |       4.35 |              1.82 |        6.49 |      2.07 |             0.91 | -1.83     |   67    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                           |
+|     10 | MDB      | MongoDB       | USA      | Disponible              |       4.9  |              1.21 |        4.81 |      5.31 |             0.8  | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                        |
 
 ## Revisión manual antes de operar
 
