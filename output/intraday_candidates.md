@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-09-01 01:44:16 WEST
+Fecha de generación: 2026-09-02 00:28:29 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
 - Alta prioridad: 2
-- Media prioridad: 6
-- Baja prioridad: 1
-- Descartar: 1
-- Mejor candidata: RBLX - Roblox - Score 83.33 - Clasificación Alta prioridad
+- Media prioridad: 3
+- Baja prioridad: 5
+- Descartar: 0
+- Mejor candidata: DE - Deere & Company - Score 75.56 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name              | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                                                                     |
-|-------:|:---------|:------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:------------------------------------------------------------------------------------------------------------------------------------------|
-|      1 | RBLX     | Roblox            | USA      | Disponible              |       7.02 |              1.5  |        6.53 |      4.41 |             0.91 | N/A       |   83.33 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                                                                          |
-|      2 | TSLA     | Tesla             | USA      | Disponible              |       5.99 |              1.78 |        5.44 |      3.67 |             0.96 | N/A       |   83.33 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                                                                          |
-|      3 | COIN     | Coinbase          | USA      | Disponible              |       5.35 |              1.1  |        4.81 |      5.98 |             0.86 | -0.68     |   71    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                                                                             |
-|      4 | DOCU     | DocuSign          | USA      | Disponible              |       4.2  |              1.32 |        5.93 |      4.17 |             0.98 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                                                          |
-|      5 | CRWD     | CrowdStrike       | USA      | Disponible              |       4.33 |              1.88 |       21.15 |      5.4  |             0.78 | -0.62     |   68    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista.                                                                                                                      |
-|      6 | NOW      | ServiceNow        | USA      | Disponible              |       4.16 |              1.41 |       15.57 |      4.4  |             0.8  | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                                                                   |
-|      7 | VEEV     | Veeva Systems     | USA      | Disponible              |       3.97 |              1.37 |       14.98 |      4.22 |             0.7  | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                                                                   |
-|      8 | OKTA     | Okta              | USA      | Disponible              |       4.87 |              1.27 |       32.12 |      5.6  |             0.89 | N/A       |   63    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. riesgo por subida acumulada. gap no disponible. subida acumulada de 5 dias superior al 30%. |
-|      9 | MRNA     | Moderna           | USA      | Disponible              |       4.65 |              0.6  |        1.04 |     14.51 |             0.63 | -1.14     |   45    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. volatilidad elevada.                                                                         |
-|     10 | BSX      | Boston Scientific | USA      | Disponible              |       4.09 |              0.97 |       -1.45 |      3.68 |             0.77 | N/A       |   38.89 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                                                                           |
+|   rank | ticker   | name                 | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                      |
+|-------:|:---------|:---------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-------------------------------------------------------------------------------------------|
+|      1 | DE       | Deere & Company      | USA            | Disponible              |       3.16 |              1.81 |        4.23 |      3.23 |             0.92 | N/A       |   75.56 | Alta prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                           |
+|      2 | DG       | Dollar General       | USA            | Disponible              |       3.1  |              1.56 |        4.6  |      3.14 |             0.88 | N/A       |   75.56 | Alta prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                           |
+|      3 | MOS      | Mosaic               | USA            | Disponible              |       3.51 |              1.1  |        3.25 |      4.32 |             0.76 | 0.72      |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista.                                                                       |
+|      4 | HPQ      | HP                   | USA            | Disponible              |       5.28 |              0.98 |        9.59 |      4.73 |             0.94 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.   |
+|      5 | GME      | GameStop             | USA            | Disponible              |       3.07 |              1.85 |        3.98 |      2.31 |             0.9  | N/A       |   63.33 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                           |
+|      6 | CEG      | Constellation Energy | USA            | Disponible              |       4.59 |              0.91 |        2.52 |      3.08 |             0.76 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                            |
+|      7 | META     | Meta Platforms       | USA            | Disponible              |       3.72 |              1.01 |        1.49 |      3.14 |             0.78 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                    |
+|      8 | MRNA     | Moderna              | USA            | Disponible              |      10.22 |              0.8  |       -2.87 |     13.74 |             0.97 | -1.67     |   55    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. volatilidad elevada. |
+|      9 | TSCO.L   | Tesco                | United Kingdom | Disponible              |       3.56 |              1.3  |        2.23 |      1.9  |             1    | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                           |
+|     10 | MELI     | MercadoLibre         | USA            | Disponible              |       3.34 |              0.66 |       -1.68 |      3.26 |             0.85 | N/A       |   51.11 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.   |
 
 ## Revisión manual antes de operar
 
