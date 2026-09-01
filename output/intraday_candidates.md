@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-08-29 04:14:37 WEST
+Fecha de generación: 2026-09-01 01:44:16 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 1
-- Media prioridad: 4
-- Baja prioridad: 4
+- Alta prioridad: 2
+- Media prioridad: 6
+- Baja prioridad: 1
 - Descartar: 1
-- Mejor candidata: WDAY - Workday - Score 77.78 - Clasificación Alta prioridad
+- Mejor candidata: RBLX - Roblox - Score 83.33 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                        | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                 |
-|-------:|:---------|:----------------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:----------------------------------------------------------------------|
-|      1 | WDAY     | Workday                     | USA            | Disponible              |       7.36 |              1.74 |        2.35 |      5.69 |             0.83 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.      |
-|      2 | NOW      | ServiceNow                  | USA            | Disponible              |       4.5  |              1.58 |       12.63 |      4.3  |             0.87 | -1.03     |   71    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
-|      3 | SAP.DE   | SAP                         | Germany        | Disponible              |       4.04 |              1.13 |        2.28 |      3    |             0.9  | 0.76      |   69    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
-|      4 | TKA.DE   | ThyssenKrupp                | Germany        | Disponible              |       3.36 |              1.14 |       17.97 |      4.19 |             0.99 | -1.31     |   66    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
-|      5 | LSEG.L   | London Stock Exchange Group | United Kingdom | Disponible              |       3.05 |              1.03 |        5.13 |      2.41 |             0.76 | N/A       |   62.22 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                               |
-|      6 | BMW.DE   | BMW                         | Germany        | Disponible              |       4.24 |              1.17 |        3.49 |      2.06 |             0.98 | 4.5       |   59    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
-|      7 | LULU     | Lululemon Athletica         | USA            | Disponible              |       3.58 |              1.39 |       -0.21 |      3.61 |             0.92 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.      |
-|      8 | AMZN     | Amazon                      | USA            | Disponible              |       3.14 |              1.29 |        3.02 |      2.18 |             0.88 | N/A       |   54.44 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.      |
-|      9 | ZAL.DE   | Zalando                     | Germany        | Disponible              |       4.21 |              0.87 |        6.81 |      2.47 |             1    | 0.67      |   54    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. |
-|     10 | PUM.DE   | Puma                        | Germany        | Disponible              |       4.5  |              1.13 |        3.83 |      2.77 |             0.82 | -1.5      |   42    | Descartar        | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
+|   rank | ticker   | name              | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                                                                     |
+|-------:|:---------|:------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:------------------------------------------------------------------------------------------------------------------------------------------|
+|      1 | RBLX     | Roblox            | USA      | Disponible              |       7.02 |              1.5  |        6.53 |      4.41 |             0.91 | N/A       |   83.33 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                                                                          |
+|      2 | TSLA     | Tesla             | USA      | Disponible              |       5.99 |              1.78 |        5.44 |      3.67 |             0.96 | N/A       |   83.33 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                                                                          |
+|      3 | COIN     | Coinbase          | USA      | Disponible              |       5.35 |              1.1  |        4.81 |      5.98 |             0.86 | -0.68     |   71    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                                                                             |
+|      4 | DOCU     | DocuSign          | USA      | Disponible              |       4.2  |              1.32 |        5.93 |      4.17 |             0.98 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                                                                          |
+|      5 | CRWD     | CrowdStrike       | USA      | Disponible              |       4.33 |              1.88 |       21.15 |      5.4  |             0.78 | -0.62     |   68    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista.                                                                                                                      |
+|      6 | NOW      | ServiceNow        | USA      | Disponible              |       4.16 |              1.41 |       15.57 |      4.4  |             0.8  | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                                                                   |
+|      7 | VEEV     | Veeva Systems     | USA      | Disponible              |       3.97 |              1.37 |       14.98 |      4.22 |             0.7  | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                                                                   |
+|      8 | OKTA     | Okta              | USA      | Disponible              |       4.87 |              1.27 |       32.12 |      5.6  |             0.89 | N/A       |   63    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. riesgo por subida acumulada. gap no disponible. subida acumulada de 5 dias superior al 30%. |
+|      9 | MRNA     | Moderna           | USA      | Disponible              |       4.65 |              0.6  |        1.04 |     14.51 |             0.63 | -1.14     |   45    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. volatilidad elevada.                                                                         |
+|     10 | BSX      | Boston Scientific | USA      | Disponible              |       4.09 |              0.97 |       -1.45 |      3.68 |             0.77 | N/A       |   38.89 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                                                                           |
 
 ## Revisión manual antes de operar
 
