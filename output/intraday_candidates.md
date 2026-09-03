@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-09-03 00:28:21 WEST
+Fecha de generación: 2026-09-04 00:24:55 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 1
-- Media prioridad: 4
-- Baja prioridad: 4
+- Alta prioridad: 4
+- Media prioridad: 3
+- Baja prioridad: 2
 - Descartar: 1
-- Mejor candidata: DELL - Dell Technologies - Score 86.0 - Clasificación Alta prioridad
+- Mejor candidata: HPE - Hewlett Packard Enterprise - Score 88.0 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                 | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:---------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | DELL     | Dell Technologies    | USA            | Disponible              |       6.53 |              4.99 |        6.12 |      5.55 |             0.91 | -1.66     |   86    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos.                     |
-|      2 | MOS      | Mosaic               | USA            | Disponible              |       4.37 |              1.27 |        6.71 |      4.16 |             0.84 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      3 | CEG      | Constellation Energy | USA            | Disponible              |       3.47 |              1.14 |        3.76 |      3.09 |             0.94 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      4 | NTR      | Nutrien              | USA            | Disponible              |       4.52 |              1.03 |        9.07 |      2.77 |             0.9  | N/A       |   65.56 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      5 | TTD      | The Trade Desk       | USA            | Disponible              |       6.59 |              0.71 |       11.67 |      3.74 |             0.96 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      6 | ORCL     | Oracle               | USA            | Disponible              |       3.91 |              0.97 |       -2.1  |      4.07 |             0.87 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      7 | DOW      | Dow                  | USA            | Disponible              |       3.37 |              0.98 |        3.13 |      3.09 |             0.85 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      8 | APP      | AppLovin             | USA            | Disponible              |       3.74 |              0.64 |        3.55 |      3.94 |             0.88 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      9 | TSCO.L   | Tesco                | United Kingdom | Disponible              |       3.56 |              1.3  |        2.23 |      1.9  |             1    | -0.98     |   51    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                            |
-|     10 | TOST     | Toast                | USA            | Disponible              |       3.81 |              0.79 |       -7.93 |      3.42 |             0.85 | N/A       |   42.22 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|   rank | ticker   | name                       | market      | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
+|-------:|:---------|:---------------------------|:------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
+|      1 | HPE      | Hewlett Packard Enterprise | USA         | Disponible              |      14.37 |              3.5  |        0.06 |      5.35 |             0.95 | -1.63     |   88    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos.                     |
+|      2 | DELL     | Dell Technologies          | USA         | Disponible              |       6.19 |              2.53 |        9.34 |      5.85 |             0.73 | N/A       |   83.33 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. gap no disponible.                           |
+|      3 | MSTR     | MicroStrategy              | USA         | Disponible              |      13.11 |              1.61 |        5.4  |      6.85 |             0.99 | -1.05     |   83    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
+|      4 | HOOD     | Robinhood Markets          | USA         | Disponible              |       9.81 |              2.53 |       13.63 |      5.82 |             0.99 | -0.79     |   83    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos.                     |
+|      5 | COIN     | Coinbase                   | USA         | Disponible              |       6.18 |              1.38 |        1.04 |      6.7  |             0.79 | N/A       |   74.44 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. gap no disponible.                                                  |
+|      6 | PLTR     | Palantir                   | USA         | Disponible              |       5.91 |              1.07 |       -1.83 |      4.32 |             0.76 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. gap no disponible.                                                  |
+|      7 | ORCL     | Oracle                     | USA         | Disponible              |       4.6  |              1.11 |        1.38 |      4.01 |             0.72 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                  |
+|      8 | WLN.PA   | Worldline                  | France      | Disponible              |       4.39 |              1.26 |        3.97 |      4.88 |             0.89 | 5.47      |   58    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                            |
+|      9 | AXON     | Axon Enterprise            | USA         | Disponible              |       4.27 |              1    |      -11.95 |      5.59 |             0.95 | N/A       |   47.78 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
+|     10 | ADYEN.AS | Adyen                      | Netherlands | Disponible              |       3.96 |              0.63 |       -3.06 |      3.08 |             0.89 | N/A       |   36.67 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
 
 ## Revisión manual antes de operar
 
