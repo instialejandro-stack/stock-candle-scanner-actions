@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-09-05 00:08:56 WEST
+Fecha de generación: 2026-09-08 00:38:44 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 1
+- Alta prioridad: 2
 - Media prioridad: 3
-- Baja prioridad: 6
+- Baja prioridad: 5
 - Descartar: 0
-- Mejor candidata: CEG - Constellation Energy - Score 77.78 - Clasificación Alta prioridad
+- Mejor candidata: TKA.DE - ThyssenKrupp - Score 78.0 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                 | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:---------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | CEG      | Constellation Energy | USA            | Disponible              |       5.25 |              1.14 |        8.03 |      3.21 |             0.95 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
-|      2 | MU       | Micron Technology    | USA            | Disponible              |       4.69 |              1.26 |        8.98 |      4.59 |             0.98 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      3 | RBLX     | Roblox               | USA            | Disponible              |       4.49 |              0.89 |       12.41 |      4.43 |             0.93 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      4 | MSTR     | MicroStrategy        | USA            | Disponible              |       4.07 |              0.95 |       12.17 |      7.06 |             0.78 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
-|      5 | KLAC     | KLA                  | USA            | Disponible              |       4.3  |              1.41 |        5.73 |      4.13 |             0.85 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      6 | WLN.PA   | Worldline            | France         | Disponible              |       3.83 |              1.84 |        5.86 |      4.76 |             0.6  | -1.14     |   58    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
-|      7 | CAP.PA   | Capgemini            | France         | Disponible              |       4.27 |              0.9  |        0.46 |      3.06 |             0.98 | -2.32     |   56    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
-|      8 | WKL.AS   | Wolters Kluwer       | Netherlands    | Disponible              |       3.76 |              1.2  |        0.66 |      3.21 |             0.64 | -2.21     |   56    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
-|      9 | STX      | Seagate Technology   | USA            | Disponible              |       3.95 |              0.7  |        2.35 |      5.82 |             0.92 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|     10 | WPP.L    | WPP                  | United Kingdom | Disponible              |       4.06 |              0.74 |        0.05 |      3.86 |             0.77 | -1.73     |   48    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                                             |
+|   rank | ticker   | name                 | market      | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
+|-------:|:---------|:---------------------|:------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
+|      1 | TKA.DE   | ThyssenKrupp         | Germany     | Disponible              |       4.86 |              1.54 |        3.19 |      3.98 |             0.89 | 2.89      |   78    | Alta prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                            |
+|      2 | CEG      | Constellation Energy | USA         | Disponible              |       5.25 |              1.18 |        8.03 |      3.21 |             0.95 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      3 | MU       | Micron Technology    | USA         | Disponible              |       4.66 |              1.27 |        8.98 |      4.59 |             0.98 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
+|      4 | RBLX     | Roblox               | USA         | Disponible              |       4.49 |              0.89 |       12.41 |      4.43 |             0.93 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      5 | MSTR     | MicroStrategy        | USA         | Disponible              |       3.97 |              0.97 |       12.17 |      7.06 |             0.78 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
+|      6 | KLAC     | KLA                  | USA         | Disponible              |       4.33 |              1.41 |        5.73 |      4.13 |             0.87 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
+|      7 | STX      | Seagate Technology   | USA         | Disponible              |       3.73 |              0.71 |        2.35 |      5.82 |             0.92 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      8 | SMCI     | Super Micro Computer | USA         | Disponible              |       3.75 |              0.98 |        6.77 |      5.63 |             0.56 | N/A       |   52.22 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
+|      9 | HFG.DE   | HelloFresh           | Germany     | Disponible              |       5.46 |              0.92 |       -0.6  |      3.41 |             0.95 | -0.75     |   48    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                    |
+|     10 | ASM.AS   | ASM International    | Netherlands | Disponible              |       5.52 |              1.22 |       -0.07 |      3.56 |             1    | 4.94      |   45    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
 
 ## Revisión manual antes de operar
 
