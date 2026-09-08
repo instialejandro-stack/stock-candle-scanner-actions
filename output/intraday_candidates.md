@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-09-08 00:38:44 WEST
+Fecha de generación: 2026-09-09 00:31:04 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 2
-- Media prioridad: 3
-- Baja prioridad: 5
+- Alta prioridad: 1
+- Media prioridad: 6
+- Baja prioridad: 3
 - Descartar: 0
 - Mejor candidata: TKA.DE - ThyssenKrupp - Score 78.0 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                 | market      | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:---------------------|:------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | TKA.DE   | ThyssenKrupp         | Germany     | Disponible              |       4.86 |              1.54 |        3.19 |      3.98 |             0.89 | 2.89      |   78    | Alta prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                            |
-|      2 | CEG      | Constellation Energy | USA         | Disponible              |       5.25 |              1.18 |        8.03 |      3.21 |             0.95 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
-|      3 | MU       | Micron Technology    | USA         | Disponible              |       4.66 |              1.27 |        8.98 |      4.59 |             0.98 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      4 | RBLX     | Roblox               | USA         | Disponible              |       4.49 |              0.89 |       12.41 |      4.43 |             0.93 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      5 | MSTR     | MicroStrategy        | USA         | Disponible              |       3.97 |              0.97 |       12.17 |      7.06 |             0.78 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
-|      6 | KLAC     | KLA                  | USA         | Disponible              |       4.33 |              1.41 |        5.73 |      4.13 |             0.87 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      7 | STX      | Seagate Technology   | USA         | Disponible              |       3.73 |              0.71 |        2.35 |      5.82 |             0.92 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      8 | SMCI     | Super Micro Computer | USA         | Disponible              |       3.75 |              0.98 |        6.77 |      5.63 |             0.56 | N/A       |   52.22 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
-|      9 | HFG.DE   | HelloFresh           | Germany     | Disponible              |       5.46 |              0.92 |       -0.6  |      3.41 |             0.95 | -0.75     |   48    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                    |
-|     10 | ASM.AS   | ASM International    | Netherlands | Disponible              |       5.52 |              1.22 |       -0.07 |      3.56 |             1    | 4.94      |   45    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
+|   rank | ticker   | name                       | market      | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                 |
+|-------:|:---------|:---------------------------|:------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:----------------------------------------------------------------------|
+|      1 | TKA.DE   | ThyssenKrupp               | Germany     | Disponible              |       4.86 |              1.54 |        3.19 |      3.98 |             0.89 | 2.37      |   78    | Alta prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
+|      2 | HPE      | Hewlett Packard Enterprise | USA         | Disponible              |       7.15 |              1.2  |        7.25 |      5.47 |             0.97 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.      |
+|      3 | AMD      | Advanced Micro Devices     | USA         | Disponible              |       3.45 |              1.56 |        7.44 |      3.71 |             0.74 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                               |
+|      4 | TSLA     | Tesla                      | USA         | Disponible              |       3.05 |              1.3  |        0.06 |      4.29 |             0.87 | N/A       |   67.78 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.      |
+|      5 | ENPH     | Enphase Energy             | USA         | Disponible              |       3.27 |              1.68 |        6.62 |      4.44 |             0.81 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.      |
+|      6 | INTC     | Intel                      | USA         | Disponible              |       3.61 |              1.4  |       16.71 |      4.21 |             0.72 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                               |
+|      7 | FSLR     | First Solar                | USA         | Disponible              |       3.29 |              1.54 |        5.62 |      3.38 |             0.76 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                               |
+|      8 | U        | Unity Software             | USA         | Disponible              |       3.01 |              1.03 |        1.54 |      3.85 |             0.92 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.      |
+|      9 | ASM.AS   | ASM International          | Netherlands | Disponible              |       5.52 |              1.22 |       -0.07 |      3.56 |             1    | 1.62      |   50    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                         |
+|     10 | HFG.DE   | HelloFresh                 | Germany     | Disponible              |       5.46 |              0.92 |       -0.6  |      3.41 |             0.95 | -2.04     |   48    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. |
 
 ## Revisión manual antes de operar
 
