@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-09-10 00:24:55 WEST
+Fecha de generación: 2026-09-11 00:19:46 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 1
-- Media prioridad: 5
-- Baja prioridad: 4
-- Descartar: 0
-- Mejor candidata: GME - GameStop - Score 76.0 - Clasificación Alta prioridad
+- Alta prioridad: 0
+- Media prioridad: 3
+- Baja prioridad: 6
+- Descartar: 1
+- Mejor candidata: AAPL - Apple - Score 71.11 - Clasificación Media prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                       | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                   |
-|-------:|:---------|:---------------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:----------------------------------------------------------------------------------------|
-|      1 | GME      | GameStop                   | USA            | Disponible              |       4.14 |              2.27 |        5.74 |      2.7  |             0.72 | 0.55      |   76    | Alta prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo alto.                                             |
-|      2 | HCA      | HCA Healthcare             | USA            | Disponible              |       5.86 |              1.65 |        1.99 |      3.13 |             0.84 | -0.79     |   71    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                           |
-|      3 | HPQ      | HP                         | USA            | Disponible              |       3.91 |              1    |        3.42 |      4.75 |             0.69 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                 |
-|      4 | HPE      | Hewlett Packard Enterprise | USA            | Disponible              |       3.44 |              1.31 |       15.79 |      5.03 |             0.99 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                        |
-|      5 | FICO     | Fair Isaac                 | USA            | Disponible              |       5.16 |              2.24 |      -10.92 |      5.62 |             0.86 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible. |
-|      6 | INTC     | Intel                      | USA            | Disponible              |       3.31 |              1    |       19.41 |      3.93 |             0.88 | -0.84     |   61    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                   |
-|      7 | GLEN.L   | Glencore                   | United Kingdom | Disponible              |       3.51 |              0.73 |        5.34 |      2.51 |             0.94 | -0.57     |   57    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                   |
-|      8 | AAL.L    | Anglo American             | United Kingdom | Disponible              |       3.14 |              0.7  |        4.69 |      3.07 |             0.78 | -3.04     |   55    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                                            |
-|      9 | ANA.MC   | Acciona                    | Spain          | Disponible              |       3.27 |              1.25 |        2.58 |      2.18 |             0.97 | -2.42     |   52    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                           |
-|     10 | IMCD.AS  | IMCD                       | Netherlands    | Disponible              |       3.51 |              1.19 |       -0.38 |      2.5  |             0.89 | -2.03     |   47    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                           |
+|   rank | ticker   | name             | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
+|-------:|:---------|:-----------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
+|      1 | AAPL     | Apple            | USA      | Disponible              |       3.09 |              1.66 |        0.5  |      2.3  |             0.99 | N/A       |   71.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
+|      2 | COO      | Cooper Companies | USA      | Disponible              |       4.66 |              6.54 |      -22.31 |      4.8  |             0.71 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo alto. gap no disponible.                           |
+|      3 | HFG.DE   | HelloFresh       | Germany  | Disponible              |       4.82 |              1.19 |        6.62 |      3.42 |             0.79 | 0.74      |   60    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
+|      4 | FSLR     | First Solar      | USA      | Disponible              |       4.86 |              1.13 |        2.26 |      3.92 |             0.86 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
+|      5 | UBER     | Uber             | USA      | Disponible              |       3.1  |              2.16 |       -5.09 |      3.5  |             0.78 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo alto. gap no disponible.                           |
+|      6 | APP      | AppLovin         | USA      | Disponible              |       4.68 |              1    |       -1.43 |      4.3  |             0.82 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      7 | F        | Ford Motor       | USA      | Disponible              |       4.13 |              1.11 |       -1.84 |      3.23 |             0.91 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
+|      8 | ENPH     | Enphase Energy   | USA      | Disponible              |       3.13 |              1.17 |        3.77 |      5.37 |             0.61 | N/A       |   50    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                  |
+|      9 | DASH     | DoorDash         | USA      | Disponible              |       3.62 |              0.84 |      -11.14 |      4.14 |             0.86 | 0.81      |   48    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
+|     10 | MDB      | MongoDB          | USA      | Disponible              |       3.73 |              0.8  |       -0.41 |      6.22 |             0.8  | N/A       |   42.22 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
 
 ## Revisión manual antes de operar
 
