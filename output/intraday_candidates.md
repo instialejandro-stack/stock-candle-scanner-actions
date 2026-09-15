@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-09-15 00:55:57 WEST
+Fecha de generación: 2026-09-16 00:35:42 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 4
-- Media prioridad: 3
-- Baja prioridad: 3
-- Descartar: 0
-- Mejor candidata: CRWD - CrowdStrike - Score 88.89 - Clasificación Alta prioridad
+- Alta prioridad: 0
+- Media prioridad: 8
+- Baja prioridad: 1
+- Descartar: 1
+- Mejor candidata: AZN.L - AstraZeneca - Score 74.44 - Clasificación Media prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name          | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                   |
-|-------:|:---------|:--------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:----------------------------------------------------------------------------------------|
-|      1 | CRWD     | CrowdStrike   | USA      | Disponible              |       7.48 |              2.23 |       10.46 |      6.46 |             0.83 | N/A       |   88.89 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible. |
-|      2 | RBLX     | Roblox        | USA      | Disponible              |       7.98 |              1.79 |       18.43 |      4.39 |             1    | N/A       |   83.33 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                        |
-|      3 | OKTA     | Okta          | USA      | Disponible              |       7.9  |              1.55 |        9.29 |      6.09 |             0.83 | N/A       |   83.33 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                        |
-|      4 | QCOM     | Qualcomm      | USA      | Disponible              |       5.49 |              1.21 |        6.76 |      3.98 |             0.86 | N/A       |   75.56 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                        |
-|      5 | IOT      | Samsara       | USA      | Disponible              |       9.32 |              1.34 |        6.74 |      6.11 |             0.93 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                        |
-|      6 | COIN     | Coinbase      | USA      | Disponible              |       5.79 |              1.29 |        3.69 |      6.09 |             0.86 | -1.85     |   71    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                           |
-|      7 | FTNT     | Fortinet      | USA      | Disponible              |       4.64 |              1.4  |        8.89 |      4.62 |             0.93 | N/A       |   67.78 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                        |
-|      8 | MSTR     | MicroStrategy | USA      | Disponible              |       4.63 |              0.64 |       -4.1  |      6.91 |             0.92 | -1.93     |   51    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                   |
-|      9 | PRY.MI   | Prysmian      | Italy    | Disponible              |       4.6  |              1.49 |        6.22 |      3.56 |             0.93 | -6.84     |   51    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                           |
-|     10 | IFX.DE   | Infineon      | Germany  | Disponible              |       4.44 |              0.87 |        5.46 |      3.7  |             1    | -7.72     |   48    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                   |
+|   rank | ticker   | name           | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
+|-------:|:---------|:---------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
+|      1 | AZN.L    | AstraZeneca    | United Kingdom | Disponible              |       3.9  |              2.27 |        0.93 |      2.57 |             0.88 | N/A       |   74.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible.  |
+|      2 | VLO      | Valero Energy  | USA            | Disponible              |       3.53 |              1.36 |        3.71 |      3.21 |             0.92 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
+|      3 | WKL.AS   | Wolters Kluwer | Netherlands    | Disponible              |       4.52 |              1.68 |        2.7  |      3.52 |             0.88 | -3.11     |   68    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                            |
+|      4 | QCOM     | Qualcomm       | USA            | Disponible              |       3.71 |              1.18 |        7.88 |      4.07 |             0.75 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                  |
+|      5 | CRWD     | CrowdStrike    | USA            | Disponible              |       4.17 |              1.45 |       15.46 |      6.26 |             0.87 | -0.99     |   66    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                            |
+|      6 | OKTA     | Okta           | USA            | Disponible              |       4.01 |              0.91 |       13.64 |      6.16 |             0.83 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      7 | CAP.PA   | Capgemini      | France         | Disponible              |       3.98 |              1.93 |        3.1  |      3.36 |             0.71 | -1.0      |   63    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
+|      8 | DOCU     | DocuSign       | USA            | Disponible              |       4.22 |              1.37 |       10.4  |      4.3  |             0.57 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                  |
+|      9 | REN.AS   | Relx           | Netherlands    | Disponible              |       3.45 |              1.28 |       -0.07 |      3.13 |             0.75 | -2.62     |   46    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
+|     10 | WLN.PA   | Worldline      | France         | Disponible              |       3.96 |              0.64 |       -4.81 |      5.46 |             1    | -1.7      |   41    | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
 
 ## Revisión manual antes de operar
 
