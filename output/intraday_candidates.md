@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-09-18 00:36:33 WEST
+Fecha de generación: 2026-09-19 00:26:22 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 1
-- Media prioridad: 7
-- Baja prioridad: 1
+- Alta prioridad: 4
+- Media prioridad: 5
+- Baja prioridad: 0
 - Descartar: 1
-- Mejor candidata: SMCI - Super Micro Computer - Score 77.78 - Clasificación Alta prioridad
+- Mejor candidata: COIN - Coinbase - Score 83.33 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                       | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:---------------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | SMCI     | Super Micro Computer       | USA      | Disponible              |       5.93 |              1.64 |        7.95 |      5.81 |             0.79 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. gap no disponible.                                                  |
-|      2 | HPQ      | HP                         | USA      | Disponible              |       5    |              0.9  |        5.9  |      4.91 |             0.92 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      3 | INTC     | Intel                      | USA      | Disponible              |       3.84 |              1.58 |        8.45 |      5.18 |             0.61 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                  |
-|      4 | HPE      | Hewlett Packard Enterprise | USA      | Disponible              |       6.62 |              0.97 |       10.54 |      6.75 |             0.79 | N/A       |   68.89 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. gap no disponible.                          |
-|      5 | WDAY     | Workday                    | USA      | Disponible              |       6.14 |              1.2  |        7.67 |      4.55 |             0.9  | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
-|      6 | CRWD     | CrowdStrike                | USA      | Disponible              |       4.1  |              1.01 |       17.64 |      5.5  |             0.73 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                  |
-|      7 | PSX      | Phillips 66                | USA      | Disponible              |       4.88 |              1.3  |        6.07 |      2.85 |             1    | N/A       |   65.56 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      8 | OKTA     | Okta                       | USA      | Disponible              |       3.84 |              0.85 |       11.05 |      4.84 |             0.73 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
-|      9 | MDB      | MongoDB                    | USA      | Disponible              |       4.66 |              0.78 |        5.23 |      5.49 |             0.69 | N/A       |   50    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                          |
-|     10 | FSLR     | First Solar                | USA      | Disponible              |       4.22 |              1.34 |       -2.9  |      4.62 |             0.78 | N/A       |   44.44 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                  |
+|   rank | ticker   | name               | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                   |
+|-------:|:---------|:-------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:----------------------------------------------------------------------------------------|
+|      1 | COIN     | Coinbase           | USA      | Disponible              |       9.03 |              1.98 |       10.84 |      6.64 |             0.89 | N/A       |   83.33 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                        |
+|      2 | MSTR     | MicroStrategy      | USA      | Disponible              |      12.7  |              1.96 |       17.52 |      6.32 |             0.99 | -0.57     |   83    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                           |
+|      3 | HOOD     | Robinhood Markets  | USA      | Disponible              |       5.55 |              1.59 |        6.44 |      6.02 |             0.92 | N/A       |   75.56 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                        |
+|      4 | ETN      | Eaton              | USA      | Disponible              |       3.23 |              2.24 |       -0.14 |      3.55 |             0.96 | N/A       |   75.56 | Alta prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible. |
+|      5 | STX      | Seagate Technology | USA      | Disponible              |       5.41 |              1.93 |        3.45 |      5.31 |             0.8  | N/A       |   74.44 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. gap no disponible.                                                 |
+|      6 | AMAT     | Applied Materials  | USA      | Disponible              |       5.55 |              2.19 |       -2.61 |      3.99 |             0.98 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible. |
+|      7 | MU       | Micron Technology  | USA      | Disponible              |       3.47 |              1.42 |        4.16 |      4.23 |             0.98 | N/A       |   67.78 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                        |
+|      8 | LRCX     | Lam Research       | USA      | Disponible              |       5.44 |              2.3  |       -3.39 |      4.83 |             0.99 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible. |
+|      9 | KLAC     | KLA                | USA      | Disponible              |       3.81 |              2.1  |       -2.02 |      4.28 |             0.98 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible. |
+|     10 | PUM.DE   | Puma               | Germany  | Disponible              |       2.57 |              1.17 |       -1.71 |      3.19 |             0.85 | -1.65     |   41    | Descartar        | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                           |
 
 ## Revisión manual antes de operar
 
