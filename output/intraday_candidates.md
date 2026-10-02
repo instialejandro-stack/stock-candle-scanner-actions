@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-10-01 01:40:44 WEST
+Fecha de generación: 2026-10-02 01:59:06 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 1
-- Media prioridad: 2
-- Baja prioridad: 6
+- Alta prioridad: 0
+- Media prioridad: 0
+- Baja prioridad: 9
 - Descartar: 1
-- Mejor candidata: CCL - Carnival - Score 76.0 - Clasificación Alta prioridad
+- Mejor candidata: VEEV - Veeva Systems - Score 59.0 - Clasificación Baja prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                         | market      | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:-----------------------------|:------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | CCL      | Carnival                     | USA         | Disponible              |       2.95 |              2.95 |       12.7  |      3.68 |             0.86 | -1.83     |   76    | Alta prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo alto. cierre cerca de maximos.                     |
-|      2 | SHOP     | Shopify                      | USA         | Disponible              |       3.02 |              0.82 |        0.35 |      4.57 |             0.84 | N/A       |   62.22 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      3 | BESI.AS  | BE Semiconductor Industries  | Netherlands | Disponible              |       2.58 |              1.02 |        0.31 |      3.6  |             0.79 | 0.78      |   60    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
-|      4 | IFX.DE   | Infineon                     | Germany     | Disponible              |       2.42 |              1.19 |       -1.38 |      4.22 |             0.71 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                                  |
-|      5 | MPC      | Marathon Petroleum           | USA         | Disponible              |       2.55 |              0.62 |        0.6  |      4.27 |             0.85 | 0.86      |   58    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
-|      6 | AIG      | American International Group | USA         | Disponible              |       3.51 |              2.32 |        0.12 |      2    |             0.81 | -1.13     |   56    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo alto. cierre cerca de maximos.                     |
-|      7 | MRNA     | Moderna                      | USA         | Disponible              |       2.87 |              0.88 |       11.45 |      6.24 |             0.71 | -6.01     |   53    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                                             |
-|      8 | EW       | Edwards Lifesciences         | USA         | Disponible              |       2.78 |              1.02 |       -0.79 |      2.45 |             0.96 | -2.0      |   47    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                            |
-|      9 | DASH     | DoorDash                     | USA         | Disponible              |       3.81 |              1.36 |       -2.66 |      4.03 |             0.88 | -0.56     |   46    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                            |
-|     10 | ORCL     | Oracle                       | USA         | Disponible              |       3.77 |              1.28 |       -7.65 |      5.59 |             0.47 | -0.55     |   36    | Descartar        | Pendiente revisión manual | buen cuerpo alcista. cierre lejos del maximo diario.                                     |
+|   rank | ticker   | name          | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
+|-------:|:---------|:--------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
+|      1 | VEEV     | Veeva Systems | USA      | Disponible              |       2.74 |              1.12 |        5.43 |      2.76 |             0.77 | -1.91     |   59    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
+|      2 | MRNA     | Moderna       | USA      | Disponible              |       3.23 |              1.4  |        5.74 |      7.04 |             0.65 | -1.75     |   58    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
+|      3 | SNOW     | Snowflake     | USA      | Disponible              |       2.59 |              0.99 |        1.42 |      4.15 |             0.51 | 0.78      |   57    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                                             |
+|      4 | RBLX     | Roblox        | USA      | Disponible              |       2.81 |              1.33 |      -13.51 |      6.37 |             0.77 | 1.74      |   55    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
+|      5 | INTC     | Intel         | USA      | Disponible              |       3.45 |              0.87 |       -1.93 |      5.57 |             0.93 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      6 | NOW      | ServiceNow    | USA      | Disponible              |       3.28 |              0.72 |       -4.81 |      4.28 |             0.83 | 2.6       |   48    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
+|      7 | ADBE     | Adobe         | USA      | Disponible              |       2.67 |              0.8  |       -0.31 |      3.68 |             0.9  | 0.62      |   48    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
+|      8 | ADSK     | Autodesk      | USA      | Disponible              |       2.9  |              0.84 |       -3.75 |      3.54 |             0.86 | 1.24      |   48    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
+|      9 | ZAL.DE   | Zalando       | Germany  | Disponible              |       4.7  |              1.12 |        1.57 |      2.72 |             0.97 | -2.11     |   47    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                            |
+|     10 | ACN      | Accenture     | USA      | Disponible              |       2.96 |              1.98 |       -0.08 |      3.93 |             0.86 | 16.16     |   43    | Descartar        | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap superior al 10%.                       |
 
 ## Revisión manual antes de operar
 
