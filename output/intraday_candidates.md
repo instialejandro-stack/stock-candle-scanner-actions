@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-10-07 01:53:41 WEST
+Fecha de generación: 2026-10-08 02:10:13 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
 - Alta prioridad: 0
-- Media prioridad: 6
-- Baja prioridad: 3
+- Media prioridad: 4
+- Baja prioridad: 5
 - Descartar: 1
-- Mejor candidata: MRNA - Moderna - Score 68.0 - Clasificación Media prioridad
+- Mejor candidata: CEG - Constellation Energy - Score 73.33 - Clasificación Media prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                 | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:---------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | MRNA     | Moderna              | USA      | Disponible              |       6.16 |              1.31 |        3.01 |      7.19 |             0.87 | -7.66     |   68    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
-|      2 | CSCO     | Cisco Systems        | USA      | Disponible              |       3.88 |              1.11 |       10.29 |      2.35 |             0.91 | N/A       |   65.56 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      3 | SHOP     | Shopify              | USA      | Disponible              |       4.61 |              0.85 |       11.18 |      4.39 |             0.74 | 2.49      |   65    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                                             |
-|      4 | ADSK     | Autodesk             | USA      | Disponible              |       4.22 |              0.99 |       13.83 |      3.08 |             0.97 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      5 | AMP.MI   | Amplifon             | Italy    | Disponible              |       3.25 |              1.41 |       -0.29 |      3    |             0.85 | 0.91      |   64    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                            |
-|      6 | IR       | Ingersoll Rand       | USA      | Disponible              |       3.51 |              0.85 |        2.84 |      2.68 |             0.9  | 0.84      |   64    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
-|      7 | U        | Unity Software       | USA      | Disponible              |       4.65 |              0.85 |       14.6  |      4.9  |             0.76 | -1.53     |   58    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                                             |
-|      8 | LEN      | Lennar               | USA      | Disponible              |       3.28 |              1.04 |       -6.75 |      4.53 |             0.89 | N/A       |   47.78 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      9 | CEG      | Constellation Energy | USA      | Disponible              |       3.13 |              1.14 |        2.76 |      3.91 |             0.74 | 10.94     |   45    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. gap superior al 10%.                                                |
-|     10 | APP      | AppLovin             | USA      | Disponible              |       4.2  |              1.27 |       -8.52 |      5.75 |             0.7  | -0.98     |   43    | Descartar        | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
+|   rank | ticker   | name                 | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                          |
+|-------:|:---------|:---------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------------|
+|      1 | CEG      | Constellation Energy | USA      | Disponible              |       3.19 |              3.77 |       13.54 |      4.28 |             0.5  | N/A       |   73.33 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo alto. cierre lejos del maximo diario. gap no disponible. |
+|      2 | ANET     | Arista Networks      | USA      | Disponible              |       3.54 |              1.43 |        6.16 |      2.92 |             0.92 | 1.23      |   69    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                                  |
+|      3 | ADSK     | Autodesk             | USA      | Disponible              |       4.22 |              0.99 |       13.83 |      3.08 |             0.97 | 1.63      |   68    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                          |
+|      4 | CSCO     | Cisco Systems        | USA      | Disponible              |       3.88 |              1.11 |       10.29 |      2.35 |             0.91 | -0.52     |   62    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                                  |
+|      5 | RBLX     | Roblox               | USA      | Disponible              |       2.71 |              0.91 |       10.64 |      5.32 |             0.85 | 1.76      |   58    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                          |
+|      6 | ALO.PA   | Alstom               | France   | Disponible              |       2.73 |              1.32 |        8.92 |      3.08 |             0.69 | -1.17     |   58    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista.                                                                           |
+|      7 | AR       | Antero Resources     | USA      | Disponible              |       3.54 |              0.93 |        6.4  |      3.09 |             0.9  | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.       |
+|      8 | LEN      | Lennar               | USA      | Disponible              |       3.28 |              1.04 |       -6.75 |      4.53 |             0.89 | -1.3      |   46    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                                  |
+|      9 | NKE      | Nike                 | USA      | Disponible              |       2.7  |              1.06 |       -3.43 |      3.44 |             0.99 | -0.9      |   46    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                                  |
+|     10 | BNP.PA   | BNP Paribas          | France   | Disponible              |       2.77 |              1.2  |       -2.37 |      2.92 |             0.77 | -3.93     |   36    | Descartar        | Pendiente revisión manual | buen cuerpo alcista.                                                                           |
 
 ## Revisión manual antes de operar
 
