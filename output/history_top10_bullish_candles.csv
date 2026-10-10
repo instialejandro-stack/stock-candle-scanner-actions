@@ -1,4 +1,14 @@
 rank,date,ticker,name,isin,market,trade_republic_status,open,close,high,low,body,body_pct,volume
+1,2026-10-08,CSGP,CoStar Group,,USA,Disponible,27.6,29.81,29.83,27.58,2.21,8.01,9467400
+2,2026-10-08,CMG,Chipotle Mexican Grill,,USA,Disponible,30.68,32.68,33.4,30.46,2.0,6.52,72036000
+3,2026-10-08,ETSY,Etsy,,USA,Disponible,70.85,75.14,75.445,70.85,4.29,6.06,2923900
+4,2026-10-08,ACN,Accenture,,USA,Disponible,197.73,208.36,209.06,193.22,10.63,5.38,12091900
+5,2026-10-08,GME,GameStop,,USA,Disponible,24.1,25.28,25.82,24.04,1.18,4.9,13060100
+6,2026-10-08,CTSH,Cognizant Technology Solutions,,USA,Disponible,57.26,60.01,60.23,54.7,2.75,4.8,9927700
+7,2026-10-08,TSCO.L,Tesco,,United Kingdom,Disponible,478.1,500.4,512.6,476.3,22.3,4.66,30091280
+8,2026-10-08,LOW,Lowe's,,USA,Disponible,180.5,188.85,189.45,180.0,8.35,4.63,4125100
+9,2026-10-08,LYFT,Lyft,,USA,Disponible,15.51,16.13,16.188,15.49,0.62,4.0,13505000
+10,2026-10-08,BESI.AS,BE Semiconductor Industries,,Netherlands,Disponible,173.0,179.9,182.15,169.55,6.9,3.99,623800
 1,2026-10-07,MRNA,Moderna,,USA,Disponible,183.645,196.48,197.69,182.5,12.835,6.99,14640200
 2,2026-10-07,MU,Micron Technology,US5951121038,USA,Disponible,1017.37,1088.0,1089.22,1011.42,70.63,6.94,30859500
 3,2026-10-07,SMCI,Super Micro Computer,US86800U1043,USA,Disponible,42.6,44.94,45.77,42.46,2.34,5.49,40541100
