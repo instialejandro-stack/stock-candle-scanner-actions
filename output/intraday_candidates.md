@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-10-10 02:05:02 WEST
+Fecha de generación: 2026-10-13 03:40:15 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
 - Alta prioridad: 1
-- Media prioridad: 6
-- Baja prioridad: 2
-- Descartar: 1
-- Mejor candidata: ETSY - Etsy - Score 75.0 - Clasificación Alta prioridad
+- Media prioridad: 8
+- Baja prioridad: 1
+- Descartar: 0
+- Mejor candidata: AMP.MI - Amplifon - Score 83.0 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                           | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                 |
-|-------:|:---------|:-------------------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:----------------------------------------------------------------------|
-|      1 | ETSY     | Etsy                           | USA            | Disponible              |       6.06 |              0.91 |        3.16 |      4.08 |             0.93 | 1.49      |   75    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. |
-|      2 | TSCO.L   | Tesco                          | United Kingdom | Disponible              |       4.66 |              2.06 |        5.39 |      2.23 |             0.66 | 0.68      |   74    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo alto.                           |
-|      3 | CSGP     | CoStar Group                   | USA            | Disponible              |       8.01 |              1.5  |        7.54 |      3.32 |             0.99 | -0.7      |   73    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                         |
-|      4 | ACN      | Accenture                      | USA            | Disponible              |       5.38 |              1.63 |       -1.86 |      5.04 |             0.96 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.      |
-|      5 | CMG      | Chipotle Mexican Grill         | USA            | Disponible              |       6.52 |              3.86 |        1.11 |      3.76 |             0.76 | -3.2      |   72    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto.                           |
-|      6 | LYFT     | Lyft                           | USA            | Disponible              |       4    |              1.47 |        6.05 |      2.78 |             0.92 | 0.78      |   69    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
-|      7 | GME      | GameStop                       | USA            | Disponible              |       4.9  |              1.27 |        4.85 |      4.19 |             0.7  | 5.22      |   63    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista.                                                  |
-|      8 | CTSH     | Cognizant Technology Solutions | USA            | Disponible              |       4.8  |              1.4  |       -1.43 |      4.24 |             0.96 | -1.35     |   56    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
-|      9 | LOW      | Lowe's                         | USA            | Disponible              |       4.63 |              1.21 |        3.55 |      2.45 |             0.94 | -1.48     |   52    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
-|     10 | BESI.AS  | BE Semiconductor Industries    | Netherlands    | Disponible              |       3.99 |              1.2  |       -6.01 |      5.01 |             0.82 | N/A       |   42.22 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.      |
+|   rank | ticker   | name               | market      | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                 |
+|-------:|:---------|:-------------------|:------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:----------------------------------------------------------------------|
+|      1 | AMP.MI   | Amplifon           | Italy       | Disponible              |       5.07 |              2.76 |       11.29 |      3.11 |             0.92 | -1.56     |   83    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos.  |
+|      2 | FICO     | Fair Isaac         | USA         | Disponible              |       9.79 |              1.64 |        7.31 |      7.99 |             0.97 | 0.53      |   70    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                         |
+|      3 | HFG.DE   | HelloFresh         | Germany     | Disponible              |       5.46 |              1.95 |       14.98 |      5.55 |             0.73 | -1.15     |   68    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista.                                                  |
+|      4 | SHOP     | Shopify            | USA         | Disponible              |       3.06 |              1.27 |       11.94 |      3.87 |             0.79 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                               |
+|      5 | ZAL.DE   | Zalando            | Germany     | Disponible              |       3.48 |              1.65 |        6.87 |      2.86 |             0.77 | 1.43      |   66    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista.                                                  |
+|      6 | WMB      | Williams Companies | USA         | Disponible              |       3.01 |              1.02 |        4.75 |      2.32 |             0.98 | N/A       |   65.56 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.      |
+|      7 | WKL.AS   | Wolters Kluwer     | Netherlands | Disponible              |       3.25 |              0.74 |       10.59 |      2.9  |             0.95 | 2.8       |   64    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. |
+|      8 | GME      | GameStop           | USA         | Disponible              |       3.89 |              0.85 |        7.88 |      4.2  |             0.99 | -0.7      |   61    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. |
+|      9 | TKA.DE   | ThyssenKrupp       | Germany     | Disponible              |       5.27 |              1.4  |       -2.21 |      5.21 |             0.89 | 1.35      |   60    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                         |
+|     10 | CLNX.MC  | Cellnex Telecom    | Spain       | Disponible              |       4.64 |              1.12 |        5.66 |      2.93 |             0.97 | 2.93      |   54    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
 
 ## Revisión manual antes de operar
 

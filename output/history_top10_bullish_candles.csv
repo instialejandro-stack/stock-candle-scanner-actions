@@ -1,4 +1,14 @@
 rank,date,ticker,name,isin,market,trade_republic_status,open,close,high,low,body,body_pct,volume
+1,2026-10-12,FICO,Fair Isaac,,USA,Disponible,674.0,740.0,742.17,666.16,66.0,9.79,2003600
+6,2026-10-12,GME,GameStop,,USA,Disponible,26.21,27.23,27.25,25.77,1.02,3.89,9058500
+9,2026-10-12,SHOP,Shopify,CA82509L1076,USA,Disponible,173.9,179.22,180.88,172.94,5.32,3.06,12444400
+10,2026-10-12,WMB,Williams Companies,,USA,Disponible,72.0,74.17,74.21,72.0,2.17,3.01,7523300
+2,2026-10-09,HFG.DE,HelloFresh,,Germany,Disponible,2.548,2.687,2.738,2.548,0.139,5.46,2054228
+3,2026-10-09,TKA.DE,ThyssenKrupp,,Germany,Disponible,13.01,13.695,13.78,13.0,0.685,5.27,3104201
+4,2026-10-09,AMP.MI,Amplifon,,Italy,Disponible,12.24,12.86,12.92,12.185,0.62,5.07,3464004
+5,2026-10-09,CLNX.MC,Cellnex Telecom,,Spain,Disponible,22.85,23.91,23.94,22.84,1.06,4.64,1799264
+7,2026-10-09,ZAL.DE,Zalando,,Germany,Disponible,23.0,23.8,24.05,22.98,0.8,3.48,1609939
+8,2026-10-09,WKL.AS,Wolters Kluwer,,Netherlands,Disponible,72.64,75.0,75.14,72.48,2.36,3.25,1161674
 1,2026-10-08,CSGP,CoStar Group,,USA,Disponible,27.6,29.81,29.83,27.58,2.21,8.01,9467400
 2,2026-10-08,CMG,Chipotle Mexican Grill,,USA,Disponible,30.68,32.68,33.4,30.46,2.0,6.52,72036000
 3,2026-10-08,ETSY,Etsy,,USA,Disponible,70.85,75.14,75.445,70.85,4.29,6.06,2923900
