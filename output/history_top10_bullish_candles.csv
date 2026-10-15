@@ -1,4 +1,14 @@
 rank,date,ticker,name,isin,market,trade_republic_status,open,close,high,low,body,body_pct,volume
+9,2026-10-14,LONN.SW,Lonza,,Switzerland,Disponible,565.6,585.4,588.4,564.0,19.8,3.5,224750
+10,2026-10-14,UNH,UnitedHealth,US91324P1021,USA,Disponible,382.29,395.62,396.42,382.4,13.33,3.49,7759080
+1,2026-10-13,STX,Seagate Technology,,USA,Disponible,693.93,747.2,749.0,693.93,53.27,7.68,6793800
+2,2026-10-13,HFG.DE,HelloFresh,,Germany,Disponible,2.674,2.816,2.826,2.671,0.142,5.31,970063
+3,2026-10-13,PINS,Pinterest,,USA,Disponible,21.3,22.37,22.385,21.201,1.07,5.02,12414500
+4,2026-10-13,GIVN.SW,Givaudan,,Switzerland,Disponible,3662.0,3817.0,3817.0,3662.0,155.0,4.23,60765
+5,2026-10-13,MRNA,Moderna,,USA,Disponible,207.63,216.25,218.48,204.7,8.62,4.15,13389300
+6,2026-10-13,LOGN.SW,Logitech,,Switzerland,Disponible,82.0,85.16,85.6,82.0,3.16,3.85,509091
+7,2026-10-13,FSLR,First Solar,,USA,Disponible,179.7,186.6,187.85,179.61,6.9,3.84,2421900
+8,2026-10-13,VLO,Valero Energy,,USA,Disponible,440.0,456.46,457.2,438.2,16.46,3.74,2512000
 1,2026-10-12,FICO,Fair Isaac,,USA,Disponible,674.0,740.0,742.17,666.16,66.0,9.79,2003600
 2,2026-10-12,GME,GameStop,,USA,Disponible,26.21,27.23,27.25,25.77,1.02,3.89,9114200
 3,2026-10-12,IDR.MC,Indra Sistemas,,Spain,Disponible,60.18,62.22,62.22,59.84,2.04,3.39,639672
