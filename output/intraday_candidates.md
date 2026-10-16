@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-10-16 00:44:55 WEST
+Fecha de generación: 2026-10-17 00:45:33 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
 - Alta prioridad: 1
-- Media prioridad: 3
-- Baja prioridad: 6
+- Media prioridad: 7
+- Baja prioridad: 2
 - Descartar: 0
-- Mejor candidata: SHOP - Shopify - Score 77.78 - Clasificación Alta prioridad
+- Mejor candidata: TRV - Travelers - Score 80.0 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name              | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | SHOP     | Shopify           | USA      | Disponible              |       8.71 |              1.06 |        8.25 |      4.05 |             0.99 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
-|      2 | TOST     | Toast             | USA      | Disponible              |       7.58 |              1.05 |        5.54 |      3.54 |             1    | -0.68     |   73    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
-|      3 | RBLX     | Roblox            | USA      | Disponible              |       8.79 |              0.62 |       12.32 |      4.86 |             0.97 | -0.73     |   68    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                    |
-|      4 | TTD      | The Trade Desk    | USA      | Disponible              |       7.62 |              0.98 |        6.4  |      3.55 |             0.89 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      5 | COIN     | Coinbase          | USA      | Disponible              |       9.52 |              0.99 |        6.87 |      5.63 |             0.91 | -0.98     |   58    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                    |
-|      6 | U        | Unity Software    | USA      | Disponible              |       8.3  |              0.93 |       -5.56 |      5.22 |             0.96 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      7 | MSTR     | MicroStrategy     | USA      | Disponible              |       9.85 |              0.99 |       -0.12 |      6.04 |             1    | -2.14     |   53    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                    |
-|      8 | ENPH     | Enphase Energy    | USA      | Disponible              |       7.82 |              1.05 |       -6.35 |      5.53 |             0.99 | -0.73     |   53    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
-|      9 | MU       | Micron Technology | USA      | Disponible              |       6.85 |              1.41 |      -10.1  |      5.05 |             0.99 | -0.77     |   53    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
-|     10 | APP      | AppLovin          | USA      | Disponible              |       7.01 |              0.82 |       -0.3  |      4.62 |             0.95 | N/A       |   50    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|   rank | ticker   | name               | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                          |
+|-------:|:---------|:-------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------------|
+|      1 | TRV      | Travelers          | USA            | Disponible              |       5.28 |              2.57 |        5.64 |      1.96 |             0.94 | N/A       |   80    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible.        |
+|      2 | AR       | Antero Resources   | USA            | Disponible              |       5.51 |              1.28 |        7.66 |      2.79 |             0.95 | N/A       |   73.33 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                               |
+|      3 | EOG      | EOG Resources      | USA            | Disponible              |       3.28 |              1.83 |        6.65 |      2.2  |             0.94 | N/A       |   71.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                               |
+|      4 | AAL.L    | Anglo American     | United Kingdom | Disponible              |       3.47 |              3.36 |        0.5  |      4.27 |             0.25 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo alto. cierre lejos del maximo diario. gap no disponible. |
+|      5 | SCYR.MC  | Sacyr              | Spain          | Disponible              |       3.3  |              2.15 |        3.25 |      2.11 |             0.91 | 1.95      |   69    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo alto. cierre cerca de maximos.                           |
+|      6 | PRY.MI   | Prysmian           | Italy          | Disponible              |       6.19 |              2.58 |      -10.22 |      4.73 |             0.95 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible.        |
+|      7 | FANG     | Diamondback Energy | USA            | Disponible              |       3.52 |              1.07 |        6.15 |      2.21 |             0.98 | N/A       |   65.56 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                               |
+|      8 | AIR.PA   | Airbus             | France         | Disponible              |       3.5  |              1.34 |        4.02 |      2.15 |             0.96 | 2.28      |   64    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                                  |
+|      9 | IFX.DE   | Infineon           | Germany        | Disponible              |       3.49 |              1.93 |      -10.92 |      5.9  |             0.96 | N/A       |   53.33 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                               |
+|     10 | WLN.PA   | Worldline          | France         | Disponible              |       4.41 |              1.23 |       10.81 |      4.14 |             0.88 | 4.82      |   48    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                                  |
 
 ## Revisión manual antes de operar
 
