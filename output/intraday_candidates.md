@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-10-22 01:04:47 WEST
+Fecha de generación: 2026-10-23 01:04:10 WEST
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 1
-- Media prioridad: 5
+- Alta prioridad: 0
+- Media prioridad: 6
 - Baja prioridad: 3
 - Descartar: 1
-- Mejor candidata: MRNA - Moderna - Score 75.0 - Clasificación Alta prioridad
+- Mejor candidata: EL.PA - EssilorLuxottica - Score 90.0 - Clasificación Media prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name               | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position |   gap_pct |   score | classification   | news_check                | notes                                                                 |
-|-------:|:---------|:-------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|----------:|--------:|:-----------------|:--------------------------|:----------------------------------------------------------------------|
-|      1 | MRNA     | Moderna            | USA      | Disponible              |       7.1  |              0.94 |       11.94 |      7.96 |             0.93 |      1.7  |      75 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. |
-|      2 | DOCU     | DocuSign           | USA      | Disponible              |       3.98 |              1.26 |       11.02 |      3.47 |             0.9  |      1.15 |      73 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
-|      3 | CMI      | Cummins            | USA      | Disponible              |       3.96 |              1.24 |        1.3  |      2.77 |             0.88 |      0.7  |      69 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
-|      4 | IOT      | Samsara            | USA      | Disponible              |       4.67 |              0.81 |        2.71 |      4.95 |             0.79 |      0.73 |      63 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                          |
-|      5 | NXPI     | NXP Semiconductors | USA      | Disponible              |       4.35 |              0.94 |        4.98 |      3.66 |             0.82 |      2.64 |      61 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. |
-|      6 | ON       | ON Semiconductor   | USA      | Disponible              |       5    |              0.86 |       -1.4  |      4.91 |             0.87 |      3.81 |      60 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. |
-|      7 | MDB      | MongoDB            | USA      | Disponible              |       5.73 |              0.42 |       -1.85 |      5.79 |             0.98 |      5.55 |      55 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. |
-|      8 | ENPH     | Enphase Energy     | USA      | Disponible              |       6.12 |              0.93 |        0.62 |      5.18 |             0.98 |     -1.4  |      53 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. |
-|      9 | MSTR     | MicroStrategy      | USA      | Disponible              |       6.71 |              0.97 |       -6.22 |      6.82 |             0.69 |      6.18 |      47 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil.                          |
-|     10 | OKTA     | Okta               | USA      | Disponible              |       3.95 |              0.68 |      -14.35 |      5.58 |             0.89 |      7.1  |      43 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. |
+|   rank | ticker   | name             | market      | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position |   gap_pct |   score | classification   | news_check                | notes                                                                                                                                                                   |
+|-------:|:---------|:-----------------|:------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|----------:|--------:|:-----------------|:--------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      1 | EL.PA    | EssilorLuxottica | France      | Disponible              |       5.33 |              3.05 |       17.35 |      3.29 |             0.9  |      1.93 |      90 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. Score alto, pero clasificacion limitada a Media prioridad por volumen medio inferior a 1.000.000.. |
+|      2 | RAND.AS  | Randstad         | Netherlands | Disponible              |       9.5  |              2.74 |       15.77 |      3.91 |             0.8  |     -1.45 |      76 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. Score alto, pero clasificacion limitada a Media prioridad por volumen medio inferior a 1.000.000.. |
+|      3 | DHR      | Danaher          | USA         | Disponible              |       7.49 |              1.83 |        4.08 |      2.99 |             0.97 |     -1.76 |      74 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                                                                                                           |
+|      4 | AKZA.AS  | Akzo Nobel       | Netherlands | Disponible              |       5.32 |              2.15 |        4.67 |      2.34 |             1    |     -1.54 |      74 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos.                                                                                                    |
+|      5 | HFG.DE   | HelloFresh       | Germany     | Disponible              |       4.37 |              1.36 |        4.69 |      4.74 |             0.97 |      1.31 |      71 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                                                                                                           |
+|      6 | PLTR     | Palantir         | USA         | Disponible              |       5.22 |              0.96 |        0.37 |      4.32 |             0.93 |     -2.24 |      63 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                                                                                                   |
+|      7 | OKTA     | Okta             | USA         | Disponible              |       7.49 |              1.19 |       -1.55 |      5.51 |             0.88 |     -3.83 |      55 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                                                                                                           |
+|      8 | MDB      | MongoDB          | USA         | Disponible              |       6.17 |              0.77 |        9.67 |      5.7  |             0.93 |     -7.85 |      55 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                                                                                                   |
+|      9 | MSTR     | MicroStrategy    | USA         | Disponible              |       4.91 |              1.18 |        7.15 |      6.53 |             0.81 |     -5.5  |      53 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                                                                                                           |
+|     10 | FTNT     | Fortinet         | USA         | Disponible              |       4.68 |              0.88 |       -5.43 |      3.8  |             0.86 |     -0.61 |      41 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                                                                                                   |
 
 ## Revisión manual antes de operar
 
