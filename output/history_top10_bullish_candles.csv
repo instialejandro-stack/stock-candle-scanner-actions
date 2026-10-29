@@ -1,4 +1,14 @@
 rank,date,ticker,name,isin,market,trade_republic_status,open,close,high,low,body,body_pct,volume
+1,2026-10-28,ORCL,Oracle,US68389X1054,USA,Disponible,131.32,144.54,148.48,128.38,13.22,10.07,81418100
+2,2026-10-28,STX,Seagate Technology,,USA,Disponible,646.84,697.97,698.94,621.5,51.1299,7.9,10807900
+3,2026-10-28,NXPI,NXP Semiconductors,,USA,Disponible,238.14,251.69,252.44,235.0,13.55,5.69,9279700
+4,2026-10-28,MRNA,Moderna,,USA,Disponible,204.0,214.165,218.16,202.62,10.165,4.98,12024400
+6,2026-10-28,ENPH,Enphase Energy,,USA,Disponible,23.85,24.99,25.95,23.83,1.14,4.78,26611900
+9,2026-10-28,ACN,Accenture,,USA,Disponible,233.34,243.4,246.79,232.57,10.06,4.31,5647500
+10,2026-10-28,HCA,HCA Healthcare,,USA,Disponible,445.42,463.22,466.08,445.0,17.8,4.0,2131400
+5,2026-10-27,ASM.AS,ASM International,,Netherlands,Disponible,708.6,743.2,747.6,704.6,34.6,4.88,212520
+7,2026-10-27,TKA.DE,ThyssenKrupp,,Germany,Disponible,12.692,13.285,13.3801,12.6694,0.593,4.67,3385085
+8,2026-10-27,EL.PA,EssilorLuxottica,,France,Disponible,174.05,181.8,182.4,173.8,7.75,4.45,1216053
 1,2026-10-26,MRNA,Moderna,,USA,Disponible,186.904,198.85,203.82,181.65,11.946,6.39,17108700
 2,2026-10-26,MELI,MercadoLibre,,USA,Disponible,1578.25,1668.72,1671.48,1570.76,90.47,5.73,2410700
 3,2026-10-26,RR.L,Rolls-Royce Holdings,,United Kingdom,Disponible,1173.6,1234.8,1234.8,1170.0,61.2001,5.21,30467862
