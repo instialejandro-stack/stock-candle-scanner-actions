@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-11-03 03:33:58 WET
+Fecha de generación: 2026-11-04 02:31:29 WET
 
 ## Resumen
 
 - Acciones analizadas: 10
 - Alta prioridad: 0
-- Media prioridad: 6
-- Baja prioridad: 4
-- Descartar: 0
-- Mejor candidata: TOL - Toll Brothers - Score 71.11 - Clasificación Media prioridad
+- Media prioridad: 2
+- Baja prioridad: 7
+- Descartar: 1
+- Mejor candidata: U - Unity Software - Score 72.22 - Clasificación Media prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                                   | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                 |
-|-------:|:---------|:---------------------------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:----------------------------------------------------------------------|
-|      1 | TOL      | Toll Brothers                          | USA            | Disponible              |       3.97 |              1.66 |        9.22 |      2.8  |             0.93 | N/A       |   71.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.      |
-|      2 | SYK      | Stryker                                | USA            | Disponible              |       4.25 |              1.36 |        0.22 |      3.44 |             0.93 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.      |
-|      3 | FIS      | Fidelity National Information Services | USA            | Disponible              |       4.29 |              1.15 |        8.9  |      3.32 |             1    | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.      |
-|      4 | AZN.L    | AstraZeneca                            | United Kingdom | Disponible              |       3.88 |              1.8  |        8.86 |      2.59 |             0.94 | -0.72     |   67    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
-|      5 | CSGP     | CoStar Group                           | USA            | Disponible              |       5.93 |              0.86 |       -5.58 |      5.8  |             0.81 | 0.69      |   65    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. |
-|      6 | BSX      | Boston Scientific                      | USA            | Disponible              |       5.35 |              1.2  |       -2.76 |      3.65 |             0.98 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.      |
-|      7 | TOST     | Toast                                  | USA            | Disponible              |       3.89 |              1.48 |        4.01 |      4.12 |             0.51 | -1.47     |   58    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista.                                                  |
-|      8 | ENPH     | Enphase Energy                         | USA            | Disponible              |       6.32 |              1.27 |       -8    |      7.69 |             0.64 | 1.07      |   57    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista.                                                  |
-|      9 | DASH     | DoorDash                               | USA            | Disponible              |       4.91 |              1.49 |       12.84 |      5.25 |             0.93 | N/A       |   56.67 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.      |
-|     10 | PINS     | Pinterest                              | USA            | Disponible              |       4.21 |              1.27 |       -4.33 |      5.18 |             0.98 | -0.74     |   51    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
+|   rank | ticker   | name               | market      | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                 |
+|-------:|:---------|:-------------------|:------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:----------------------------------------------------------------------|
+|      1 | U        | Unity Software     | USA         | Disponible              |       5.36 |              1.55 |        0.95 |      5.15 |             0.92 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.      |
+|      2 | ENPH     | Enphase Energy     | USA         | Disponible              |       7.57 |              1.17 |        2.22 |      7.01 |             0.86 | 3.55      |   65    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                         |
+|      3 | WMB      | Williams Companies | USA         | Disponible              |       4.57 |              1.39 |       -2.19 |      3.61 |             0.65 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                               |
+|      4 | AKZA.AS  | Akzo Nobel         | Netherlands | Disponible              |       4.77 |              1.27 |        5.34 |      2.79 |             0.88 | -1.26     |   57    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
+|      5 | APP      | AppLovin           | USA         | Disponible              |       6.17 |              1.26 |       -6.59 |      4.92 |             0.83 | -1.04     |   53    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                         |
+|      6 | HFG.DE   | HelloFresh         | Germany     | Disponible              |       7.14 |              0.9  |       -1.63 |      5.09 |             1    | -4.59     |   50    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. |
+|      7 | COIN     | Coinbase           | USA         | Disponible              |       5.15 |              1.23 |       -9.71 |      7.38 |             0.6  | -1.23     |   47    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista.                                                  |
+|      8 | SAF.PA   | Safran             | France      | Disponible              |       4.8  |              1.09 |        5.03 |      3.46 |             1    | -1.11     |   46    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
+|      9 | MTX.DE   | MTU Aero Engines   | Germany     | Disponible              |       5.17 |              1.05 |        5.75 |      3.66 |             0.98 | -3.12     |   45    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                         |
+|     10 | RBLX     | Roblox             | USA         | Disponible              |       4.78 |              0.92 |      -16.56 |      7.22 |             0.71 | -0.55     |   38    | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                          |
 
 ## Revisión manual antes de operar
 
