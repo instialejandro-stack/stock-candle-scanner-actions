@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-11-04 02:31:29 WET
+Fecha de generación: 2026-11-05 02:39:39 WET
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 0
-- Media prioridad: 2
-- Baja prioridad: 7
-- Descartar: 1
-- Mejor candidata: U - Unity Software - Score 72.22 - Clasificación Media prioridad
+- Alta prioridad: 4
+- Media prioridad: 4
+- Baja prioridad: 2
+- Descartar: 0
+- Mejor candidata: CNC - Centene - Score 88.89 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name               | market      | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                 |
-|-------:|:---------|:-------------------|:------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:----------------------------------------------------------------------|
-|      1 | U        | Unity Software     | USA         | Disponible              |       5.36 |              1.55 |        0.95 |      5.15 |             0.92 | N/A       |   72.22 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.      |
-|      2 | ENPH     | Enphase Energy     | USA         | Disponible              |       7.57 |              1.17 |        2.22 |      7.01 |             0.86 | 3.55      |   65    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                         |
-|      3 | WMB      | Williams Companies | USA         | Disponible              |       4.57 |              1.39 |       -2.19 |      3.61 |             0.65 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                               |
-|      4 | AKZA.AS  | Akzo Nobel         | Netherlands | Disponible              |       4.77 |              1.27 |        5.34 |      2.79 |             0.88 | -1.26     |   57    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
-|      5 | APP      | AppLovin           | USA         | Disponible              |       6.17 |              1.26 |       -6.59 |      4.92 |             0.83 | -1.04     |   53    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                         |
-|      6 | HFG.DE   | HelloFresh         | Germany     | Disponible              |       7.14 |              0.9  |       -1.63 |      5.09 |             1    | -4.59     |   50    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. |
-|      7 | COIN     | Coinbase           | USA         | Disponible              |       5.15 |              1.23 |       -9.71 |      7.38 |             0.6  | -1.23     |   47    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista.                                                  |
-|      8 | SAF.PA   | Safran             | France      | Disponible              |       4.8  |              1.09 |        5.03 |      3.46 |             1    | -1.11     |   46    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
-|      9 | MTX.DE   | MTU Aero Engines   | Germany     | Disponible              |       5.17 |              1.05 |        5.75 |      3.66 |             0.98 | -3.12     |   45    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                         |
-|     10 | RBLX     | Roblox             | USA         | Disponible              |       4.78 |              0.92 |      -16.56 |      7.22 |             0.71 | -0.55     |   38    | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                          |
+|   rank | ticker   | name           | market      | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                     |
+|-------:|:---------|:---------------|:------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:------------------------------------------------------------------------------------------|
+|      1 | CNC      | Centene        | USA         | Disponible              |       7.62 |              2.82 |       13.36 |      4.47 |             0.85 | N/A       |   88.89 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible.   |
+|      2 | TOST     | Toast          | USA         | Disponible              |       6.86 |              2.32 |       10.74 |      3.94 |             0.79 | N/A       |   85.56 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. gap no disponible.                            |
+|      3 | LYFT     | Lyft           | USA         | Disponible              |       9.21 |              2.29 |       14.69 |      3.92 |             0.94 | -0.75     |   83    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos.                      |
+|      4 | MOS      | Mosaic         | USA         | Disponible              |      13.85 |              1.98 |       17.95 |      4.07 |             0.99 | -0.69     |   83    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                             |
+|      5 | U        | Unity Software | USA         | Disponible              |       7.03 |              2.88 |        7.49 |      5    |             0.86 | -0.9      |   73    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos.                      |
+|      6 | APP      | AppLovin       | USA         | Disponible              |       8.28 |              3.27 |        4.53 |      4.72 |             0.85 | 22.83     |   73    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap superior al 10%. |
+|      7 | WLN.PA   | Worldline      | France      | Disponible              |       7.26 |              1.76 |        4.4  |      7.17 |             1    | 2.31      |   70    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                             |
+|      8 | MRNA     | Moderna        | USA         | Disponible              |       9.95 |              0.8  |       20.65 |      9.07 |             0.99 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.  |
+|      9 | LOGN.SW  | Logitech       | Switzerland | Disponible              |       8.95 |              1.24 |        1.22 |      4.15 |             0.98 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                          |
+|     10 | RBLX     | Roblox         | USA         | Disponible              |       6.96 |              0.85 |       -7.45 |      6.63 |             0.93 | -0.83     |   53    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                     |
 
 ## Revisión manual antes de operar
 
