@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-11-05 02:39:39 WET
+Fecha de generación: 2026-11-06 02:41:01 WET
 
 ## Resumen
 
 - Acciones analizadas: 10
 - Alta prioridad: 4
-- Media prioridad: 4
-- Baja prioridad: 2
+- Media prioridad: 3
+- Baja prioridad: 3
 - Descartar: 0
-- Mejor candidata: CNC - Centene - Score 88.89 - Clasificación Alta prioridad
+- Mejor candidata: BMW.DE - BMW - Score 86.0 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name           | market      | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                     |
-|-------:|:---------|:---------------|:------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:------------------------------------------------------------------------------------------|
-|      1 | CNC      | Centene        | USA         | Disponible              |       7.62 |              2.82 |       13.36 |      4.47 |             0.85 | N/A       |   88.89 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap no disponible.   |
-|      2 | TOST     | Toast          | USA         | Disponible              |       6.86 |              2.32 |       10.74 |      3.94 |             0.79 | N/A       |   85.56 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. gap no disponible.                            |
-|      3 | LYFT     | Lyft           | USA         | Disponible              |       9.21 |              2.29 |       14.69 |      3.92 |             0.94 | -0.75     |   83    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos.                      |
-|      4 | MOS      | Mosaic         | USA         | Disponible              |      13.85 |              1.98 |       17.95 |      4.07 |             0.99 | -0.69     |   83    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                             |
-|      5 | U        | Unity Software | USA         | Disponible              |       7.03 |              2.88 |        7.49 |      5    |             0.86 | -0.9      |   73    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos.                      |
-|      6 | APP      | AppLovin       | USA         | Disponible              |       8.28 |              3.27 |        4.53 |      4.72 |             0.85 | 22.83     |   73    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos. gap superior al 10%. |
-|      7 | WLN.PA   | Worldline      | France      | Disponible              |       7.26 |              1.76 |        4.4  |      7.17 |             1    | 2.31      |   70    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                             |
-|      8 | MRNA     | Moderna        | USA         | Disponible              |       9.95 |              0.8  |       20.65 |      9.07 |             0.99 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible.  |
-|      9 | LOGN.SW  | Logitech       | Switzerland | Disponible              |       8.95 |              1.24 |        1.22 |      4.15 |             0.98 | N/A       |   55.56 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                          |
-|     10 | RBLX     | Roblox         | USA         | Disponible              |       6.96 |              0.85 |       -7.45 |      6.63 |             0.93 | -0.83     |   53    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos.                     |
+|   rank | ticker   | name           | market      | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                      |
+|-------:|:---------|:---------------|:------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-------------------------------------------------------------------------------------------|
+|      1 | BMW.DE   | BMW            | Germany     | Disponible              |       6.76 |              2.04 |        6.27 |      2.64 |             0.93 | 0.59      |   86    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos.                       |
+|      2 | ZAL.DE   | Zalando        | Germany     | Disponible              |       9.45 |              1.92 |        5.21 |      3.85 |             0.88 | 3.75      |   85    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                              |
+|      3 | DBK.DE   | Deutsche Bank  | Germany     | Disponible              |       5.54 |              1.83 |        8.44 |      3.11 |             0.97 | N/A       |   83.33 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                           |
+|      4 | WKL.AS   | Wolters Kluwer | Netherlands | Disponible              |       7.42 |              1.24 |        8.78 |      3.03 |             0.98 | 1.38      |   80    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                              |
+|      5 | ITX.MC   | Inditex        | Spain       | Disponible              |       4.75 |              1.46 |        3.47 |      2.08 |             0.92 | 1.69      |   69    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                              |
+|      6 | QCOM     | Qualcomm       | USA         | Disponible              |       4.46 |              3.11 |      -15.46 |      5.58 |             0.68 | 1.28      |   65    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo alto.                                                |
+|      7 | MONC.MI  | Moncler        | Italy       | Disponible              |       4.64 |              1.32 |       10.43 |      2.88 |             0.91 | -2.07     |   62    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                                              |
+|      8 | HFG.DE   | HelloFresh     | Germany     | Disponible              |      10.74 |              0.88 |        7.2  |      5.15 |             0.97 | 11.47     |   55    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap superior al 10%. |
+|      9 | KER.PA   | Kering         | France      | Disponible              |       5.63 |              1.24 |        8.55 |      4.03 |             0.84 | -0.56     |   53    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                              |
+|     10 | FICO     | Fair Isaac     | USA         | Disponible              |       6.5  |              1.44 |       -0.25 |      6.21 |             0.63 | -2.46     |   45    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista.                                                                       |
 
 ## Revisión manual antes de operar
 
