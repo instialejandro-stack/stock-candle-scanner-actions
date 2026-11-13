@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-11-12 03:12:39 WET
+Fecha de generación: 2026-11-13 02:45:28 WET
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 0
-- Media prioridad: 4
-- Baja prioridad: 3
-- Descartar: 3
-- Mejor candidata: REGN - Regeneron Pharmaceuticals - Score 73.0 - Clasificación Media prioridad
+- Alta prioridad: 2
+- Media prioridad: 2
+- Baja prioridad: 5
+- Descartar: 1
+- Mejor candidata: NVDA - Nvidia - Score 80.0 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name                                   | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
-|-------:|:---------|:---------------------------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
-|      1 | REGN     | Regeneron Pharmaceuticals              | USA      | Disponible              |       6.01 |              1.28 |        3.09 |      3.86 |             0.96 | 1.0       |   73    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
-|      2 | FIS      | Fidelity National Information Services | USA      | Disponible              |       7.59 |              1.55 |        1.51 |      6.6  |             0.89 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
-|      3 | HEN3.DE  | Henkel Pref                            | Germany  | Disponible              |       3.36 |              1.99 |        7.88 |      1.92 |             0.96 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
-|      4 | TTD      | The Trade Desk                         | USA      | Disponible              |       4.92 |              1.4  |       20.79 |      5.27 |             0.67 | -0.76     |   61    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
-|      5 | MU       | Micron Technology                      | USA      | Disponible              |       4.4  |              1.15 |        2.02 |      7.81 |             0.75 | -2.8      |   48    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
-|      6 | DOW      | Dow                                    | USA      | Disponible              |       3.33 |              0.91 |       -0.49 |      3.84 |             0.8  | N/A       |   47.78 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      7 | ETSY     | Etsy                                   | USA      | Disponible              |       3.31 |              0.66 |       -8.2  |      5.43 |             0.89 | N/A       |   47.78 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
-|      8 | AXON     | Axon Enterprise                        | USA      | Disponible              |       3.66 |              1.5  |      -25.64 |      7.63 |             0.75 | -0.99     |   43    | Descartar        | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
-|      9 | ORCL     | Oracle                                 | USA      | Disponible              |       3.3  |              0.89 |        3.76 |      7.14 |             0.64 | -2.81     |   43    | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                                             |
-|     10 | DELL     | Dell Technologies                      | USA      | Disponible              |       3.68 |              1.22 |        0.35 |      9.11 |             0.58 | -3.65     |   37    | Descartar        | Pendiente revisión manual | buen cuerpo alcista.                                                                     |
+|   rank | ticker   | name                        | market      | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
+|-------:|:---------|:----------------------------|:------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
+|      1 | NVDA     | Nvidia                      | USA         | Disponible              |      10.05 |              3.78 |       -8.49 |      6.41 |             0.95 | 0.99      |   80    | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto. cierre cerca de maximos.                     |
+|      2 | ANET     | Arista Networks             | USA         | Disponible              |       6.98 |              1.14 |       29.83 |      6.05 |             0.97 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      3 | CEG      | Constellation Energy        | USA         | Disponible              |       4.25 |              0.9  |       17.84 |      4.74 |             0.98 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      4 | DELL     | Dell Technologies           | USA         | Disponible              |      10.44 |              1.22 |       17.12 |      9.79 |             0.76 | 1.85      |   62    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista.                                                                     |
+|      5 | HPE      | Hewlett Packard Enterprise  | USA         | Disponible              |       5.38 |              0.63 |       13.59 |      7.33 |             0.76 | 1.32      |   57    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil.                                             |
+|      6 | ON       | ON Semiconductor            | USA         | Disponible              |       3.22 |              0.53 |       17.01 |      6.4  |             0.76 | 1.12      |   55    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                                             |
+|      7 | ORCL     | Oracle                      | USA         | Disponible              |       3.06 |              0.53 |       10.38 |      7.33 |             0.68 | 0.87      |   50    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                                             |
+|      8 | MU       | Micron Technology           | USA         | Disponible              |       3.79 |              0.88 |       21.64 |      8.03 |             0.96 | 2.18      |   48    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
+|      9 | STX      | Seagate Technology          | USA         | Disponible              |       3.34 |              0.58 |       16.85 |     10.04 |             0.69 | 1.72      |   45    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                                             |
+|     10 | BESI.AS  | BE Semiconductor Industries | Netherlands | Disponible              |       3.73 |              0.81 |        5.1  |      5.68 |             0.99 | -1.06     |   41    | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
 
 ## Revisión manual antes de operar
 
