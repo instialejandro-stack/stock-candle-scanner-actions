@@ -1,10 +1,20 @@
 rank,date,ticker,name,isin,market,trade_republic_status,open,close,high,low,body,body_pct,volume
+2,2026-11-16,LUV,Southwest Airlines,,USA,Disponible,45.16,46.44,46.83,44.95,1.28,2.83,5867500
+4,2026-11-16,CFR.SW,Richemont,,Switzerland,Disponible,169.55,173.95,176.0,169.55,4.4,2.6,1124300
+10,2026-11-16,UAL,United Airlines,,USA,Disponible,108.37,110.76,113.24,108.37,2.39,2.21,5882600
 1,2026-11-13,U,Unity Software,,USA,Disponible,50.5,52.81,52.89,49.71,2.31,4.57,12233500
+1,2026-11-13,HFG.DE,HelloFresh,,Germany,Disponible,2.899,2.997,3.022,2.869,0.098,3.38,770301
 3,2026-11-13,GPN,Global Payments,,USA,Disponible,88.41,91.9,92.54,88.02,3.49,3.95,2819900
+3,2026-11-13,RED.MC,Redeia,,Spain,Disponible,15.87,16.3,16.3,15.86,0.43,2.71,3833307
 4,2026-11-13,APP,AppLovin,,USA,Disponible,395.57,409.1,413.88,391.49,13.53,3.42,3429200
 5,2026-11-13,TOST,Toast,,USA,Disponible,33.63,34.68,35.23,33.396,1.05,3.12,8130500
+5,2026-11-13,FME.DE,Fresenius Medical Care,,Germany,Disponible,39.1,40.11,40.18,39.01,1.01,2.58,962245
 6,2026-11-13,CPB,Campbell Soup,,USA,Disponible,22.11,22.77,22.79,22.1,0.66,2.99,4467400
+6,2026-11-13,REP.MC,Repsol,ES0173516115,Spain,Disponible,30.13,30.89,30.89,30.12,0.76,2.52,2751046
 7,2026-11-13,AXON,Axon Enterprise,,USA,Disponible,307.15,315.43,318.36,301.11,8.28,2.7,1273300
+7,2026-11-13,AV.L,Aviva,,United Kingdom,Disponible,747.0,764.8,764.8,745.0,17.8,2.38,8473654
+8,2026-11-13,HEN3.DE,Henkel Pref,,Germany,Disponible,85.0,86.94,87.38,84.42,1.94,2.28,525166
+9,2026-11-13,AMP.MI,Amplifon,,Italy,Disponible,11.565,11.825,11.845,11.42,0.26,2.25,1805688
 10,2026-11-13,CSGP,CoStar Group,,USA,Disponible,30.23,30.96,30.99,30.1,0.73,2.41,3185500
 1,2026-11-12,DELL,Dell Technologies,,USA,Disponible,336.09,371.17,382.68,335.2,35.08,10.44,8786400
 2,2026-11-12,NVDA,Nvidia,US67066G1040,USA,Disponible,151.01,166.19,167.14,148.8,15.18,10.05,742789000
