@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-11-18 03:46:22 WET
+Fecha de generación: 2026-11-19 03:45:04 WET
 
 ## Resumen
 
 - Acciones analizadas: 10
-- Alta prioridad: 0
-- Media prioridad: 0
-- Baja prioridad: 8
-- Descartar: 2
-- Mejor candidata: SYK - Stryker - Score 58.89 - Clasificación Baja prioridad
+- Alta prioridad: 1
+- Media prioridad: 7
+- Baja prioridad: 2
+- Descartar: 0
+- Mejor candidata: GME - GameStop - Score 77.78 - Clasificación Alta prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name             | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                            |
-|-------:|:---------|:-----------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:---------------------------------------------------------------------------------|
-|      1 | SYK      | Stryker          | USA      | Disponible              |       2.72 |              1.4  |       -2.08 |      4.19 |             0.84 | N/A       |   58.89 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                 |
-|      2 | AVGO     | Broadcom         | USA      | Disponible              |       1.79 |              0.94 |        2.9  |      6.06 |             0.83 | 2.9       |   58    | Baja prioridad   | Pendiente revisión manual | cuerpo alcista reducido. volumen relativo debil. cierre cerca de maximos.        |
-|      3 | CPB      | Campbell Soup    | USA      | Disponible              |       2.08 |              1.11 |        4.38 |      3.32 |             0.56 | -0.55     |   58    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista.                                                             |
-|      4 | GILD     | Gilead Sciences  | USA      | Disponible              |       2.49 |              0.97 |       -0.36 |      3.21 |             0.8  | -1.54     |   54    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.            |
-|      5 | RTX      | RTX              | USA      | Disponible              |       2.14 |              1.02 |       -1.13 |      2.86 |             0.99 | N/A       |   52.22 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                 |
-|      6 | AMS.MC   | Amadeus IT Group | Spain    | Disponible              |       1.7  |              1.34 |        4.72 |      2.51 |             0.85 | -2.4      |   52    | Baja prioridad   | Pendiente revisión manual | cuerpo alcista reducido. cierre cerca de maximos.                                |
-|      7 | TTD      | The Trade Desk   | USA      | Disponible              |       2.4  |              0.95 |       -3.18 |      6.22 |             0.71 | N/A       |   50    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. gap no disponible.                  |
-|      8 | NOC      | Northrop Grumman | USA      | Disponible              |       1.64 |              1.06 |        0.85 |      2.88 |             0.78 | N/A       |   48.89 | Baja prioridad   | Pendiente revisión manual | cuerpo alcista reducido. gap no disponible.                                      |
-|      9 | MCD      | McDonald's       | USA      | Disponible              |       1.55 |              0.81 |       -2.25 |      2.74 |             0.59 | -0.73     |   39    | Descartar        | Pendiente revisión manual | cuerpo alcista reducido. volumen relativo debil.                                 |
-|     10 | HFG.DE   | HelloFresh       | Germany  | Disponible              |       1.43 |              0.59 |        0.79 |      6.38 |             0.41 | -1.21     |   36    | Descartar        | Pendiente revisión manual | cuerpo alcista reducido. volumen relativo debil. cierre lejos del maximo diario. |
+|   rank | ticker   | name                   | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                                    |
+|-------:|:---------|:-----------------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:-----------------------------------------------------------------------------------------|
+|      1 | GME      | GameStop               | USA      | Disponible              |       5.07 |              1.18 |        3.84 |      3.71 |             0.91 | N/A       |   77.78 | Alta prioridad   | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      2 | CPB      | Campbell Soup          | USA      | Disponible              |       4.55 |              1.34 |        9.23 |      3.44 |             0.98 | N/A       |   70    | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos. gap no disponible.                         |
+|      3 | OKTA     | Okta                   | USA      | Disponible              |       9.94 |              1.07 |        7.33 |      7.62 |             0.98 | 4.25      |   65    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
+|      4 | CMG      | Chipotle Mexican Grill | USA      | Disponible              |       4.76 |              0.69 |        0.85 |      3.3  |             0.93 | N/A       |   64.44 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
+|      5 | LULU     | Lululemon Athletica    | USA      | Disponible              |       6.82 |              1.16 |        3.1  |      4.22 |             0.79 | -1.48     |   63    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista.                                                                     |
+|      6 | LOW      | Lowe's                 | USA      | Disponible              |       5.05 |              1.47 |       -3.81 |      3.39 |             0.98 | N/A       |   61.11 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos. gap no disponible.                         |
+|      7 | LYFT     | Lyft                   | USA      | Disponible              |       5.33 |              1.31 |        1.79 |      5.39 |             0.59 | N/A       |   60    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. gap no disponible.                                                  |
+|      8 | CRWD     | CrowdStrike            | USA      | Disponible              |       5.91 |              1.3  |        3.48 |      6.39 |             0.85 | 5.97      |   60    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                                            |
+|      9 | FTNT     | Fortinet               | USA      | Disponible              |       4.51 |              0.77 |        2.9  |      4.76 |             0.82 | 3.0       |   58    | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos.                    |
+|     10 | RBLX     | Roblox                 | USA      | Disponible              |       8.37 |              0.86 |      -10.04 |      7.86 |             0.92 | N/A       |   50    | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. gap no disponible. |
 
 ## Revisión manual antes de operar
 
