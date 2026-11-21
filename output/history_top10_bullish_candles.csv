@@ -1,4 +1,14 @@
 rank,date,ticker,name,isin,market,trade_republic_status,open,close,high,low,body,body_pct,volume
+1,2026-11-20,GPN,Global Payments,,USA,Disponible,84.01,91.83,95.5,83.33,7.82,9.31,9535900
+2,2026-11-20,VEEV,Veeva Systems,,USA,Disponible,259.25,266.22,268.96,259.25,6.97,2.69,1602200
+3,2026-11-20,CSGP,CoStar Group,,USA,Disponible,28.93,29.61,30.2,28.64,0.68,2.35,7831800
+4,2026-11-20,RBLX,Roblox,,USA,Disponible,45.76,46.72,48.579,45.25,0.96,2.1,16101100
+5,2026-11-20,GIS,General Mills,,USA,Disponible,35.01,35.74,36.46,34.93,0.73,2.09,14666900
+7,2026-11-20,HCA,HCA Healthcare,,USA,Disponible,467.0,475.57,479.77,463.5,8.57,1.84,1579400
+8,2026-11-20,FICO,Fair Isaac,,USA,Disponible,684.0,694.31,724.53,682.06,10.31,1.51,643700
+9,2026-11-20,CTSH,Cognizant Technology Solutions,,USA,Disponible,57.3,58.06,60.04,56.89,0.76,1.33,7994000
+10,2026-11-20,MELI,MercadoLibre,,USA,Disponible,1338.3,1355.0,1390.61,1333.54,16.7,1.25,1253600
+6,2026-11-19,BA.L,BAE Systems,,United Kingdom,Disponible,1820.0,1853.5,1869.0,1820.0,33.5,1.84,5523876
 1,2026-11-18,OKTA,Okta,,USA,Disponible,177.92,195.61,196.1,174.52,17.69,9.94,5288800
 2,2026-11-18,RBLX,Roblox,,USA,Disponible,43.673,47.33,47.685,43.43,3.657,8.37,8807600
 3,2026-11-18,LULU,Lululemon Athletica,,USA,Disponible,103.71,110.78,112.81,103.25,7.07,6.82,3690200

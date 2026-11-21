@@ -1,30 +1,30 @@
 # Informe de candidatas intradía
 
-Fecha de generación: 2026-11-20 03:38:10 WET
+Fecha de generación: 2026-11-21 03:19:43 WET
 
 ## Resumen
 
 - Acciones analizadas: 10
 - Alta prioridad: 0
-- Media prioridad: 3
-- Baja prioridad: 6
-- Descartar: 1
-- Mejor candidata: OKTA - Okta - Score 65.0 - Clasificación Media prioridad
+- Media prioridad: 2
+- Baja prioridad: 0
+- Descartar: 8
+- Mejor candidata: GPN - Global Payments - Score 72.0 - Clasificación Media prioridad
 - Revisión de noticias: Pendiente revisión manual
 - Disponibilidad Trade Republic: pendiente de validación manual salvo valores marcados como Disponible
 
-|   rank | ticker   | name            | market   | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position |   gap_pct |   score | classification   | news_check                | notes                                                                 |
-|-------:|:---------|:----------------|:---------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|----------:|--------:|:-----------------|:--------------------------|:----------------------------------------------------------------------|
-|      1 | OKTA     | Okta            | USA      | Disponible              |       9.94 |              1.08 |        7.33 |      7.62 |             0.98 |      4.03 |      65 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                         |
-|      2 | CRWD     | CrowdStrike     | USA      | Disponible              |       5.91 |              1.32 |        3.48 |      6.39 |             0.85 |      1.46 |      65 | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. cierre cerca de maximos.                         |
-|      3 | ZAL.DE   | Zalando         | Germany  | Disponible              |       2.39 |              0.82 |        4.97 |      4.24 |             0.8  |     -1.06 |      61 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. |
-|      4 | VNA.DE   | Vonovia         | Germany  | Disponible              |       2.88 |              1.26 |        0.85 |      2.65 |             0.77 |     -2.04 |      59 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista.                                                  |
-|      5 | LYFT     | Lyft            | USA      | Disponible              |       5.33 |              1.31 |        1.79 |      5.39 |             0.59 |     -4.08 |      54 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista.                                                  |
-|      6 | RBLX     | Roblox          | USA      | Disponible              |       8.37 |              0.86 |      -10.04 |      7.86 |             0.92 |     -2.41 |      48 | Baja prioridad   | Pendiente revisión manual | fuerte vela alcista. volumen relativo debil. cierre cerca de maximos. |
-|      7 | ANET     | Arista Networks | USA      | Disponible              |       2.49 |              0.83 |       -1.39 |      7.21 |             0.9  |     -4.3  |      48 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. |
-|      8 | TTD      | The Trade Desk  | USA      | Disponible              |       3.78 |              0.92 |       -2.88 |      6.08 |             0.88 |     -6.38 |      48 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil. cierre cerca de maximos. |
-|      9 | RACE.MI  | Ferrari         | Italy    | Disponible              |       2.84 |              1.03 |       -0.21 |      2.92 |             0.99 |     -0.85 |      45 | Baja prioridad   | Pendiente revisión manual | buen cuerpo alcista. cierre cerca de maximos.                         |
-|     10 | ETSY     | Etsy            | USA      | Disponible              |       3.16 |              0.67 |       -3.81 |      5.21 |             0.57 |     -7.28 |      32 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. volumen relativo debil.                          |
+|   rank | ticker   | name                           | market         | trade_republic_status   |   body_pct |   relative_volume |   return_5d |   atr_pct |   close_position | gap_pct   |   score | classification   | news_check                | notes                                                                            |
+|-------:|:---------|:-------------------------------|:---------------|:------------------------|-----------:|------------------:|------------:|----------:|-----------------:|:----------|--------:|:-----------------|:--------------------------|:---------------------------------------------------------------------------------|
+|      1 | GPN      | Global Payments                | USA            | Disponible              |       9.31 |              2.17 |       -0.08 |      5.45 |             0.7  | 3.52      |   72    | Media prioridad  | Pendiente revisión manual | fuerte vela alcista. volumen relativo alto.                                      |
+|      2 | GIS      | General Mills                  | USA            | Disponible              |       2.09 |              1.72 |        4.14 |      3.39 |             0.53 | N/A       |   66.67 | Media prioridad  | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                          |
+|      3 | VEEV     | Veeva Systems                  | USA            | Disponible              |       2.69 |              1.08 |      -11.71 |      3.81 |             0.72 | N/A       |   44.44 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                          |
+|      4 | CSGP     | CoStar Group                   | USA            | Disponible              |       2.35 |              1.32 |       -4.36 |      4.59 |             0.62 | N/A       |   44.44 | Descartar        | Pendiente revisión manual | buen cuerpo alcista. gap no disponible.                                          |
+|      5 | HCA      | HCA Healthcare                 | USA            | Disponible              |       1.84 |              1.05 |       -4.7  |      3.73 |             0.74 | N/A       |   44.44 | Descartar        | Pendiente revisión manual | cuerpo alcista reducido. gap no disponible.                                      |
+|      6 | RBLX     | Roblox                         | USA            | Disponible              |       2.1  |              1.47 |       -6.39 |      6.94 |             0.44 | 2.76      |   43    | Descartar        | Pendiente revisión manual | buen cuerpo alcista. cierre lejos del maximo diario.                             |
+|      7 | BA.L     | BAE Systems                    | United Kingdom | Disponible              |       1.84 |              1.03 |       -2.24 |      3.39 |             0.68 | -2.13     |   38    | Descartar        | Pendiente revisión manual | cuerpo alcista reducido.                                                         |
+|      8 | MELI     | MercadoLibre                   | USA            | Disponible              |       1.25 |              1.54 |       -9.15 |      4.94 |             0.38 | 1.06      |   38    | Descartar        | Pendiente revisión manual | cuerpo alcista reducido. cierre lejos del maximo diario.                         |
+|      9 | CTSH     | Cognizant Technology Solutions | USA            | Disponible              |       1.33 |              1.29 |       -7.86 |      4.16 |             0.37 | N/A       |   31.11 | Descartar        | Pendiente revisión manual | cuerpo alcista reducido. cierre lejos del maximo diario. gap no disponible.      |
+|     10 | FICO     | Fair Isaac                     | USA            | Disponible              |       1.51 |              0.81 |       -3.59 |      5.16 |             0.29 | 2.94      |   28    | Descartar        | Pendiente revisión manual | cuerpo alcista reducido. volumen relativo debil. cierre lejos del maximo diario. |
 
 ## Revisión manual antes de operar
 
